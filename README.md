@@ -1,10 +1,5 @@
 # Feelings
 Capstone Project for DataScience UB
 
-- Notebook with code for Amerian tweets. Only the preprocessing step of the tweet is valid.
-- Dataset with Spanish tweets
-
-To read the Spanish tweets use
-```python
-df = pd.read_csv('tweets_public.csv', encoding='utf-16', index_col='tweet_id', sep=',')
-```
+Text Cleaning for BoW (Text cleaning steps to produce the Bag-Of-Words of the three sentiment categories)
+Text Cleaninf for Model (the same but omitting the plotting part and with an extra column called textFiltered to try the model)
