@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        
+        <title>Feelings Dashboard</title>
+        
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>  
+        <script src="script/PapaParse-4.4.0/papaparse.min.js"></script>
+        
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css" />
+        <link href="style/style.css" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <div class="btn-group btn-group-toggle" data-toggle="buttons">
+                      <label class="btn btn-secondary active" id="general">
+                        <input type="radio" name="options" autocomplete="off" id="general">general
+                      </label>
+                      <label class="btn btn-secondary" id="positive">
+                        <input type="radio" name="options" autocomplete="off">positivos
+                      </label>
+                      <label class="btn btn-secondary" id="negative">
+                        <input type="radio" name="options" autocomplete="off">negativos
+                      </label>
+                      <label class="btn btn-secondary" id="neutral">
+                        <input type="radio" name="options" autocomplete="off">neutros
+                      </label>                        
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-12 mapBox" id="mapid"></div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-6" id="pieChart"></div>
+                <div class="col-6" id="barChart"></div>                                     
+            </div>
+            <div class="row">
+                <div class="col-6" id="lineChartDate"></div>
+                <div class="col-6" id="lineChartTime"></div>                                     
+            </div>         
+        </div>
+              
+        <script src="script/data.js"></script>
+        <script src="script/charts.js"></script>
+        <script src="script/index.js"></script>
+    </body>
+</html>
