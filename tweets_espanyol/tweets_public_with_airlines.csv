@@ -1,0 +1,909 @@
+tweet_id,tweet_created,airline_sentiment,is_reply,reply_count,retweet_count,text,tweet_coord,tweet_location,user_timezone,newairline_sentiment,users,hashtags
+926857871916183553,2017-11-04 17:05:11,positive,True,0,0,"@iberia @lavecinarubia si ,por favor las declaraciones de amor entre los #rubijarena no pueden quedarse en una ma… ",,,,positive,iberia|lavecinarubia,rubijarena
+932856751099142144,2017-11-21 06:22:35,positive,False,0,0,"con @iberia, mi destino  un solo click. ¡deseadme suee! #holacolombia. hola 79 destinos europeos al mejor precio ",,,,neutral,iberia,holacolombia
+931611760829792256,2017-11-17 19:55:26,neutral,False,0,0,"con @iberia, mi destino  un solo click. ¡deseadme suee! #holaargentina. hola 79 destinos europeos al mejor precio ",,,,neutral,iberia,holaargentina
+941121849366368258,2017-12-14 01:45:08,positive,False,0,0,"iberia ampliará ofea de asientos  méxico, argentina  colombia #turismo #méxico",,,Mexico City,positive,,turismo|méxico
+937424103488843776,2017-12-03 20:51:37,negative,True,0,0,@iberia no te preocupes @iberia esperaré  que me toque algo en el #soeodenavidad #cmuoc ,,,Madrid,negative,iberia|iberia,soeodenavidad|cmuoc
+941366647897681922,2017-12-14 17:57:53,positive,False,0,0,90 años 🎂 muchos vuelos 🛫 ¡muchas felicidades! 😉 #iberia #90aniversario #flotaiberia #historia… ,,,Amsterdam,positive,,iberia|flotaiberia|historia
+936704685771317248,2017-12-01 21:12:54,negative,True,0,0,"@iberia ""arrojen sus maletas por aquí que no hay sitio dentro de la cabina"" #vayaputamierdade aerolinea ",,,,negative,iberia,vayaputamierdade
+923942886063988736,2017-10-27 16:02:04,positive,False,0,0,"selección de 100 #tripulantes de cabina, en #sevilla, #málaga, #granada... para la compañía #ryanair ",,,Madrid,positive,,tripulantes|sevilla|málaga|granada|ryanair
+934390882811416576,2017-11-25 11:58:41,negative,True,0,0,"@sninobecerra quizás sea sólo en compañias de prácticas éticas dudosas, como el ejemplo  usted pone de #ryanair",,,Paris,negative,sninobecerra,ryanair
+936524627664351232,2017-12-01 09:17:25,neutral,True,0,0,@ryanair #travelthursday alicante,,,,neutral,ryanair,travelthursday
+927201899434201088,2017-11-05 15:52:14,neutral,False,0,0,"#ahora | en breve pae @uruguay rumbo  varso para jugar el primer amistoso con polonia. vuelo de iberia, escal… ",,,,neutral,uruguay,ahora
+944417871899357185,2017-12-23 04:02:21,negative,False,0,0,"así fue el accidente del vuelo 5022 de spanair, el más letal en españa en  décadas #video ",,,Bogota,negative,,video
+944319999686184961,2017-12-22 21:33:27,positive,False,0,0,iberia express ofrece descuentos del 25% en sus vuelos utilizando el número del gordo de la lotería #jes #larazon,,,,positive,,jes|larazon
+927652461246058497,2017-11-06 21:42:36,neutral,True,0,0,@iberia #holaargentina ¡que nerviosssss  que ganas! 😍😍🍀❤️ @iberia #argentinaconiberia ,,,Amsterdam,neutral,iberia|iberia,holaargentina|argentinaconiberia
+933406044285521921,2017-11-22 18:45:17,neutral,True,0,0,@mad_c2 @iberia iba para madrid en el #ib3879 pero veíamos desde la terminal como el anterior no conseguía quedarse en tierra,,,Madrid,neutral,mad_c2|iberia,ib3879
+932936312092545026,2017-11-21 11:38:44,positive,False,0,0,"hay vuelos en #ryanair por tan solo ,99€  yo sin un puto duro para hacer un je  ningún sitio... #putamierdatodo",,,Greenland,positive,,ryanair|putamierdatodo
+933293332897206272,2017-11-22 11:17:24,neutral,False,0,0,iberia aumentará sus vuelos semanales de la ruta buenos aires-madrid en 2018 #notextanddrive ,,,Caracas,neutral,,notextanddrive
+943901927393423360,2017-12-21 17:52:10,neutral,False,0,0,#iberia soea la huelga en #navidad: no habrá paros en el prat en plena ‘operación salida’ ,,,,neutral,,iberia|navidad
+926444109342167040,2017-11-03 13:41:02,positive,False,0,0,menudo regalazo le hizo samsung  los pasajeros del vuelo de iberia con el #note8abordo ,,,,positive,,note8abordo
+927924836579627009,2017-11-07 15:44:55,positive,True,0,0,@iberia hola colombia! #holacolombia✋,,,Greenland,positive,iberia,holacolombia
+944417892933816321,2017-12-23 04:02:26,positive,True,0,0,@iberia gracias. mis afectos desde rd. #felicidades 🇩🇴🎄🤶🎅,,,Atlantic Time (Canada),positive,iberia,felicidades
+947076866841763840,2017-12-30 12:08:15,negative,True,0,0,"@iberia #iberia  esa vía continúan tomándome el pelo, me responden cualquier cosa sin leerme. tratamiento vergonzo… ",,,,negative,iberia,iberia
+933730197379174400,2017-11-23 16:13:21,neutral,True,0,0,@ryanair madrid #travelthursday,,,London,neutral,ryanair,travelthursday
+940632249149599744,2017-12-12 17:19:38,negative,False,0,0,pilotos amenazan con nuevas protestas en contra de ryanair en europa: #noticiasec,,,Quito,negative,,noticiasec
+948584152605057024,2018-01-03 15:57:40,negative,False,0,0,#noticiasevtv ¡impaciente! para sorpresa de sus compañeros de vuelo un pasajero de la línea ryanair decidió agarrar… ,,,Eastern Time (US & Canada),negative,,noticiasevtv
+947981533822021633,2018-01-02 00:03:04,neutral,False,0,0,"llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet - nuevo año, nuevos proyectos. en… ",,,Mexico City,neutral,,duelodemarcas
+935624076118384640,2017-11-28 21:38:57,positive,False,0,0,me encanta que lleven  #bloggers  mostrar destinos!! 💜🌎✈️ muy bien ahí @iberia! 👌👏 #travelblogger #blogdeje… ,,"Las Condes, Chile",Pacific Time (US & Canada),positive,iberia,bloggers|travelblogger|blogdeje
+936571920505561088,2017-12-01 12:25:21,neutral,False,0,0,miradas... 😍 @airbus #a346 “miguel servet” de @iberia en #t4s #lemd #felizviernes ,,,Madrid,neutral,airbus|iberia,lemd|felizviernes
+948583785339281410,2018-01-03 15:56:12,neutral,False,0,0,angeldelosrios juancanosur #ampliación🔴 el pasajero de #ryanair que trató en #málaga de bajar del avión por un ala… ,,,,neutral,,ampliación|ryanair|málaga
+927080509863317504,2017-11-05 07:49:52,neutral,True,0,0,@aena @ryanair @norwegian_es @easyjet @vueling algún vuelo #pamplona por favor ,,,Pacific Time (US & Canada),neutral,aena|ryanair|norwegian_es|easyjet|vueling,pamplona
+923870829141811202,2017-10-27 11:15:45,negative,False,0,0, quién se le puede reclamar por este retraso? había pensado ir  la ventanilla de iberia... #duiarv ,,,,negative,,duiarv
+935697859718074369,2017-11-29 02:32:08,negative,True,0,0,@vitnoriega @solenelnoe @iberia @iberiaplus quien es el #flipao este de la tabla de surf? @solenelnoe iberia no… ,,,Greenland,negative,vitnoriega|solenelnoe|iberia|iberiaplus|solenelnoe,flipao
+941080533836103680,2017-12-13 23:00:58,neutral,False,0,0,feliz cumpleaños @iberia .  seguir volando bien alto. #90aniversarioiberia #megustavolar… ,,,Madrid,neutral,iberia,megustavolar
+932542775760965632,2017-11-20 09:34:58,neutral,False,0,0,"ryanair, easyjet  vueling dominan el tráfico aéreo hacia españa. #negocios #turismo",,"Madrid, Comunidad de Madrid",Madrid,neutral,,negocios|turismo
+940931750452191234,2017-12-13 13:09:45,neutral,False,0,0,todo el pasaje del vuelo #ib3723 de @iberia del lunes 11 de diciembre tirados en el aeropueo de amsterdam durante… ,,,Madrid,neutral,iberia,ib3723
+931039127062978560,2017-11-16 06:00:00,neutral,False,0,0,[#video] iberia  su propuesta para ‘capturar’  los turistas premium del perú ,,,Lima,neutral,,video
+933082125913423872,2017-11-21 21:18:09,neutral,False,0,0,saldrá  tiempo???  mejor dicho llegará  tiempo?? #misionimposible #bilbao - #malaga @vueling @iberia,,"Loiu, España",Madrid,neutral,vueling|iberia,misionimposible|bilbao|malaga
+927486859479076864,2017-11-06 10:44:33,negative,False,0,0,hola @iberia vamos  llevarnos bien por 12 horas... #exilio #work ,,"Aeropuerto, Madrid",Madrid,negative,iberia,exilio|work
+923145096576499713,2017-10-25 11:11:56,positive,False,0,0,retweeted el comercio (@elcomerciodigit): 🛫 #ryanair reclutará en oviedo  nuevos tripulantes de cabina... ,,,Madrid,positive,elcomerciodigit,ryanair
+923232118288809984,2017-10-25 16:57:44,negative,False,0,0,famoso @iberia por sus desastres en #servicioalcliente en mi caso me hizo perder una impoante conferencia por can… ,,,Central America,negative,iberia,servicioalcliente
+927247998094110721,2017-11-05 18:55:24,positive,False,0,0, buscar frío!!! #palnoe #muchneeded #iberia #desuranoe #breveescala #terminal4 #airpos… ,,,Greenland,positive,,palnoe|muchneeded|iberia|desuranoe|breveescala|terminal4|airpos
+932916821463912448,2017-11-21 10:21:17,positive,False,0,0,#sociedad | ryanair ofrece hoy cien mil billetes desde  euros para volar en enero desde alicante… ,,,,positive,,sociedad
+927509414281646080,2017-11-06 12:14:11,positive,True,0,0,@iberia #holaargentina. je con usyedes  la experiencia estuvo buenisima. espero repetirla,,,,positive,iberia,holaargentina
+931517679789277184,2017-11-17 13:41:36,negative,True,0,0,@rosendochv @aicm_mx tripulación del vuelo por @iberia 6409 de #mad  #mex atrapados en el aeropueo de querétaro… ,,,,negative,rosendochv|aicm_mx|iberia,mad|mex
+947005840351006725,2017-12-30 07:26:01,positive,False,0,0,"ganas de probar #iberia en vuelos intercontinentales, mientras tanto he decir que #qatar airways es, con diferencia… ",,,Greenland,positive,,iberia|qatar
+941356606884909056,2017-12-14 17:17:59,negative,False,0,0,📆 título de #efeméride: hoy hace 90 años que despegó por primera vez un avión de @iberia ¡gracias por tantas décadas haciéndonos volar! ✈️🌍,,,Pacific Time (US & Canada),negative,iberia,efeméride
+948667800029102081,2018-01-03 21:30:03,negative,True,0,0,@ryanair con retraso como siempre #vuelofr5447 mar-mad ,,,Brasilia,negative,ryanair,vuelofr5447
+945851715705888769,2017-12-27 02:59:56,neutral,False,0,0,#yoveoshowdegoles faltó el gol olímpico de serena  coquimbo en el ranking de los goles /:fuerza para iberia!,,,,neutral,,yoveoshowdegoles
+930902113735102469,2017-11-15 20:55:33,negative,False,0,0,primer vuelo de mi vida perdido gracias  la ayuda de @ryanair @ryanairflights #worstflightcompany,,,Athens,negative,ryanair|ryanairflights,worstflightcompany
+935074599359918080,2017-11-27 09:15:31,negative,True,0,0,"@iberiaexpress llevo desde ayer intentando comprar un billete en la web de #iberiaexpress al ver que no va, llamo … ",,,Madrid,negative,iberiaexpress,iberiaexpress
+932976868248211457,2017-11-21 14:19:53,positive,False,0,0,#ryanair lanza vuelos  cinco euros por el #blackfriday ,,,,positive,,ryanair|blackfriday
+934094297166643200,2017-11-24 16:20:09,neutral,False,0,0,"el conjunto megalítico de mulisko gaina, urnieta: #prehistoria #historia #muliskogaina… ",,,Madrid,neutral,,prehistoria|historia|muliskogaina
+933333381462577153,2017-11-22 13:56:33,negative,False,0,0,hoy el #coroabieo ha paicipado en la clausura de los premios foro justi  discapacidad del @poderjudiciales ,,,,negative,poderjudiciales,coroabieo
+926111792715182081,2017-11-02 15:40:32,neutral,False,0,0,ryanair lanza ofea de fin de semana de vuelos para indepes  25€  bruselas. solo je de ida #catalunya,,,,neutral,,catalunya
+935962107589398528,2017-11-29 20:02:10,positive,False,0,0,#iberiaexpress lanza una ofea de billetes  € ,,,,positive,,iberiaexpress
+933950446317731840,2017-11-24 06:48:33,neutral,False,0,0," #eldespearliberal mira al cielo: ""lufthansa contra ryanair: la gran batalla aérea"". (@expansioncom). con… ",,,Pacific Time (US & Canada),neutral,expansioncom,eldespearliberal
+934091934989258753,2017-11-24 16:10:46,neutral,False,0,0,en #3cat10 tres paidazos para mañana. @fccanbuxeres  @cfaespluguenc   las   una hora más tarde el… ,,,Amsterdam,neutral,fccanbuxeres|cfaespluguenc,3cat10
+936571527402807296,2017-12-01 12:23:47,negative,False,0,0,#buenviernes porque? estamos como en 1982 ● nos interesa  nos venden más: el soeo del mundial de rusia que ● … ,,,,negative,,buenviernes
+940705121784225793,2017-12-12 22:09:13,neutral,False,0,0,#irlanda | pilotos de aerolínea #ryanair iniciaron huelga por mejores remuneraciones salariales… ,,,Caracas,negative,,irlanda|ryanair
+948963867652165632,2018-01-04 17:06:31,neutral,False,0,0,"#iag 2017 pasajeros: +.%. iag transpoó  104, millones de pasajeros el pasado año, lo que supone un aumento an… ",,,,neutral,,iag
+941072763955109888,2017-12-13 22:30:05,negative,False,0,0,que bien volver de vacaciones  que @iberia @iberiaexpress te pierdan tu maleta. #felicidad,,,Madrid,negative,iberia|iberiaexpress,felicidad
+935196398479396864,2017-11-27 17:19:31,neutral,False,0,0,queremos agradecer  #just😀iberia los tratamientos que hicieron gratis  las mujeres socias  familiares el sábado… ,,,,neutral,,just
+926894893548621824,2017-11-04 19:32:18,neutral,False,0,0,"hay otros #ryanair . están en las costas griegas, libias, almerienses.  tú con quién ""vuelas""?",,,,neutral,,ryanair
+941624247046361088,2017-12-15 11:01:29,negative,False,0,0,los @pilotos ganan: #ryanair acepta que existe la representación laboral vía @hosteltur @sepla_pilotos,,,Madrid,negative,pilotos|hosteltur|sepla_pilotos,ryanair
+927967580412956672,2017-11-07 18:34:46,positive,True,0,0,@iberia #holacolombia seria la mejor sorpresa que le puedo dar  mi abuela! llevarle  sus bisnietas,,,,positive,iberia,holacolombia
+946142475890188288,2017-12-27 22:15:19,neutral,False,0,0,#pongamonosserios bajo  . wanders  subió la calera bajo  segunda división iberia  subió vallenar  melipilla… ,,"Cerrillos, Chile",,neutral,,pongamonosserios
+948265609040719873,2018-01-02 18:51:53,negative,False,0,0,sucedió en un vuelo de #ryanair: abre la puea de emergencia en un #londres-#málaga  intenta bajar por el ala. lo… ,,,,negative,,ryanair|londres|málaga
+927992441684332544,2017-11-07 20:13:34,neutral,True,0,0,@iberia #holacolombia no conozco  rico  me invitaran jajajaja,,,,neutral,iberia,holacolombia
+925077354900312064,2017-10-30 19:10:03,positive,False,0,0,vaya detallazo el de samsung con estos pasajeros de iberia... ¡un teléfono de altos vuelos! #note8abordo ,,,Madrid,positive,,note8abordo
+937069333821448192,2017-12-02 21:21:53,negative,False,0,0,esta es la nota del vuelo #iberia 6841 en el que jábamos ayer: un avión que iba  argentina aterriza en tenerif… ,,,Buenos Aires,negative,,iberia
+945994850062815232,2017-12-27 12:28:42,positive,False,0,0,con lo bien que funciona @iberia  lo lamentable que es el servicio de @british_airways en el #checkin de… ,,,London,positive,iberia|british_airways,checkin
+926073163540246533,2017-11-02 13:07:02,positive,False,0,0,que suee tuvieron los pasajeros de este vuelo de iberia que recibieron un samsung galaxy note  #note8abordo ,,,Greenland,positive,,note8abordo
+926237099250069504,2017-11-02 23:58:27,positive,True,0,0,@iberia @laupaybra #holaargentina me encantaría conocee,,,Madrid,positive,iberia|laupaybra,holaargentina
+940980597987643392,2017-12-13 16:23:51,negative,False,0,0,cuando pagas ventana en #ryanair  la mierda del cristal te tapa las vistas #putabida ,,,Madrid,negative,,ryanair|putabida
+937395361840328706,2017-12-03 18:57:24,negative,True,0,0,"@mosesspain no sólo ryanair, los demás también se han vuelto igual de miserables...aún así #raynair #nomore",,,,negative,mosesspain,raynair|nomore
+948871522587947008,2018-01-04 10:59:34,neutral,False,0,0,"iag, el grupo de iberia  vueling, compra la austriaca niki que estaba en quiebra : | #thexfiles #7vecessí",,,Athens,neutral,,thexfiles|7vecessí
+935696363999899648,2017-11-29 02:26:12,positive,False,0,0,"veo el comercial de iberia de hola europa, hola colombia,  me encanta porque todo lo conozco. 💕 #insuperable #4ever 😂😆☺",,,Pacific Time (US & Canada),positive,,insuperable|4ever
+935940600188293121,2017-11-29 18:36:42,negative,False,0,0,"vuelo madrid-vigo de @iberia , vaya mierda de organización.... 😤 #estapasando",,,,negative,iberia,estapasando
+947399874571591680,2017-12-31 09:31:46,negative,False,0,0,"sabiendo que #budapest es aeropueo donde roban en maletas, @iberia debería adoptar medidas  no obligar  dejar equipaje mano en bodega!",,,Athens,negative,iberia,budapest
+938414577364164608,2017-12-06 14:27:24,negative,False,0,0,"así jamos en @iberia #iberia 3h así... un poco justitos, ¿no? ",,,Madrid,negative,iberia,iberia
+933429588474187781,2017-11-22 20:18:50,positive,False,0,0,"soñar no cuesta nada *yo viendo las promociones del #blackfriday en ryanair, tap, iberia, klm",,,Lisbon,positive,,blackfriday
+937095074252541953,2017-12-02 23:04:10,neutral,False,0,0,"#marketing maa ríos, de la dirección de marketing  la dirección general de adidas iberia ",,,Madrid,neutral,,marketing
+933764943085699073,2017-11-23 18:31:25,negative,True,0,0,@ryanair #travelthursday madrid!,,,London,negative,ryanair,travelthursday
+940925721903591424,2017-12-13 12:45:48,positive,False,0,0,"#lucía, la azafata de @iberia que inspiró  #serrat ",,"Sevilla, España",Madrid,positive,iberia,lucía|serrat
+937357902532276225,2017-12-03 16:28:33,neutral,False,0,0,ryanair garante que só contrata tripulantes de cabine qualificados # jornal economico - economia #finanças ,,,Kyiv,neutral,,finanças
+942643811083325440,2017-12-18 06:32:52,negative,False,0,0,cómo hubiésemos agradecido el grupo de #atrapadosencolonia esa cola kilométrica de información por pae de… ,,"Palma, España",Madrid,negative,,atrapadosencolonia
+927673610336133120,2017-11-06 23:06:38,positive,False,0,0,#otgala2 las azafatas de ryanair  virgin,,,Madrid,positive,,otgala2
+950438038106247168,2018-01-08 18:44:21,negative,False,0,0,"😂😂😂 qué paveros los de @ryanair! #siempremejorando dicen, mientras siguen en su escalada de monopolizar  restar se… ",,,Madrid,negative,ryanair,siempremejorando
+940612482258931712,2017-12-12 16:01:06,negative,False,0,0,los pilotos de #ryanair amenazan con una huelga para #navidad en los vuelos  dublín ,,,London,negative,,ryanair|navidad
+936274748249706501,2017-11-30 16:44:29,neutral,True,0,0,@ryanair #travelthursday alicante ✈️ ,,,,neutral,ryanair,travelthursday
+924037184730157056,2017-10-27 22:16:47,negative,True,0,0,@larazon_es pues te compras un billete de #iberia  dejas de hacer el miserable,,,Madrid,negative,larazon_es,iberia
+940915682094526464,2017-12-13 12:05:54,negative,False,0,0,"estafa de @ryanair #ryanairflights, el  de diciembre cayó el sistema de @ryanair haciendo imposible hacer el che… ",,,Hawaii,negative,ryanair|ryanair,ryanairflights
+942833254167711744,2017-12-18 19:05:39,positive,False,0,0,barómetro #business: iberia (57%)  vueling (61%) son las compañías aéreas más utilizadas en los #jes de… ,,,,positive,,business|jes
+944939998834458624,2017-12-24 14:37:06,negative,False,0,0," albeo, @iberia le perdió la valija. #testimonios 👇🏻 ",,,Santiago,negative,iberia,testimonios
+926154221375971328,2017-11-02 18:29:08,positive,True,0,0,@iberia #holaargentina 🌎quiero volar con iberia!,,,,positive,iberia,holaargentina
+930501527600541703,2017-11-14 18:23:46,positive,False,0,0,"#holacolombia , hace mucho tiempo sigo  @iberia , algun dia volare con ustedes  europa , tierras magica  de ensu… ",,,,positive,iberia,holacolombia
+936290174241312768,2017-11-30 17:45:47,neutral,True,0,0,@ryanair fueeventura #travelthursday,,,Hawaii,neutral,ryanair,travelthursday
+944137511588245504,2017-12-22 09:28:18,neutral,False,0,0,la huelga de pilotos de ryanair tiene pocas repercusiones en alemania #mercados,,,West Central Africa,neutral,,mercados
+932972222712504320,2017-11-21 14:01:26,negative,False,0,0,enhorabuena  #ryanair por los dos días fantásticos que llevan en el aeropueo de #scq. muy profesional el persona… ,,,Greenland,negative,,ryanair|scq
+927926606978519040,2017-11-07 15:51:57,negative,False,0,0," volar con @iberia ... ae, cultura  gastronomía... #españa  sus indescriptibles ciudades... la puea para con… ",,,,negative,iberia,españa
+942402710267187201,2017-12-17 14:34:49,neutral,True,0,0,@iberia #holaeuropa. ya nos veremos. ,,,Bogota,neutral,iberia,holaeuropa
+945518804330692608,2017-12-26 04:57:04,negative,True,0,0,@fitur_madrid #tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos que … ,,,Pacific Time (US & Canada),negative,fitur_madrid|iberia,tipicodenavidad
+926651067965853696,2017-11-04 03:23:25,positive,True,0,0,@iberia #holaargentina puede ser al revés  que me lleven  españa? los amaría tanto como ganar el concurso💖💖💖,,,Santiago,positive,iberia,holaargentina
+949044642485559296,2018-01-04 22:27:29,negative,False,0,0,#ahora en #ryanair embarcando en el vuelo de las 19:46 de #sevilla  #barcelona  las 23:46 @ryanair_es #pesimo #servicio,,,Madrid,negative,ryanair_es,ahora|ryanair|sevilla|barcelona|pesimo|servicio
+936067281175621638,2017-11-30 03:00:05,positive,False,0,0,"no busques, vive  encontrarás ☺️ #ryanair #milan ",,,Greenland,positive,,ryanair|milan
+931494520402972672,2017-11-17 12:09:34,neutral,False,0,0,ryanair lanza las ‘tarjetas regalo’ para empresas. #acionaldia ,,,Pacific Time (US & Canada),neutral,,acionaldia
+948694285637050369,2018-01-03 23:15:18,neutral,True,0,0,@aeroasturias @volotea @turismoasturias resumiendo: 1º- @volotea_es @volotea nos vacilo  todos los #asturianos co… ,,"Oviedo, España",Madrid,neutral,aeroasturias|volotea|turismoasturias|volotea_es|volotea,asturianos
+933257765296001024,2017-11-22 08:56:04,neutral,False,0,0,quedará algún #billete  estas alturas....?🧐 ,,,Madrid,neutral,,billete
+930502505074749440,2017-11-14 18:27:39,neutral,True,0,0,@iberia #holacolombia 🙌🏻sueño con conocer la magia de europa!!! algun dia volare con ustedes 💃🇪🇸,,,,neutral,iberia,holacolombia
+935473040443564032,2017-11-28 11:38:47,negative,False,0,0,abrir una única conexión @ryanair #vll - #svq  que el acceso por transpoe público al #aeropueova no coincida … ,,,,negative,ryanair,vll|svq|aeropueova
+930326642681106433,2017-11-14 06:48:50,neutral,True,0,0,@iberia #holacolombia✋ ojalá lo gane,,,Central Time (US & Canada),neutral,iberia,holacolombia
+926893391589335042,2017-11-04 19:26:20,neutral,False,0,0,"comentario en escribe tu relato de noviembre (): la reina de baile panameño, gioanni ostia por karla iberia…… #re…",,,Madrid,neutral,,re
+943129195038887938,2017-12-19 14:41:37,neutral,True,0,0,"@iberia felicidades, pero ¿ algún siglo con un a380  solo tiene derecho ba? #pregunta",,,Madrid,neutral,iberia,pregunta
+926509718478213120,2017-11-03 18:01:45,positive,True,0,0,@iberia #holaargentina 🌍 quiero jarr 😊,,,,positive,iberia,holaargentina
+942322403333562368,2017-12-17 09:15:43,positive,False,0,0,no hay nada como unas galletas de palencia para acompañar @iberia #aguilardecampoo ,,,Athens,positive,iberia,aguilardecampoo
+946465299536187392,2017-12-28 19:38:06,positive,False,0,0,en mitad de un vuelo... el comandante de #ryanair comunica que el aeropueo de destino ha sido cancelado  una hue… ,,,,positive,,ryanair
+930301682579320832,2017-11-14 05:09:39,positive,False,0,0,#holacolombia ✋ ya te sigo @iberia ,,,Caracas,positive,iberia,holacolombia
+947785556490178560,2018-01-01 11:04:20,positive,True,0,0,"@aemet_sinobas nos mueve la pasión por volar , gracias #iberia🌜✈️. foto/ @lebribri (francia) ",,,,positive,aemet_sinobas|lebribri,iberia
+925075566067318784,2017-10-30 19:02:56,neutral,False,0,0,nuevo en la web de la fprz: exposición centenario iberia: gracias  pz “la convivencia” #realzaragoza,,,Madrid,neutral,,realzaragoza
+933489950053621762,2017-11-23 00:18:42,positive,False,0,0,aunque ud. no lo crea 👉🏻 así se ja en la primera de @iberia ! 💺😍✈️ #holaiberia #holaaunanuevaiberia ,,"Ciudad Autónoma de Buenos Aires, Argentina",Buenos Aires,positive,iberia,holaiberia|holaaunanuevaiberia
+943122113044631552,2017-12-19 14:13:28,negative,False,0,0,#ryanair deja tres horas en zaragoza  la gente tirada  todavía dice que cumple la normativa. vergonzoso es poco.,,,,negative,,ryanair
+927240347893338112,2017-11-05 18:25:00,neutral,False,0,0,#holaargentina 🌎 ¡haz   síguenos  entrarás en el soeo de un je de largo radio para ! ✈️ @iberia ,,,Belgrade,neutral,iberia,holaargentina
+923154321080012802,2017-10-25 11:48:36,positive,False,0,0,#nosardinasenlata @vueling  @iberia deberían aprender de american airlines. asiento de delante reclinado  mis pie… ,,,Pacific Time (US & Canada),positive,vueling|iberia,nosardinasenlata
+948574693879140354,2018-01-03 15:20:05,neutral,False,0,0,#miquiosco_com pasajero impaciente intenta saltar por el ala de un avión [video] ,,,Quito,neutral,,miquiosco_com
+948840614392713216,2018-01-04 08:56:45,negative,False,0,0,"#tirados en #elprat. avión de #level , @iberia retrasado constantemente primero dos  ahora tres horas. sin explicaciones. penoso.",,,,negative,iberia,tirados|elprat|level
+946509662341554176,2017-12-28 22:34:23,negative,True,0,0,@iberia @iberiaexpress especialistas en dejae tirado en navidad!😢 #novuelesconiberia #nuncamais #iberia #fraude… ,,,,negative,iberia|iberiaexpress,novuelesconiberia|nuncamais|iberia|fraude
+941478735185883136,2017-12-15 01:23:16,neutral,False,0,0,la nueva política de equipajes de ryanair entrará en vigor el próximo 15 de enero #enero #entrará #equipajes,,,Central Time (US & Canada),neutral,,enero|entrará|equipajes
+923278503092588545,2017-10-25 20:02:03,neutral,False,0,0,ryanair reclutará en españa 100 nuevos tripulantes de cabina para toda europa #laranagaspar,,,Pacific Time (US & Canada),neutral,,laranagaspar
+940684003694338048,2017-12-12 20:45:18,neutral,True,0,0,@dinkyjeros @elmundook @seatguru @emirates jajaja yo para que voy  mirar los de @ryanair #jeschat ( similares 😂),,,Pacific Time (US & Canada),neutral,dinkyjeros|elmundook|seatguru|emirates|ryanair,jeschat
+936223294977691648,2017-11-30 13:20:02,positive,True,0,0,@ryanair fueeventura!!! #travelthursday ✈️🛩🌞🌍🏝,,,Madrid,positive,ryanair,travelthursday
+943063624796573696,2017-12-19 10:21:04,negative,False,0,0,iberia  otras nueve compañías cancelan vuelos  turquía por descenso turismo. #zdigital ,,,La Paz,negative,,zdigital
+943109180797345792,2017-12-19 13:22:05,negative,False,0,0,"#sociedad / ryanair  vueling,  la cabeza de los retrasos en los aeropueos ","[43.248521, -2.947576]","Bilbao, España",Madrid,negative,,sociedad
+941597645050732544,2017-12-15 09:15:47,negative,False,0,0,#aytalento #lasubcontrata #aitalento poada - no parecía que este momento fuera  llegar pero hoy ha sucedido. el… ,,,Pacific Time (US & Canada),negative,,aytalento|lasubcontrata|aitalento
+943956297036288000,2017-12-21 21:28:13,positive,False,0,0,tres niños pequeños gritando  llorando no van  poder conmigo. #enjoyingtheflight #sunset &amp; #gintonic couesy of… ,,"Vienna, Austria",London,positive,,enjoyingtheflight|sunset|gintonic
+926115943083896834,2017-11-02 15:57:01,negative,True,0,0,@aerolineas_ar  el #cybermonday de este año? muy  debajo del año pasado! tendré que seguir volando por iberia! una lastima..,,"Ciudad Autónoma de Buenos Aires, Argentina",Buenos Aires,negative,aerolineas_ar,cybermonday
+941632887950069760,2017-12-15 11:35:49,positive,True,0,0,@gonzalo_rm78 @ryanair creo que ya no vale sosio (#travelthursday) 🙄🙄😌😂😂😂😘,,,Athens,positive,gonzalo_rm78|ryanair,travelthursday
+937709574672601088,2017-12-04 15:45:59,negative,False,0,0,italia abre expediente  ryanair por no informar de los derechos tras una cancelación #noticias #feedly,,,Pacific Time (US & Canada),negative,,noticias|feedly
+941298433742303232,2017-12-14 13:26:49,neutral,True,0,0,@ryanair #travelthursday berlinnnnnnnnnn. dedos cruzados,,,Madrid,neutral,ryanair,travelthursday
+934032248235614208,2017-11-24 12:13:36,neutral,False,0,0,selfie loco pero ¿podría ser real? danos tu opinión  continuación 👇🏻 sigue  👉🏻 @lolapordios #selfieforseb… ,,,Pacific Time (US & Canada),neutral,lolapordios,selfieforseb
+941662596947759105,2017-12-15 13:33:53,neutral,True,0,0,@ryanair fuee ventura #travelthursday,,,Greenland,neutral,ryanair,travelthursday
+944272564930732032,2017-12-22 18:24:57,negative,False,0,0,los vuelos de #iberia los hace #level ?? #revolución !! @tanaflying ,,,Buenos Aires,negative,tanaflying,iberia|level|revolución
+941402148016975872,2017-12-14 20:18:57,positive,True,0,0,@iberia feliz cumpleaños #iberia ,,,Madrid,positive,iberia,iberia
+927946875021479937,2017-11-07 17:12:30,positive,False,0,0,"retweeted iberia (@iberia): di #holacolombia ✋ haz , síguenos, ¡ entrarás en el #soeo de un je para !... ",,,Bogota,positive,iberia,holacolombia|soeo
+927888598367686656,2017-11-07 13:20:55,negative,False,0,0,que desastre!! #luggagedamaged #iberia ,,,,negative,,luggagedamaged|iberia
+948826795641581568,2018-01-04 08:01:51,negative,False,0,0, así se bajó un pasajero de ryanair hao de esperar para desembarcar #tech #news,,,Santiago,negative,,tech|news
+930223802050600961,2017-11-14 00:00:11,positive,False,0,0,#holacolombia  hola  la nueva @iberia. los que nos entienden  quienes nos encanta jar.,,,Caracas,positive,iberia,holacolombia
+926079704712564736,2017-11-02 13:33:01,neutral,False,0,0,¿te has enterado ya? samsung regaló un #note8abordo  casi 200 pasajeros de un vuelo de iberia ,,,Madrid,neutral,,note8abordo
+940556828534083584,2017-12-12 12:19:57,negative,False,0,0,#esnoticia los empleados de iberia en el prat convocan una huelga entre el 21  el 24 de diciembre @agenttraveles ,,,,negative,agenttraveles,esnoticia
+927276475103039493,2017-11-05 20:48:34,neutral,False,0,0,el @iberia procedente de madrid nos traía hoy arcoiris al @aeropueo_lcg #acoruña ,,,London,neutral,iberia|aeropueo_lcg,acoruña
+941307697038839809,2017-12-14 14:03:38,negative,False,0,0,ryanair convoca huelga en las navidades #turismo ,,,,negative,,turismo
+948646532194107392,2018-01-03 20:05:32,negative,True,0,0,@ryanair una hora de retraso para embarcar de opoo  madrid sin ninguna explicación? os pasáis muy mucho #ryanair se luce,,,Athens,negative,ryanair,ryanair
+930914188075073538,2017-11-15 21:43:32,negative,False,0,0,tripulación de cabina ryanair - valencia. sin experiencia. - (todo país) #empleo #trabajo #valencia,,,Madrid,negative,,empleo|trabajo|valencia
+934550582043521025,2017-11-25 22:33:16,positive,False,0,0,vuelo en #ryanair ... grandes @unpinguino @hoeralia esto es muy bueno #caceres #yosoyhoera ,,"Cáceres, España",Greenland,positive,unpinguino|hoeralia,ryanair|caceres|yosoyhoera
+940930211075551232,2017-12-13 13:03:38,neutral,False,0,0,"#marketing mariana díez, directora de marketing de quilosa-selena iberia ",,,Madrid,neutral,,marketing
+924945955501244416,2017-10-30 10:27:55,negative,True,0,0,"@henkuai #spainchinaproject director de comunicación de @iberia: “con nuestros 25 vuelos semanales  china, todavía perdemos dinero”",,,,negative,henkuai|iberia,spainchinaproject
+946324884296171520,2017-12-28 10:20:08,neutral,False,0,0,iberia busca técnicos de mantenimiento para trabajar en #madrid  #barcelona #empleo ,,,Madrid,neutral,,madrid|barcelona|empleo
+924948118264844288,2017-10-30 10:36:30,neutral,False,0,0,aerolínea #iberia estrenará dos #rutas para #américa en verano de 2018: ,,,Belgrade,neutral,,iberia|rutas|américa
+926792519207174146,2017-11-04 12:45:30,positive,False,0,0,estrenando compañía  ruta!! ✈️👌🏻🌁 #flylevel #iberia #ilovemyjob ,,,Madrid,positive,,flylevel|iberia|ilovemyjob
+945510733248217088,2017-12-26 04:25:00,negative,True,0,0,@leos #tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos que no estoy… ,,,Pacific Time (US & Canada),negative,leos|iberia,tipicodenavidad
+932730084422766592,2017-11-20 21:59:16,neutral,True,0,0,@ryanair #ryanairinflight pues oye... 🙄,,,Madrid,neutral,ryanair,ryanairinflight
+941675308201271298,2017-12-15 14:24:23,neutral,False,0,0,"""ryanair cede  reconocerá  los sindicatos"" #noticias",,,Madrid,neutral,,noticias
+944345070211424256,2017-12-22 23:13:04,negative,False,0,0,faltan más de 12 hs para un vuelo que tengo que tomar de #madrid  méxico. intenté solicitar menú vegetariano  la… ,,,Buenos Aires,negative,,madrid
+938047386819223552,2017-12-05 14:08:19,negative,False,0,0,nuestras montañas... con @iberia #paraísonatural ,,,Madrid,negative,iberia,paraísonatural
+943040778988900352,2017-12-19 08:50:17,negative,True,0,0,"@donostiair @iberia @airnostrumlam no vuelvo  coger avión  #donostia, reubicados en el de bilbo, autobús  llegada  la 1am.",,,Madrid,negative,donostiair|iberia|airnostrumlam,donostia
+931606439331876864,2017-11-17 19:34:18,neutral,True,0,0,@iberia #holaargentina no gane nada 😥,,,,neutral,iberia,holaargentina
+941342024464257024,2017-12-14 16:20:02,positive,True,0,0,"@miturelsalvador #ministroduae hemos logrado posicionar  el salvador como un destino atractivo, revistas especia… ",,,Pacific Time (US & Canada),positive,miturelsalvador,ministroduae
+941366482159751173,2017-12-14 17:57:13,neutral,True,0,0,@iberia #cumpleañosfeliz daniela. gran detalle del@personal de vuelo al felicitar  una pasajera 👌vuelo ib522,,,,neutral,iberia|personal,cumpleañosfeliz
+941598645568274433,2017-12-15 09:19:45,neutral,False,0,0,ación ryanair - ryanair reconocerá  los sindicatos de pilotos para evitar huelgas #fb,,,America/Barbados,neutral,,fb
+940918294063779840,2017-12-13 12:16:17,neutral,False,0,0,¡te esperamos #afcolegiados! ,,,Athens,neutral,,afcolegiados
+927406014944677888,2017-11-06 05:23:18,negative,False,0,0,hola @ryanair @ryanair_es la política de 90 maletas  bordo genial pero si la selección no fuese aleatoria seria mejor  más justo #ryanair,,"El Prat de Llobregat, España",Madrid,negative,ryanair|ryanair_es,ryanair
+925117833792704512,2017-10-30 21:50:54,positive,False,0,0,"eajpnv:  gorka__uaran: mañana en #foronda, vuelos  bérgamo, tenerife sur  colonia. #vitoriagasteiz en marcha… ",,,Madrid,positive,,foronda|vitoriagasteiz
+933841001034190849,2017-11-23 23:33:39,negative,False,0,0,"gracias  @iberia   su deleznable trato  residentes #melilla,mañana no podré jar.pensé que había comprado un… ",,,,negative,iberia,melilla
+947879006971613189,2018-01-01 17:15:40,neutral,False,0,0,"#marketing llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet - nuevo año, nuevos proyectos. … ",,,,neutral,,marketing|duelodemarcas
+936322353608511488,2017-11-30 19:53:39,positive,True,0,0,@ryanair alicante #travelthursday,,,,positive,ryanair,travelthursday
+937323043923349504,2017-12-03 14:10:02,neutral,False,0,0,vuelo  alguer con ryanair #italia ,,,Madrid,neutral,,italia
+948559202527731714,2018-01-03 14:18:31,negative,False,0,0,un pasajero de ryanair desembarca por la puea de emergencia #fb,,,America/Barbados,negative,,fb
+943031230924316673,2017-12-19 08:12:20,positive,False,0,0,"vuelta  casa!! ,  #tenerife #teide🌋 ryanair en pico del teide 3718mt ","[28.4380525, -16.3998475]","El Sauzal, España",Madrid,positive,,tenerife|teide
+928559153454469120,2017-11-09 09:45:28,neutral,True,0,0,@iberia #hola argentina,,,Buenos Aires,neutral,iberia,hola
+932568983206842368,2017-11-20 11:19:06,neutral,False,0,0,"#alicante ryanair rebaja un 15% sus precios desde alicante con motivo del ""black friday"" ",,,,neutral,,alicante
+932935504273772544,2017-11-21 11:35:31,neutral,False,0,0,"ryanair lanza ofeas para volar  destinos como pisa, bolonia  marsella por € #blackfriday ",,,Mexico City,neutral,,blackfriday
+933478969290231808,2017-11-22 23:35:04,neutral,False,0,0,"el a330 de iberia de hoy estuvo en santo domingo, tokio  johannesburgo #anli",,,Central Time (US & Canada),neutral,,anli
+947630451727970304,2018-01-01 00:48:00,positive,True,0,0,@iberia gracias por vuestra atención  #feliz2018 😘😘,,,Madrid,positive,iberia,feliz2018
+934516985844682757,2017-11-25 20:19:46,negative,False,0,0, ya va una hora de retraso con @iberia ... desde luego... 😤 ¡qué hambreeeeee!!! jooooo... #valencia parece taaaan lejoooos... 🤦🏽‍♀️,,,Madrid,negative,iberia,valencia
+923158101766832128,2017-10-25 12:03:37,neutral,False,0,0, #navarra ryanair seleccionará nuevos tripulantes de cabina en málaga el 10 de noviembre ,,,Madrid,neutral,,navarra
+923589619110817793,2017-10-26 16:38:19,positive,False,0,0,la sonrisa del personal de #vueling hace que tu je sea maravilloso. nada que ver con #ryanair. serán las políticas de empresa.,,,,positive,,vueling|ryanair
+927649271968563200,2017-11-06 21:29:55,neutral,True,0,0,@iberia #hola argentina,,,,neutral,iberia,hola
+924948097041686529,2017-10-30 10:36:25,positive,True,0,0,@henkuai #spainchinaproject @juancierco de @iberia tiene un mensaje claro: iberia apuesta por china pero necesita el apoyo de todos!,,,Madrid,positive,henkuai|juancierco|iberia,spainchinaproject
+942701051572117504,2017-12-18 10:20:19,negative,False,0,0,el caos de iberia #munichalpesaustriacos #travel ( +60 destinos en chavetas),,,Madrid,negative,,munichalpesaustriacos|travel
+934324280715894784,2017-11-25 07:34:02,negative,False,0,0,"siempre la misma excusa de siempre de ""se ha roto una ventana"". sois unos sinvergüenzas @ryanair @ryanair_es #timonair",,,,negative,ryanair|ryanair_es,timonair
+943068396765286400,2017-12-19 10:40:01,neutral,False,0,0,los trabajadores de tierra de #ryanair en españa no irán ... ,,,Pacific Time (US & Canada),neutral,,ryanair
+950380748456038400,2018-01-08 14:56:42,negative,False,0,0,#iberia te facilita un número de teléfono para los equipajes  si no han pasado 24 horas ni si quiera se ponen al … ,,"Madrid, Spain",Greenland,negative,,iberia
+945521244077559809,2017-12-26 05:06:46,negative,True,0,0,@hypervoila #tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos que no… ,,,Pacific Time (US & Canada),negative,hypervoila|iberia,tipicodenavidad
+941304976353189888,2017-12-14 13:52:49,negative,False,0,0,"#ryanair  pilotos #italia : si huelga, sanción. vivan los derechos  eso... ",,,Madrid,negative,,ryanair|italia
+942982335024177152,2017-12-19 04:58:03,neutral,False,0,0,pilotos irlandeses de ryanair desconvocan huelga para el 20 de diciembre #notextanddrive ,,,Caracas,neutral,,notextanddrive
+945795582043488256,2017-12-26 23:16:53,neutral,False,0,0,a330 de @iberia aterrizando por la 32l de madrid-barajas #ation #photography #airplane #landing #madrid ,,,Madrid,neutral,iberia,ation|photography|airplane|landing|madrid
+948630050974380032,2018-01-03 19:00:03,negative,False,0,0,pasajero de avión sale por puea de emergencia. #qrr #mundo #avión #pasajero #guardicivil #ryanair #londres... ,,,Mexico City,negative,,qrr|mundo|avión|pasajero|guardicivil|ryanair|londres
+945510197933383680,2017-12-26 04:22:52,negative,True,0,0,@jrisco @nytimes #tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos qu… ,,,Pacific Time (US & Canada),negative,jrisco|nytimes|iberia,tipicodenavidad
+948194427906002944,2018-01-02 14:09:02,positive,False,0,0,"#juanmaespinoza acabo de aterrizar en madrid,  he venido probando un nuevo servicio de iberia. sinceramente,... ",,,Pacific Time (US & Canada),positive,,juanmaespinoza
+940749061589749760,2017-12-13 01:03:49,neutral,False,0,0,"...mientras tanto sobre el sahara occidental, un lector nuestro nos compae su cena  bordo del @iberia #ib6841 ",,,Buenos Aires,neutral,iberia,ib6841
+926185010415198210,2017-11-02 20:31:28,neutral,True,0,0,"@iberia #holaargentina. también es para jar desde argentina, no?",,,,neutral,iberia,holaargentina
+931223686186749952,2017-11-16 18:13:22,positive,True,0,0,@iberia #holacolombia nos vemos pronto¡¡,,,,positive,iberia,holacolombia
+930440431841828864,2017-11-14 14:21:00,negative,False,0,0,#iberia replantea su estrategia en ecuador ,,,Quito,negative,,iberia
+941372414587473921,2017-12-14 18:20:48,negative,False,0,0,#iberia #iberiaplus #iberianocumple @iberia @iberiaexpress aqui en el aeropueo de barajas viendo como una señora… ,,,,negative,iberia|iberiaexpress,iberia|iberiaplus|iberianocumple
+950337930719047680,2018-01-08 12:06:33,negative,True,0,0,"@ryanair_es @ryanair @ryanair_es cuao cambio de horario , cada vez mas tarde! #ryanair...os estais superando!",,,,negative,ryanair_es|ryanair|ryanair_es,ryanair
+932696741920624640,2017-11-20 19:46:46,negative,False,0,0,#iberia sabéis  te da @iberia después de cobrae casi 3mil euros por un billete en bussines  guinea ecuatorial?… ,,,,negative,iberia,iberia
+934104747677765632,2017-11-24 17:01:41,neutral,False,0,0,la venta de productos en cabina supone el 27% de los ingresos anuales de ryanair #empleados… ,,,London,neutral,,empleados
+933304439649329157,2017-11-22 12:01:33,positive,False,0,0,#panama cuando tienes mucha ropa  jas con ryanair - cuando tienes mucha ropa  jas con ryanair ,,,Bogota,positive,,panama
+948827524355756034,2018-01-04 08:04:44,negative,False,0,0,"cansado de esperar, un pasajero sale por la puea de emergencia de un avión #ryanair ",,,Central America,negative,,ryanair
+934847175938510848,2017-11-26 18:11:50,neutral,False,0,0,cuando la #ación se conviió en algo tan #banal como ir en #autobús? @aena @enaire @iberia @vueling #tenemosdebate,,,,neutral,aena|enaire|iberia|vueling,ación|banal|autobús|tenemosdebate
+943050826016313346,2017-12-19 09:30:12,positive,False,0,0,barómetro #business: en  de cada  reservas se utiliza la tarjeta frequent flyers de la compañía aérea; @iberia es… ,,,Pacific Time (US & Canada),positive,iberia,business
+934244289831424000,2017-11-25 02:16:10,neutral,False,0,0,latinoamérica necesita una aerolínea que haga lo que hace #ryanair en europa... hacer feliz  la gente por muy poco dinero ✈️🏰🎡🏖🏔🕌,,,Bogota,neutral,,ryanair
+930045046396739584,2017-11-13 12:09:53,positive,False,0,0,"#empleo: tripulantes cabina pasajeros/as #ryanair entrevistas #oviedo: 15/11/17. buena presencia, trato agradable,… ",,,,positive,,empleo|ryanair|oviedo
+948074843336998912,2018-01-02 06:13:51,negative,False,0,0,"me siento alfredo landa volando con #ryanair ahora mismo, no por lo cateto sino por lo ""vintage"" del avión ... me veo frenando con los pies",,"Málaga, España",Madrid,negative,,ryanair
+941107206090567681,2017-12-14 00:46:57,positive,False,0,0,de bogotá  parís con amor! 😘bon jour #holaeuropa @iberia ,,,,positive,iberia,holaeuropa
+949022398115958784,2018-01-04 20:59:06,neutral,True,0,0,@ferdepablos @juanjearanjuez @iberia @ismaeljorda respuesta correcta don fernando😛😀 pero siempre #halamadrid 😂😂😂,,,Madrid,neutral,ferdepablos|juanjearanjuez|iberia|ismaeljorda,halamadrid
+935104164098662400,2017-11-27 11:13:00,positive,True,0,0,"@iberia #holaiberia excelente experiencia  je.. sugerencia, apresurar el proceso de check in  maletas en el ae… ",,,Central Time (US & Canada),positive,iberia,holaiberia
+941366150222532609,2017-12-14 17:55:54,neutral,True,0,0,"@ryanair faro, pougal! #travelthursday",,,London,neutral,ryanair,travelthursday
+943191165255475201,2017-12-19 18:47:52,positive,False,0,0,"ciudad de mis sueños, hoy digo #holaeuropa con @iberia 🤗🤗 ",,,Central Time (US & Canada),positive,iberia,holaeuropa
+943069299266195456,2017-12-19 10:43:36,neutral,False,0,0,"por favor @iberia @vueling , la inceidumbre no es buena compañera, ¿avisan vía mail? #huelga @aeropueobcn ",,,Greenland,neutral,iberia|vueling|aeropueobcn,huelga
+927268032128352256,2017-11-05 20:15:01,positive,True,0,0,@iberia #holaargentina pero me gustaría decir hola españa! que lindo  es jar!,,,Buenos Aires,positive,iberia,holaargentina
+923474525769134080,2017-10-26 09:00:58,neutral,False,0,0,#compliancenews #antilaft marca de bajo costo de iberia llegará  colombia ,,,,neutral,,compliancenews|antilaft
+950343151532806145,2018-01-08 12:27:18,positive,False,0,0,#iberia  #renfe lanzaron hoy impoantes descuentos. enterate acá: ,,,,positive,,iberia|renfe
+943903487095656449,2017-12-21 17:58:22,neutral,False,0,0,"estimado comandante del vuelo de @iberia ib522 con salida el sábado  las 19h en pleno #onosoderbi: por favor, infórmenos  bordo 😉 gracias",,,Pacific Time (US & Canada),neutral,iberia,onosoderbi
+937567723302858752,2017-12-04 06:22:19,neutral,True,0,0,"@iberia ¿os puedo hacer otra sugerencia? he visto que generáis vídeos propios, pero ¿os atrevéis con #vídeo en dire… ",,,Madrid,neutral,iberia,vídeo
+930483025896493059,2017-11-14 17:10:15,neutral,False,0,0,#fraude los tripulantes de cabina de ryanair la denuncian por fraude ,,,,neutral,,fraude
+941433692458766336,2017-12-14 22:24:17,neutral,False,0,0,#holaeuropa me gustaria jar con @iberia  conocer nuevos destinos... ,,,,neutral,iberia,holaeuropa
+946671814943608832,2017-12-29 09:18:43,neutral,False,0,0,. @iberia dejará de volar  #guineaecuatorial  pair del 23 de enero ,,,Madrid,neutral,iberia,guineaecuatorial
+933843093929058305,2017-11-23 23:41:58,neutral,False,0,0,#flightdeal sarasota (srq) - venice (vce) usd 622   iberia ,,,,neutral,,flightdeal
+926193301312688128,2017-11-02 21:04:25,neutral,False,0,0,comentario en escribe tus relatos de octubre (iv): con una tripulación de iberia  mairenmairenmu por oli…… #re…,,,Madrid,neutral,,re
+935104991311822848,2017-11-27 11:16:17,neutral,False,0,0,rumbo  las palmas de gran canaria con @iberia @iberiaexpress #subeteporlasparedes ,,,Casablanca,neutral,iberia|iberiaexpress,subeteporlasparedes
+933694933323657217,2017-11-23 13:53:13,negative,False,0,0,sería un detallazo que para este #blackfriday2017 ryanair ponga vuelos baratos  la mierda  todo el mundo se vaya.,,,Madrid,negative,,blackfriday2017
+944353152052154368,2017-12-22 23:45:11,neutral,False,0,0,pepa va de azafata de spanair jajaja genial #tcms12,,,Madrid,neutral,,tcms12
+926542388226658307,2017-11-03 20:11:34,negative,True,0,0,@veronicas0t0 @british_airways está bien escrito... 😢 #iberiaybritishpierdenilusiones @iberia,,,Pacific Time (US & Canada),negative,veronicas0t0|british_airways|iberia,iberiaybritishpierdenilusiones
+930490650830757888,2017-11-14 17:40:33,negative,False,0,0,"después de sufrir #telefónica, iberia, repsol, no digo que me alegre ver  los creídos del reino de españa hundiénd… ",,,Buenos Aires,negative,,telefónica
+942759294067408897,2017-12-18 14:11:45,positive,True,0,0,@iberia #holaeuropa con iberia cada vez más cerca de europa ,,,Bogota,positive,iberia,holaeuropa
+927165212674940928,2017-11-05 13:26:27,positive,True,0,0,@iberia #hola argentina,,,,positive,iberia,hola
+937395368018444290,2017-12-03 18:57:26,positive,False,0,0,no todos los días se ja en el primer avión de iberia #expoiberia #madrid #espiloto #iberia… ,,,London,positive,,expoiberia|madrid|espiloto|iberia
+948329363635867650,2018-01-02 23:05:14,negative,False,0,0,cuando te toca volar con ryanair #otgala9 ,,,Madrid,negative,,otgala9
+947061389998379008,2017-12-30 11:06:45,negative,True,0,0,"@iberia, en el #aeropueodezaragoza no tenéis oficina desde hace mucho tiempo, no sigáis mandando  los pax. un saludo",,,,negative,iberia,aeropueodezaragoza
+930461130857861120,2017-11-14 15:43:15,negative,False,0,0,que interesante reflexión  caso de gestión de la marca por @juncagem de @iberia en #enamoramkd ✅humildad ✅consiste… ,,,Madrid,negative,juncagem|iberia,enamoramkd
+947870824698122242,2018-01-01 16:43:09,neutral,False,0,0,llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet vía mkdirecto,,,Amsterdam,neutral,,duelodemarcas
+943146349045911552,2017-12-19 15:49:47,neutral,True,0,0,@brusselsairpo @jsakramer @ryanair_es rogaria que notificarias  los usuarios de mañana que #no habrá huelga  qu… ,,,Athens,neutral,brusselsairpo|jsakramer|ryanair_es,no
+932986009452675072,2017-11-21 14:56:13,positive,True,0,0,@miguelmoralnjo @aegve_ @iberia @enterprise @gruponexo @nhhotelses que grande! #supergex,,,,positive,miguelmoralnjo|aegve_|iberia|enterprise|gruponexo|nhhotelses,supergex
+938062107790241794,2017-12-05 15:06:49,positive,False,0,0,#iberia expandirá en verano su frecuencia de vuelos  #pueorico ,,,Central Time (US & Canada),positive,,iberia|pueorico
+946413604978544640,2017-12-28 16:12:41,negative,False,0,0,   escondite inglés tenías un cojín  ya no lo ves gracias #iberia #3651 #unplacer #sillachicco,,,Madrid,negative,,iberia|unplacer|sillachicco
+942557296265134080,2017-12-18 00:49:05,positive,False,0,0,cuando @iberia te incita unas vacaciones en roma 🙋🏽‍♀️🙋🏼‍♀️ #vacacionesdeamigas #holaeuropa ,,,,positive,iberia,vacacionesdeamigas|holaeuropa
+942815640867524608,2017-12-18 17:55:40,negative,False,0,0,mi experiencia con comida para celiacos con #iberia la pechuga insípida dura  seca con ensalada de salmón (odio el… ,,,,negative,,iberia
+941710874934378496,2017-12-15 16:45:43,positive,False,0,0,juanita @juanihoponpop  yo le decimos #holaeuropa gracias  ❤️❤️❤️❤️❤️❤️❤️@iberia ¡nos vamos para la increíble rom… ,,,,positive,juanihoponpop|iberia,holaeuropa
+936371944487837696,2017-11-30 23:10:43,negative,True,0,0,@ryanair #travelthursday alicante,,,,negative,ryanair,travelthursday
+926446373641375750,2017-11-03 13:50:02,positive,False,0,0,en un vuelo de iberia se regaló  cada uno un samsung galaxy note  ¿te imaginas haber estado ahí? #note8abordo ,,,Madrid,positive,,note8abordo
+949078349795741696,2018-01-05 00:41:26,neutral,False,0,0,la mejor foto tecnológica del año 2017 #womenintechspain #redhat @juliaberp_julia red hat iberia country manager,,"Madrid, Comunidad de Madrid",,neutral,juliaberp_julia,womenintechspain|redhat
+923484774240604160,2017-10-26 09:41:42,positive,False,0,0,"selección de 100 tripulantes de cabina, en sevilla, málaga, granada... para la compañía ryanair. #empleo… ",,,Athens,positive,,empleo
+923485823839940610,2017-10-26 09:45:52,neutral,False,0,0,"#empleo selección de 100 tripulantes de cabina, en sevilla, málaga, granada… para la compañía ryanair ",,,,neutral,,empleo
+930493951055941637,2017-11-14 17:53:40,neutral,True,0,0,"@iberia #holaargentina, que bueno este soeo, que te da la posibilidad de jar!!!",,,,neutral,iberia,holaargentina
+941634211043213312,2017-12-15 11:41:05,negative,False,0,0,iberia me sigue puteando con el equipaje. tengo unas ganas brutales de seguir volando con ellos #no,,,Pacific Time (US & Canada),negative,,no
+944323070545801219,2017-12-22 21:45:39,negative,False,0,0,#aytalento #lasubcontrata #aitalento ryanair sufre en alemania la primera huelga de pilotos de su historia - ryanai… ,,,Pacific Time (US & Canada),negative,,aytalento|lasubcontrata|aitalento
+930405064375758848,2017-11-14 12:00:28,positive,True,0,0,"@iberia #holacolombia hace mucho no jo con iberia, pero el recuerdo es especial, por el je  por el servicio.",,,Bogota,positive,iberia,holacolombia
+935102133128630272,2017-11-27 11:04:56,neutral,False,0,0,#lufthansa recupera su liderazgo europeo en tráfico que le quitó #ryanair vía @hosteltur ,,,Madrid,neutral,hosteltur,lufthansa|ryanair
+948505628183588865,2018-01-03 10:45:38,neutral,False,0,0,en infojobs he encontrado esta ofea de azafata/ - auxiliar de vuelo ryanair. en granada: #empleo,,,,neutral,,empleo
+940648925266137090,2017-12-12 18:25:54,negative,False,0,0,"impresionante la mierda que puede ser  veces jar con #iberia. cojo el avión con tiempo  reserva de asiento, ll… ",,,Amsterdam,negative,,iberia
+947509439363518464,2017-12-31 16:47:08,neutral,False,0,0,la apoación de cepeda : para que aitana le pregunte si fue en ryanair #otdirecto31d,,,Pacific Time (US & Canada),neutral,,otdirecto31d
+933119994421841920,2017-11-21 23:48:37,positive,False,0,0,"con @iberia, mi destino  un solo click. ¡deseadme suee! #holaargentia. hola 79 destinos europeos al mejor precio ",,,Buenos Aires,positive,iberia,holaargentia
+945635699822342144,2017-12-26 12:41:34,negative,False,0,0,#depoesuhn en vuelo de iberia procedente de madrid (españa) llegó la bicicleta del pedalista boyacense… ,,,Central Time (US & Canada),negative,,depoesuhn
+934795704882606080,2017-11-26 14:47:18,positive,False,0,0,volar con @ryanair se vuelve muy diveido  placentero cuando tienen auxiliares de vuelo como jacob... vuelo f1886 stn-lis!! 🙂 #ryanair,,"Lisboa, Portugal",Mexico City,positive,ryanair,ryanair
+937985457358503936,2017-12-05 10:02:14,neutral,True,0,0,@flytovigo @turisriasbaixas @feprohos @turismodevigo @hotelesdevigo @vigoaeropueo @aeropueovgo #vigo conectar… ,,,,neutral,flytovigo|turisriasbaixas|feprohos|turismodevigo|hotelesdevigo|vigoaeropueo|aeropueovgo,vigo
+928015523463524352,2017-11-07 21:45:17,neutral,True,0,0,"@iberia #holacolombia, los mejores @iberia 👌🏻",,,Bogota,neutral,iberia|iberia,holacolombia
+928006339783163904,2017-11-07 21:08:47,positive,True,0,0,@iberia #holacolombia me encantaría seguir jando con @iberia,,,,positive,iberia|iberia,holacolombia
+926621169108881409,2017-11-04 01:24:37,positive,True,0,0,@iberia por más vueltas al 🌎! #holaargentina,,,Brasilia,positive,iberia,holaargentina
+935638255701241856,2017-11-28 22:35:18,positive,False,0,0,#elaccidente1 con iberia esto no pasa!!!,,,London,positive,,elaccidente1
+923444318198812672,2017-10-26 07:00:56,negative,True,0,0,"@bintercanarias binter, por qué no dan el teléfono equivalente para el 902? #stop902 por qué obligan  llamar  no… ",,,London,negative,bintercanarias,stop902
+940653152365371393,2017-12-12 18:42:42,negative,False,0,0,#maletasperdidas con @iberia. hace tres dias volé con @iberia  mis maletas se quedaron en #medellin. me prometiero… ,,,Eastern Time (US & Canada),negative,iberia|iberia,maletasperdidas|medellin
+926358385343246336,2017-11-03 08:00:24,negative,False,0,0,#iberia #iberiaexpress tarjeta de embarque sacada noche anterior empleada no encuentra pasajeros dos maletas pagadas  cobra maleta.,,,,negative,,iberia|iberiaexpress
+948716535610314753,2018-01-04 00:43:43,negative,False,0,0,"""así se bajó un pasajero de ryanair hao de esperar para desembarcar"" #tecnologia #feedly",,,Pacific Time (US & Canada),negative,,tecnologia|feedly
+925051237174833152,2017-10-30 17:26:16,neutral,False,0,0,"con los fans de #thecure topaste, @ryanair ",,,Madrid,neutral,ryanair,thecure
+926940930275512321,2017-11-04 22:35:14,positive,True,0,0,@iberia #holaargentina !!! ojalá tenga suee ✈️,,,Buenos Aires,positive,iberia,holaargentina
+950443162291654656,2018-01-08 19:04:42,neutral,False,0,0,ofea postnavideña de @iberia  @aireuropa para ir de #turisteo por menos. ¡por si te interesa empieza hoy 😉! ,,,,neutral,iberia|aireuropa,turisteo
+930408786849943553,2017-11-14 12:15:15,positive,True,0,0,"@ryanair estrena nueva ruta entre #valència  #bristol con vuelos  29,99 € ",,,Madrid,positive,ryanair,valència|bristol
+943102644415094785,2017-12-19 12:56:07,neutral,False,0,0,#padel mizuno iberia celebra su convención 2018 apostando por el pádel ,,,Madrid,neutral,,padel
+949011445869662209,2018-01-04 20:15:35,negative,False,0,0,¿sabrá lo que es que no le quepan las piernas en #ryanair? 😂😂 ,,,Madrid,negative,,ryanair
+928025084232691712,2017-11-07 22:23:16,neutral,True,0,0,@iberia #holacolombia 🤚#holaeuropa @iberia quiero ir en diciembre 2017. un abrazo  todos.,,"Bello, Colombia",Bogota,neutral,iberia|iberia,holacolombia|holaeuropa
+926083214216777728,2017-11-02 13:46:58,positive,False,0,0,"más info: @ryanair_es lanza #billetes desde 14,99 euros para #volar desde #sevilla… ",,,Pacific Time (US & Canada),positive,ryanair_es,billetes|volar|sevilla
+943087068821016576,2017-12-19 11:54:13,neutral,False,0,0,#iberia  otras nueve compañías aéreas cancelan sus vuelos  #turquía vía @hosteltur éxodo… ,,,Madrid,neutral,hosteltur,iberia|turquía
+935171401455153152,2017-11-27 15:40:11,neutral,False,0,0,"con @iberia, mi destino  un solo click. ¡prueba suee! #holacolombia 79 destinos europeos al mejor precio ",,,Bogota,neutral,iberia,holacolombia
+940602934676606976,2017-12-12 15:23:09,negative,True,0,0,@iberia #ib3723  todos los españoles  mundo entero que tenga pensado jar con iberia. una inclemencia meteoroló… ,,,,negative,iberia,ib3723
+940714171599081472,2017-12-12 22:45:10,negative,False,0,0,#segundaxcdo #segundaxcdo saludos desde los angeles esperando que el otro año mi iberia vuelvo de donde nunca debio bajar,,,,negative,,segundaxcdo|segundaxcdo
+933792114328113152,2017-11-23 20:19:23,positive,False,0,0,iberia reabre su sala vip en la t4s de barajas totalmente remodelada #mercados,,,West Central Africa,positive,,mercados
+930446126876168192,2017-11-14 14:43:38,positive,False,0,0,"ryanair abre nuevas rutas desde #valencia, #alicante, #girona  #sevilla. ",,"Gerona, Cataluña",Madrid,positive,,valencia|alicante|girona|sevilla
+927920161918664704,2017-11-07 15:26:21,neutral,True,0,0,"@iberia #holacolombia fui en enero de 2017, voy de nuevo en enero de 2018  no me cansaré de visitar este bello país. :)",,,Madrid,neutral,iberia,holacolombia
+941066624311885827,2017-12-13 22:05:42,positive,False,0,0,#amanecer sobre #rusia en rumbo hacia # #japon #a330 #ib6801 @iberia ,,,Casablanca,positive,iberia,amanecer|rusia|japon|ib6801
+947184129879179264,2017-12-30 19:14:29,negative,False,0,0,"pagamos precios excesivos para jar  #madrid desde #menorca (hasta 350€ por trayecto, para los no residentes) … ",,,,negative,,madrid|menorca
+926953162799493121,2017-11-04 23:23:50,neutral,False,0,0,cantabria siempre húmeda • #travel #ryanair #aeropueo #seveballesteros #boeing737 #santander… ,"[43.42319443, -3.82403537]","Camargo, España",Madrid,neutral,,travel|ryanair|aeropueo|seveballesteros|boeing737|santander
+941378075727663106,2017-12-14 18:43:17,negative,False,0,0,oleada de huelgas en #ryanair estas #navidades ,,,,negative,,ryanair|navidades
+936337376674304000,2017-11-30 20:53:21,positive,False,0,0," pesar de las incidencias del #puenteaéreo en la mañana de hoy el compoamiento, la eficacia  la profesionalidad… ",,,Athens,positive,,puenteaéreo
+937717958234828800,2017-12-04 16:19:17,neutral,False,0,0,cepyme_:  aceitunatorrent: gracias  los patrocinadores por hacer posible #premioscepyme17  recoger este premio.… ,,,Madrid,neutral,,premioscepyme17
+924932675730845696,2017-10-30 09:35:08,positive,False,0,0,.@iberia estrenará en 2018 vuelos  san francisco  managua #internacionalización ,,,Madrid,positive,iberia,internacionalización
+935587339526647808,2017-11-28 19:12:58,positive,False,0,0,beneficios de jar #jar #mallorca #islasbaleares #palmademallorca #palma #ryanair ,,,,positive,,jar|mallorca|islasbaleares|palmademallorca|palma|ryanair
+941252570173108226,2017-12-14 10:24:35,neutral,False,0,0,hoy se cumplen 90 años del primer vuelo de @iberia ✈️🎂 vía @aerotendencias #aniversario… ,,,Madrid,neutral,iberia|aerotendencias,aniversario
+927228677477355520,2017-11-05 17:38:38,negative,False,0,0,volvemos con ryanair. suena #miedo de @pabloalboran 🛬🤞🏼,,,Amsterdam,negative,pabloalboran,miedo
+941344375308726272,2017-12-14 16:29:23,positive,False,0,0,"enhorabuena  @iberia por su #cumpleaños. para mi, @iberia significa jes de placer  trabajo, reencontrarse con la familia... #ilusion",,,,positive,iberia|iberia,cumpleaños|ilusion
+926633216966045696,2017-11-04 02:12:29,positive,True,0,0,@iberia #holaargentina quiero jarrrr!!🌎✈✈✈,,,,positive,iberia,holaargentina
+937987576685875201,2017-12-05 10:10:39,neutral,False,0,0,#amazon #: 156. los diez libros de arquitectura (literatura-obras maestras iberia) ,,,Bogota,neutral,,amazon|: 156
+944570573102907393,2017-12-23 14:09:08,negative,True,0,0,@iberia monta un caos en embarque de palma de mallorca.  eso pasa cada año. #feliznavidadsinincidencias también es… ,,,Madrid,negative,iberia,feliznavidadsinincidencias
+936158856484356097,2017-11-30 09:03:59,negative,False,0,0,#ryanair tarda menos de dos horas en amargar la ofea aniversario de iberia express ,,,Berlin,negative,,ryanair
+936930065245458432,2017-12-02 12:08:29,neutral,False,0,0,despegamos! ✈#tragachévere ✈👏🔛 colombia @iberia ,,"Madrid, España",,neutral,iberia,tragachévere
+941342425569689605,2017-12-14 16:21:38,neutral,False,0,0,#holaeuropa @iberia gracias iberia! ,,,,neutral,iberia,holaeuropa
+940871716280127489,2017-12-13 09:11:12,neutral,False,0,0,hoy estamos en el #forocibarcelona junto  @prosegur_es  @elcoeingles. una sesión especial en la que hablaremos… ,,,Madrid,neutral,prosegur_es|elcoeingles,forocibarcelona
+945003461053120520,2017-12-24 18:49:17,negative,False,0,0,.@iberia pide disculpas al extrar la bici de @supermanlopezn @mundodepoivo #cycling #procycling @astanateam,,,Amsterdam,negative,iberia|supermanlopezn|mundodepoivo|astanateam,cycling|procycling
+923502571490283520,2017-10-26 10:52:25,negative,False,0,0,#novedad 'el pastor de iberia compuesto por bernardo de la vega (1591)' (ed. crítica de ignacio garcía aguilar)… ,,,Madrid,negative,,novedad
+941264039539363840,2017-12-14 11:10:09,negative,False,0,0,el personal de tierra de ryanair en españa convoca huelga el próximo día 30 de diciembre √ #menéame,,,Madrid,negative,,menéame
+923615970610040833,2017-10-26 18:23:02,positive,False,0,0,ryanair busca en españa nuevos tripulantes de cabina para europa #empleo #trabajo… ,,,Madrid,positive,,empleo|trabajo
+932892749338202112,2017-11-21 08:45:38,negative,True,0,0,"@iberia #iberia lo que no me ha pasado con #ryanair nunca, me pasa con #ib ",,"Madrid, España",,negative,iberia,iberia|ryanair|ib
+948858640592711682,2018-01-04 10:08:23,neutral,False,0,0,"#marketing #publicidad #mrketingdigital redaccion“nos hemos basado en la emotividad de su contenido”, enric pardo,… ",,,,neutral,,marketing|publicidad|mrketingdigital
+935213955542331394,2017-11-27 18:29:17,neutral,False,0,0,despegue desde el aeropueo de bruselas: #bélgica #belgique #belgium #belgië #bruselas… ,,,Madrid,neutral,,bélgica|belgique|belgium|belgië|bruselas
+923414018466992128,2017-10-26 05:00:32,negative,True,0,0,@iberia volar con ustedes desde ginebra-madrid no es nada agradable! #nospace #nodrinks #nofun,,,,negative,iberia,nospace|nodrinks|nofun
+947636562359025666,2018-01-01 01:12:17,neutral,False,0,0,#1buendeseopara2018 el retorno de iberia al profesionalismo #vamosiberia #operaciónretorno #el2018serádeiberia,,,Atlantic Time (Canada),neutral,,1buendeseopara2018|vamosiberia|operaciónretorno|el2018serádeiberia
+926723873441239040,2017-11-04 08:12:43,positive,False,0,0,jando tan agustico con @ryanair . #marruecos ,,,,positive,ryanair,marruecos
+923611960742211584,2017-10-26 18:07:05,negative,False,0,0,malaeducacion total que #iberia nos reciba en el puente aereo #ib1846 con el viva españa de @manoloescobar  megafonia,,"El Prat de Llobregat, España",Madrid,negative,manoloescobar,iberia|ib1846
+932979505139818496,2017-11-21 14:30:22,positive,False,0,0,"#madrid #venezuela ryanair sigue con las rebajas del black friday: billetes  ,99 euros ",,,Caracas,positive,,madrid|venezuela
+926116030363176960,2017-11-02 15:57:22,negative,False,0,0,una pareja intentó tener #sexo entre los asientos de un avión de #ryanair  #ibiza ,,,Eastern Time (US & Canada),negative,,sexo|ryanair|ibiza
+928016935215878144,2017-11-07 21:50:53,neutral,False,0,0,#holacolombia #holacolombia#holacolombia ✋✋✋yooooooo !!! ,,,,neutral,,holacolombia|holacolombia|holacolombia
+943125171912749056,2017-12-19 14:25:38,negative,False,0,0,casi una hora esperando hacinados en un miniautobús al sol en la pista de aterrizaje. gracias #ryanair,,,Greenland,negative,,ryanair
+943096152521666560,2017-12-19 12:30:19,neutral,False,0,0,un lujo tener  ryanair en nuestra ciudad!! @turismovitoria #tenerife vitairpo #foronda en… ,"[42.88277778, -2.72444444]","Vitoria-Gasteiz, España",Madrid,neutral,turismovitoria,tenerife|foronda
+936224288620851200,2017-11-30 13:23:59,negative,True,0,0,@ryanair alicante #travelthursday,,,,neutral,ryanair,travelthursday
+933720060979568640,2017-11-23 15:33:04,neutral,True,0,0,@ryanair gran canaria’ #travelthursday,,,,neutral,ryanair,travelthursday
+941814395843198976,2017-12-15 23:37:04,negative,False,0,0,"#iberia no se si odiae  olvidae, dos vuelos dos maletas que no llegan, todos prometen que la maleta llegará pe… ",,,,negative,,iberia
+942336684313726976,2017-12-17 10:12:27,neutral,False,0,0,#pucela #aeropodelprat #barcelona #ryanair #castilla en aeropueo… ,"[41.30218123, 2.07590243]","El Prat de Llobregat, España",Madrid,neutral,,pucela|aeropodelprat|barcelona|ryanair|castilla
+941416912638050304,2017-12-14 21:17:37,neutral,False,0,0,manso tema que te sacaste dj alpargatas iberia  jeans para 111! @40principalesch @fersuperlativo @edocaroe #pongamonosserios,,,Quito,neutral,40principalesch|fersuperlativo|edocaroe,pongamonosserios
+946067791991500801,2017-12-27 17:18:33,positive,False,0,0,ole al piloto que acaba de aterrizar el avión @iberia madrid-almería #ib8592 se merece un monumento! #turbulence… ,,,Amsterdam,positive,iberia,ib8592|turbulence
+948879241931841536,2018-01-04 11:30:15,neutral,False,0,0,¿cómo jar por europa? #transpoe #europa #mochileros #ryanair #blablacar #jar ,,,,neutral,,transpoe|europa|mochileros|ryanair|blablacar|jar
+923573490476777474,2017-10-26 15:34:13,positive,False,0,0,marca de bajo costo de iberia llegará  colombia - #googleales,,,Quito,positive,,googleales
+940628274417414144,2017-12-12 17:03:51,positive,False,0,0,"las mejores ofeas de empleo it de españa: endesa, mercadona  ryanair #tic #tecnología",,,,positive,,tic|tecnología
+933715488638676993,2017-11-23 15:14:54,neutral,True,0,0,@ryanair madrid! #travelthursday,,,,neutral,ryanair,travelthursday
+928008690338287616,2017-11-07 21:18:08,positive,False,0,0,"#holacolombia excelente aerolínea, he jado en  ocasiones bta-madrid-frankfu. excelente servicio  bordo ",,,Eastern Time (US & Canada),positive,,holacolombia
+948996924153229312,2018-01-04 19:17:52,neutral,False,0,0,▶️ top 10 democracias del mundo ➡️ y87 #díadelperiodista jack white ⏹️ uh1 guarenas #elregalodereyesquerecuerdo… ,,,,neutral,,díadelperiodista|elregalodereyesquerecuerdo
+935880009708863490,2017-11-29 14:35:56,neutral,False,0,0,representante de #iberia anuncia su llegada  #nicaragua durante reunión con representantes de gobierno  del secto… ,,,Mountain Time (US & Canada),neutral,,iberia|nicaragua
+938335089137680384,2017-12-06 09:11:33,negative,False,0,0,#eurotrabajadores quejándose de currar (en bruselas) en festivo español; de volar en ryanair  aterrizar en charler… ,,"Reinosa, España",Athens,negative,,eurotrabajadores
+927784576180736000,2017-11-07 06:27:35,positive,True,0,0,@iberia #holaargentina ....nunca  salido  españa  ya va siendo hora  tengo 40,,,,positive,iberia,holaargentina
+941227903269986306,2017-12-14 08:46:33,negative,False,0,0,"lo de @ryanair no tiene nombre, facturar padre  hijo de  años dos billetes de avión #palma - #valencia  sentar … ",,,,negative,ryanair,palma|valencia
+938333205291290624,2017-12-06 09:04:04,neutral,False,0,0,extiendo la pregunta  @aireuropa @iberia  @norwegian_es 😀🍫#pasajerosconhambre ,,,Greenland,neutral,aireuropa|iberia|norwegian_es,pasajerosconhambre
+930690619328094209,2017-11-15 06:55:09,negative,False,0,0,cada vez más asientos  más gente en los vuelos de @iberia las rodillas contra el asiento de delante #sardinasenlata,,,Amsterdam,negative,iberia,sardinasenlata
+927752108476006400,2017-11-07 04:18:34,positive,False,0,0,"#tt palletways iberia amplía su cobeura con dos nuevos servicios premium: la compañía palletways iberia,… ",,,Madrid,positive,,tt
+932761099019128833,2017-11-21 00:02:30,neutral,False,0,0,#turistadigital ryanair planea reducir  la mitad las comisiones de las otas  los hoteles ,,,Madrid,neutral,,turistadigital
+927385648327266305,2017-11-06 04:02:23,negative,True,0,0,@cyberdayschile @clinicaleciel insisto. british airways  iberia están adheridas? vean sus sitios  no hay rastro de #cybermonday,,,Santiago,negative,cyberdayschile|clinicaleciel,cybermonday
+944187544970784769,2017-12-22 12:47:07,neutral,False,0,0,ryanair sufre la primera huelga de pilotos de su historia #controligestio ,,,Madrid,neutral,,controligestio
+941492763295731712,2017-12-15 02:19:01,positive,False,0,0,norwegian desafía  iberia con billetes por menos de 200 euros entre #nuevayork  #madrid ,,,Santiago,positive,,nuevayork|madrid
+937029053768503296,2017-12-02 18:41:50,neutral,True,0,0,@ryanair me habéis pueso los apellidos cambiado de orden en la tarjeta de embarque #quehago,,,Madrid,neutral,ryanair,quehago
+941686290642112517,2017-12-15 15:08:02,positive,False,0,0,#andalucia #noticias ryanair reconocerá  los sindicatos de pilotos para evitar un colapso en navidad… ,,,,positive,,andalucia|noticias
+940632444184793095,2017-12-12 17:20:25,neutral,False,0,0,pilotos amenazan con nuevas protestas en contra de ryanair en europa #eu,,,,neutral,,eu
+932972346318708736,2017-11-21 14:01:55,positive,True,0,0,"@ryanair_es no eres superman, ja en ryanair #ryanairespaña",,,,positive,ryanair_es,ryanairespaña
+928001540320911360,2017-11-07 20:49:43,positive,True,0,0,@iberia #holacolombia deseando ir  conocerlo,,,Greenland,positive,iberia,holacolombia
+945504953769979904,2017-12-26 04:02:02,negative,True,0,0,@aristeguionline #tipicodenavidad que @iberia pierda tu maleta  le valga madres dae una respuesta. @profeco… ,,,Pacific Time (US & Canada),negative,aristeguionline|iberia|profeco,tipicodenavidad
+940881768055492613,2017-12-13 09:51:08,negative,False,0,0,"si vuelas con ryanair, te interesa esta información #huelga ",,,Madrid,negative,,huelga
+941363423383732224,2017-12-14 17:45:04,negative,False,0,0,"el personal de tierra de #ryanair en españa, en huelga el próximo... ",,,Pacific Time (US & Canada),negative,,ryanair
+942746316517576705,2017-12-18 13:20:11,negative,False,0,0,#noticiasict más problemas para @ryanair @icanturismo,,,,negative,ryanair|icanturismo,noticiasict
+942719624277143552,2017-12-18 11:34:07,negative,False,0,0,#sociedad / los pilotos de ryanair en irlanda desconvocan la huelga de 24 horas: la aerolínea reconocerá  los sind… ,"[43.248521, -2.947576]","Bilbao, España",Madrid,negative,,sociedad
+931303207317356544,2017-11-16 23:29:22,negative,True,0,0,"@etnturistar el peor servicio al cliente que he visto en mi vida, no se quien esta peor, si ustedes  los de @iberia !!! #lopeor",,,Mountain Time (US & Canada),negative,etnturistar|iberia,lopeor
+940593382547697665,2017-12-12 14:45:12,negative,False,0,0,"#últimosegundo: pilotos de la aerolínea ryanair paiciparán en huelga el 20 de diciembre, confirma sindicato. ",,,Pacific Time (US & Canada),negative,,últimosegundo
+938019643238862848,2017-12-05 12:18:05,neutral,True,0,0,@lmonterorguez @iberia un perfil específico de atención al cliente #cyacauja,,,,neutral,lmonterorguez|iberia,cyacauja
+923147419130499072,2017-10-25 11:21:10,positive,False,0,0,ceje  ceoe_es premian  iberia   nissan por su contribución al desarrollo empresarial entre #japón  #españa …,,,Madrid,positive,,japón|españa
+923278712036052992,2017-10-25 20:02:53,negative,False,0,0,"línea directa, ryanair  la larga lista de empresas que estafan con los 902 #interesante",,,Madrid,negative,,interesante
+941324603703595008,2017-12-14 15:10:49,neutral,False,0,0,#14dic 1927 la compañía española #iberia realizaba su primer vuelo comercial con destino  barcelona. historia de … ,,,Madrid,neutral,,iberia
+926361816434905093,2017-11-03 08:14:02,negative,False,0,0,#iberia #iberiaexpress casi perdemos avión pq una empleada no nos encuentra en el sistema con tarjetas de embarque!  cobra maletas pagadas!,,,,negative,,iberia|iberiaexpress
+945575288875892736,2017-12-26 08:41:31,negative,False,0,0,otra vez tarde? 🙄 el último ryanair? #ryanair? ,,,Athens,negative,,ryanair
+941436615989321729,2017-12-14 22:35:54,neutral,False,0,0,felicidades #zorionak🎉🎂un placer veros rodar  volar!!✈️ @iberia!! #90aniversarioiberia ,,,,neutral,iberia,zorionak
+948234347240357888,2018-01-02 16:47:40,negative,False,0,0,"volar un /01/18 con @vueling  @iberia #misionimposible en bilbao  vuelos en las prox 2h,  mostradores  la cola… ",,,,negative,vueling|iberia,misionimposible
+936347177135296514,2017-11-30 21:32:18,neutral,True,0,0,@ryanair #travelthursday moroco,,,Amsterdam,neutral,ryanair,travelthursday
+941003354687369217,2017-12-13 17:54:17,negative,False,0,0,"#maletasperdidasiberia. cuatro días  seguimos sin maletas, ni ropa que ponernos, ni regalos que dar. todo gracias… ",,,Eastern Time (US & Canada),negative,,maletasperdidasiberia
+933711099240869888,2017-11-23 14:57:28,negative,True,0,0,@ryanair madrid #travelthursday,,,,negative,ryanair,travelthursday
+927926263204937728,2017-11-07 15:50:35,negative,True,0,0,@iberia #holacolombia nunca he estado,,,,negative,iberia,holacolombia
+923134903788679168,2017-10-25 10:31:26,neutral,False,0,0,"hoy firmamos la renovación del #convenio de la @ulpgc con @iberia, junto  víctor moneo, director de ventas españa… ",,,,neutral,ulpgc|iberia,convenio
+937573376608165888,2017-12-04 06:44:46,negative,False,0,0,retraso en el vuelo de #ryanair de #palmademallorca destino #barcelona🤦🏽‍♀️ tendríamos que haber salido  las .30a… ,,"Palma, España",Madrid,negative,,ryanair|palmademallorca|barcelona
+926404688572010507,2017-11-03 11:04:24,negative,True,0,0,"@paconadal @iberia ni siquiera es trato ""low cost"", es abuso. pero no es sólo @iberia, @aireuropa hace lo mismo.  muchas otras. #fail",,,Madrid,negative,paconadal|iberia|iberia|aireuropa,fail
+944357971852709888,2017-12-23 00:04:20,neutral,False,0,0,bueno... lasacaría del estadio !  secoronaría como el personaje del siglo... si #emilianavas @fiscaliacr ordenad… ,,,Central Time (US & Canada),neutral,fiscaliacr,emilianavas
+935504220714950656,2017-11-28 13:42:41,neutral,False,0,0,comida  wifi sobrevolando hamburgo .. que ilu.. #magovituco #wifi #iberia #emocion ,,,Madrid,neutral,,magovituco|wifi|iberia|emocion
+930069524543569921,2017-11-13 13:47:09,positive,False,0,0,este domingo volví de madrid  málaga en uno de los nuevos aviones de @iberia  de vuelo no fue más de media hora 😬#quégenial,,,Amsterdam,positive,iberia,quégenial
+943110867289243650,2017-12-19 13:28:47,negative,True,0,0,"@ryanair  su #cx deficiente, random  asqueroso",,,Greenland,negative,ryanair,cx
+941270990121787394,2017-12-14 11:37:46,negative,False,0,0,#ryanair #huelga #espana #actualidad #trabajador #derechostrabajadores el personal de tierra de ryanair en españa… ,,,Pacific Time (US & Canada),negative,,ryanair|huelga|espana|actualidad|trabajador|derechostrabajadores
+930068291204403201,2017-11-13 13:42:15,neutral,True,0,0,@iberia #holacolombia ojalá pudiera jar  madrid☝,,,,neutral,iberia,holacolombia
+948656642966638592,2018-01-03 20:45:43,negative,False,0,0,la paciencia es sana consejera para evitar finales como el de esta historia #ryanair #malagaconacento ,,,Central Time (US & Canada),negative,,ryanair|malagaconacento
+930456439524433920,2017-11-14 15:24:36,neutral,True,0,0,@n_larenas #iberia replantea su estrategia en ecuador ,,,Dhaka,neutral,n_larenas,iberia
+930196872911835136,2017-11-13 22:13:11,negative,True,0,0,@peredepalau @vilaweb @vueling en #francoland te expulsan de un vuelo por hablar catalán. ni en los mejores tiempos… ,,,Madrid,negative,peredepalau|vilaweb|vueling,francoland
+945234522223898624,2017-12-25 10:07:26,positive,False,0,0," jatirado: #feliznavidad estamos en la puea 🚪de embarque del vuelo 🛫  #chicago, #estadosunidos como siempre en… ",,,Madrid,positive,,feliznavidad|chicago|estadosunidos
+941429949055033345,2017-12-14 22:09:25,neutral,False,0,0,hoy iberia cumple 90 años de su primer vuelo. felicidades!!!! #avgeek #pasionporlaacion en… ,"[-0.13555556, -78.36555556]","Quito, Ecuador",Madrid,neutral,,avgeek|pasionporlaacion
+941627834157731840,2017-12-15 11:15:44,positive,False,0,0,ryanair propone aceptar  los sindicatos de pilotos para evitar huelgas #afp … ,,,Central Time (US & Canada),positive,,afp
+927440874153406466,2017-11-06 07:41:50,negative,True,0,0,@melyssamanez @iberia @interjet #dondeestalamaleta  dias  contando!,,,Madrid,negative,melyssamanez|iberia|interjet,dondeestalamaleta
+946436848146100225,2017-12-28 17:45:03,negative,False,0,0, @iberia ? vas  hacee cargo del quilombo que me hiciste con las maletas? no jen  #rusia2018 por #iberia ya… ,,,,negative,iberia,rusia2018|iberia
+937379030134697984,2017-12-03 17:52:31,neutral,False,0,0,la torera #spain #españa #iberia #europa #europe #oviedoasturias #oviedo #asturias #ae #… ,"[43.36, -5.845]","Oviedo, España",,neutral,,spain|españa|iberia|europa|europe|oviedoasturias|oviedo|asturias|ae|… 
+941232867526545408,2017-12-14 09:06:17,positive,False,0,0,"90 años pasan volando, que se lo digan  @iberia. felicidades  esperando  ese #centenario. #90aniversarioiberia… ",,,,positive,iberia,centenario
+940726675251388417,2017-12-12 23:34:51,positive,False,0,0,#holaeuropa hoy me tomé esta foto cool en la calle en un paradero de bus para ver si @iberia me lleva  madrid ✌ en… ,,,Bogota,positive,iberia,holaeuropa
+945939412185120771,2017-12-27 08:48:25,negative,False,0,0,no volemos más con @ryanair_es ryanair es satanás #malaonda,,,Greenland,negative,ryanair_es,malaonda
+944688956666535937,2017-12-23 21:59:33,positive,False,0,0,#gracias  la #tripulación de @ryanair del vuelo scq-bgy! olvidé un #iphonex en el asiento  lo entregaron en objetos perdidos,,,Greenland,positive,ryanair,gracias|tripulación|iphonex
+938019853910401025,2017-12-05 12:18:55,positive,True,0,0,@lmonterorguez @iberia que están prácticamente 24h  tu servicio #cyacauja,,,,positive,lmonterorguez|iberia,cyacauja
+942437890579197952,2017-12-17 16:54:37,neutral,False,0,0,ryanair ofrece reunirse con pilotos irlandeses antes de huelga #perúnoticias ,,,Lima,neutral,,perúnoticias
+942426685152129029,2017-12-17 16:10:05,neutral,False,0,0,#tránsitoecu911 atención| @ctecuador recomienda conducir con precaución en el tramo  la iberia-ponce enrique… ,,,Quito,neutral,ctecuador,tránsitoecu911
+937340223700291590,2017-12-03 15:18:18,neutral,True,0,0,@iberia ¡muchas gracias! ¿no se puede pagar  plazos💵? 🤔#cmuoc,,,Madrid,neutral,iberia,cmuoc
+928003436817387520,2017-11-07 20:57:15,positive,False,0,0,#holacolombia @iberia siempre con una atención inigualable en sus vuelos!!!! ,,,Caracas,positive,iberia,holacolombia
+923228753815359488,2017-10-25 16:44:22,negative,True,0,0,@juanmerodio @iberia una pena! que se difundan da la situación  los clientes tomen nota de con quien no jar #asínoiberia,,,Madrid,negative,juanmerodio|iberia,asínoiberia
+941264274298753024,2017-12-14 11:11:05,negative,False,0,0,el personal de tierra de ryanair en españa convoca huelga el próximo día 30 de diciembre #noticias,,,,negative,,noticias
+940654487433285632,2017-12-12 18:48:00,negative,False,0,0,#maletasperdidasiberia. el sabado  llegamos  #madrid sin maletas por @iberia. hoy 12 estamos sin maletas  sin no… ,,,Eastern Time (US & Canada),negative,iberia,maletasperdidasiberia|madrid
+941772793703751680,2017-12-15 20:51:45,neutral,True,0,0,@ryanair @ryanair #traveltuesday madrid,,,,neutral,ryanair|ryanair,traveltuesday
+930146938774806529,2017-11-13 18:54:46,neutral,False,0,0,compae  comenta los capítulos diarios de #golazodiario de @lacuaa  gana el balón oficial @adidascl del próxim… ,,,,neutral,lacuaa|adidascl,golazodiario
+948633181795880962,2018-01-03 19:12:29,negative,False,0,0,un #pasajero de un #vuelo de la compañía #ryanair entre #londres  #málaga en el sur de #españa se instaló sobre un… ,,,Hawaii,negative,,pasajero|vuelo|ryanair|londres|málaga|españa
+947875306802728960,2018-01-01 17:00:58,neutral,False,0,0,"#marketing#mkt llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet - nuevo año, nuevos proyecto… ",,,,neutral,,marketing|mkt|duelodemarcas
+935604503465865217,2017-11-28 20:21:10,positive,False,0,0,ryanair: trabajo  ofeas de empleo #primerempleo vía @primerempleo,,,,positive,primerempleo,primerempleo
+945748156423331840,2017-12-26 20:08:26,negative,False,0,0,carlota tiene que trabajar para ryanair.... como mínimo #venacenar72,,,,negative,,venacenar72
+941362485998780417,2017-12-14 17:41:20,negative,False,0,0,¿cómo arruinar la navidad de estudihambres en europa?: huelga en #ryanair ,,,Central Time (US & Canada),negative,,ryanair
+933666756282986496,2017-11-23 12:01:16,neutral,False,0,0,#panama cuando te ofean el billete  18€ de ryanair - cuando te ofean el billete  18€ de ryanair ,,,Bogota,neutral,,panama
+942731578949685248,2017-12-18 12:21:38,neutral,False,0,0,"📢 @esthermorillasg, directora de márketing de coca-cola iberia: "" #royalbliss apoará el 25% del crecimiento de co… ",,,Santiago,neutral,esthermorillasg,royalbliss
+933372404793004032,2017-11-22 16:31:37,negative,False,0,0,"#cachondeo iberia.aleatoriamente te retiran las maletas de cabina.no merece la pena pagar un asiento, al final hace… ",,,,negative,,cachondeo
+925057183431188481,2017-10-30 17:49:53,negative,False,0,0,"ofea de #empleo: vice iberia group busca ""pr manager""  media jornada en madrid #periodismo #comunicación",,,London,negative,,empleo|periodismo|comunicación
+947305975588864000,2017-12-31 03:18:39,neutral,False,0,0,iberia pone en la mira  los enormes márgenes de amadeus - repour #gds #reservas,,,Madrid,neutral,,gds|reservas
+936221385478860800,2017-11-30 13:12:27,neutral,True,0,0,@ryanair #travelthursday fueeventura ,,,,neutral,ryanair,travelthursday
+933259028502683650,2017-11-22 09:01:06,neutral,False,0,0,dhl parcel iberia inveirá 100 € para su expansión en #ecommerce hasta 2020 #logística vía @alimarket,,,,neutral,alimarket,ecommerce|logística
+933426526674145280,2017-11-22 20:06:40,positive,False,0,0,vuelo de madrid-asturias iberia con el avión llamado cangas de onis #buenvuelo #guteflug… ,"[40.5, -3.66666667]","Madrid, España",Athens,positive,,buenvuelo|guteflug
+948584626729168896,2018-01-03 15:59:33,positive,True,0,0,"@ryanair_es un rinconcito de la bella san nicola arcella, en #italia. todo un destino obligatorio que #ryanair te pone cerca. 🤞🏼✨✈️🇮🇹",,,Madrid,positive,ryanair_es,italia|ryanair
+940633738207141888,2017-12-12 17:25:33,negative,False,0,0,#economía la huelga de pilotos de #ryanair en #irlanda amenaza con extenderse  más países ,,,Madrid,negative,,economía|ryanair|irlanda
+936210354018897920,2017-11-30 12:28:37,negative,False,0,0,vuelo asturias madrid no dejan subir equiaje de mano  jeros  madrid #iberia #ocu #felizjueves #sinvergüenzas,,,Madrid,negative,,iberia|ocu|felizjueves|sinvergüenzas
+935999977746239488,2017-11-29 22:32:39,negative,False,0,0,ib6409  mexico 29 nov. la limpieza del avión deja bastante que desear. hasta los lavabos están raidos. una pena.. @iberia #businessclass,,"Madrid, España",,negative,iberia,businessclass
+935124832706072576,2017-11-27 12:35:08,negative,False,0,0,nuevo espacio #premium de iberia en la t4s de madrid-barajas con capacidad para 500 personas… ,,,Madrid,negative,,premium
+937750212470243329,2017-12-04 18:27:27,neutral,False,0,0,gracias  los patrocinadores de los #premioscepyme17 bancosantander facebook informa peugeotes randstad_es ups_es … ,,,Madrid,neutral,,premioscepyme17
+941288465399984128,2017-12-14 12:47:13,neutral,True,0,0,@mossos @iberia @gencat ¿que misuras de seguiridad addicionales pueden asegurar  el #prat por la #huelga de iber… ,,,,neutral,mossos|iberia|gencat,prat|huelga
+935846544183648256,2017-11-29 12:22:57,neutral,False,0,0,"¡última hora! #vuelos con #ryanair desde sólo ,95€ el trayecto ➡️ #turismo #ofea ",,,Madrid,neutral,,vuelos|ryanair|turismo|ofea
+926089666545307650,2017-11-02 14:12:37,neutral,True,0,0,@iberia #holaargentina hola iberia!👏👏👏,,,,neutral,iberia,holaargentina
+936565674771734528,2017-12-01 12:00:32,neutral,False,0,0,trabajar en #ryanair como #tma: #empleo,,,Madrid,neutral,,ryanair|tma|empleo
+946028893714223104,2017-12-27 14:43:59,neutral,False,0,0,#ib6651 esperando con ilusión la visita de mi madre @iberia,,,,neutral,iberia,ib6651
+948505799881576448,2018-01-03 10:46:19,neutral,True,0,0,@voltiocarvajal @evoespueblo #3ene @larazon_boli #colegiomedicobo #boli @satirulo @monicaa80226984… ,,,Quito,neutral,voltiocarvajal|evoespueblo|larazon_boli|satirulo|monicaa80226984,3ene|colegiomedicobo|boli
+944906206145122304,2017-12-24 12:22:49,negative,False,0,0,"#mis3mejorescosasde2017 - comprar un ,móvil  que me lo roben horas despues. - que ryanair me cobre 160 euros por … ",,,Madrid,negative,,mis3mejorescosasde2017
+927924629422985216,2017-11-07 15:44:06,neutral,True,0,0,@iberia #holacolombia me encanta jar  colombia 🇨🇴 seria un buen país para conocer !!! #ganasdevolar #coniberiamoladicejr,,"Vila-seca, España",Madrid,neutral,iberia,holacolombia|ganasdevolar|coniberiamoladicejr
+927281269892943872,2017-11-05 21:07:37,negative,False,0,0,⏩ ¡segundo tiempo! #cobresal - #iberia #primerab,,,Santiago,negative,,cobresal|iberia|primerab
+930402180837855237,2017-11-14 11:49:00,negative,True,0,0,@iberia #iberiaseparafamilias pero seguro que algún pasajero amable se reubica  podemos volar juntos,,,Madrid,negative,iberia,iberiaseparafamilias
+942829909629657088,2017-12-18 18:52:22,negative,False,0,0,#holaeuropa quiero ser una de las ganadoras de un súper je con @iberia ,,,Central Time (US & Canada),negative,iberia,holaeuropa
+934069117652537345,2017-11-24 14:40:06,neutral,False,0,0,#ecommerce - dhl parcel se consolida como uno de los principales proveedores del comercio electrónico b2c en iberia… ,,,,neutral,,ecommerce
+932952610860093440,2017-11-21 12:43:30,neutral,False,0,0,iberia express  otras aerolíneas se suman al #blackfriday2017 con descuentos de hasta el 50%… ,,,Madrid,neutral,,blackfriday2017
+935430454970331136,2017-11-28 08:49:34,neutral,False,0,0,"¿tienes la tarjeta de carrefour, iberia  repsol? llévalas en tu móvil con yudonpay #branded ",,,,neutral,,branded
+948858871187156993,2018-01-04 10:09:18,positive,False,0,0,"“nos hemos basado en la emotividad de su contenido”, enric pardo, director de exaprint iberia #publicidad… ",,,Madrid,positive,,publicidad
+947794870793580544,2018-01-01 11:41:21,neutral,False,0,0,"iberia se la tiene jurada al ciclista iván coina, pierde la bici  luego se la rompe #triatlón #entrenamiento",,,,neutral,,triatlón|entrenamiento
+926919121996013568,2017-11-04 21:08:34,positive,False,0,0,si fuese rica compraba ryanair para hacerme unas carreritas con los colegas. #quiensequedeantessincombudtiblepierde #ellobodegran,,,Amsterdam,positive,,quiensequedeantessincombudtiblepierde|ellobodegran
+934399960010895365,2017-11-25 12:34:45,negative,False,0,0,"con @iberia, mi destino  un solo click. . ¡deseadme suee! #holaargentina. hola 79 destinos europeos al mejor pre… ",,,Buenos Aires,negative,iberia,holaargentina
+933968732610793472,2017-11-24 08:01:12,positive,True,0,0,@iberia estrena en 2018 vuelos  san francisco  managua #iberia #nuevosdestinos ,,,,positive,iberia,iberia|nuevosdestinos
+923460092665745408,2017-10-26 08:03:37,negative,False,0,0,#marketing #publicidad #mrketingdigital redactor 1eshow madrid 2017: javier hernández (iberia express) ,,,,negative,,marketing|publicidad|mrketingdigital
+946757473318432769,2017-12-29 14:59:06,neutral,False,0,0,la matriz de iberia  british airways quiere subirse  bordo de la aerolínea niki #publicidad #newspublicidad ,,,Madrid,neutral,,publicidad|newspublicidad
+926398213325754368,2017-11-03 10:38:40,positive,False,0,0,.@alfa_laval iberia continua su plan de expansión con la apeura de un nuevo centro de servicio en #madrid… ,,,Madrid,positive,alfa_laval,madrid
+932545907916181504,2017-11-20 09:47:24,negative,False,0,0,hola  todos! esta semana venimos con #chollos para #jes. os propondremos un destino cada día por un precio meno… ,,,,negative,,chollos|jes
+948591850981658625,2018-01-03 16:28:15,negative,False,0,0,#atento24hs un pasajero de ryanair se cansó por la demora del avión  se escapó por la salida de emergencia ,,,Buenos Aires,negative,,atento24hs
+933874603700703232,2017-11-24 01:47:10,neutral,False,0,0,tener que levantae  las :30 para poder jar barato... jajaja #ryanair,,"Breda, Espanya",London,neutral,,ryanair
+941775940312535040,2017-12-15 21:04:16,positive,False,0,0," infobae ""#tipsjeros qué cosas no debes hacer bajo ningún concepto para que te reciban con una sonrisa en cada… ",,,Pacific Time (US & Canada),positive,,tipsjeros
+934898723301228544,2017-11-26 21:36:39,negative,False,0,0,"llevo toda la tarde intentando comprar un billete en #iberiaexpress llamo al call center,  solo aciean  decirme… ",,,Madrid,negative,,iberiaexpress
+930459935380594688,2017-11-14 15:38:30,neutral,False,0,0,la visión puede cambiar el rumbo de una compañía como @iberia @juncagem #enamoramkd ,,,Madrid,neutral,iberia|juncagem,enamoramkd
+926859570860953601,2017-11-04 17:11:56,neutral,True,0,0,@iberia yo quiero vola #holaargentina #holaiberia,,,Pacific Time (US & Canada),neutral,iberia,holaargentina|holaiberia
+937711340642283520,2017-12-04 15:53:00,negative,False,0,0,¡indignad@ #15m está disponible! #15m #iberia,,,Madrid,negative,,iberia
+932664582799323136,2017-11-20 17:38:59,positive,False,0,0,#blackfriday en ryanair: descuentos del 15% en billetes  del 20% en la facturación de maletas… ,,,Athens,positive,,blackfriday
+926491182548553728,2017-11-03 16:48:05,neutral,False,0,0,"amazon, google, alibaba, iberia, seur, entre los ponentes más destacados de eshow #eshowmad17",,,Central Time (US & Canada),neutral,,eshowmad17
+941433419371810817,2017-12-14 22:23:12,positive,False,0,0,#holaeuropa me gustaria jar con @iberia  conocer nuevos destinos...,,,,positive,iberia,holaeuropa
+945986705932324864,2017-12-27 11:56:20,neutral,False,0,0,"#bunkjohnson (nueva orleans, 27 de diciembre de 1879-new iberia,  de julio de 1949) fue un… ",,,Caracas,neutral,,bunkjohnson
+944533487394213888,2017-12-23 11:41:46,negative,False,0,0,después de 25 minutos de espera al 901 de #iberia  que te digan que no soluciona tu problema no tiene precio......… ,,,,negative,,iberia
+942451536017444865,2017-12-17 17:48:50,positive,False,0,0,sierras #grazalema  las #nieves #aerea en vuelo marrakech/madrid #iberia ,,,Madrid,positive,,grazalema|nieves|aerea|iberia
+926377184859754496,2017-11-03 09:15:06,neutral,True,0,0,@airberlin despide  sus empleados de palma de mallorca #ere ¿perdió la empresa contra ryanair en #baleares? #paro,,,Madrid,neutral,airberlin,ere|baleares|paro
+945998800044412929,2017-12-27 12:44:24,neutral,False,0,0,iberia busca técnicos de mantenimiento para trabajar en madrid  barcelona: #trabajo #empleo,,,Madrid,neutral,,trabajo|empleo
+926389064202379264,2017-11-03 10:02:19,negative,False,0,0,recuerdo mi tuit para  no se olvide  lo volváis  ver @ryanair_es @ryanair #verguenza ,,,Madrid,negative,ryanair_es|ryanair,verguenza
+934117501939699712,2017-11-24 17:52:22,negative,False,0,0,gracias @ryanair_es @ryanair por hacer perder mi vuelo! sois únicos! #vergonzoso #barcelona,,,,negative,ryanair_es|ryanair,vergonzoso|barcelona
+926455818547023872,2017-11-03 14:27:34,negative,False,0,0,"amazon, google, alibaba, iberia, seur, entre los ponentes más destacados de eshow por @mkdirecto #eshowmad17",,,,negative,mkdirecto,eshowmad17
+941351486130442240,2017-12-14 16:57:38,positive,False,0,0,en @infobae junto  @iberia inauguramos la sección 👉🏼 #tipsjeros  te contamos varios datos curiosos de grandes… ,,,Santiago,positive,infobae|iberia,tipsjeros
+938004234288672768,2017-12-05 11:16:51,negative,False,0,0,#italia abre un expediente  #ryanair por no informar sobre los derechos de cancelación  sus clientes @ryanair_it,,,,negative,ryanair_it,italia|ryanair
+950375360868376576,2018-01-08 14:35:17,positive,False,0,0,iberia  air europa lanzan sus rebajas con vuelos  europa desde 29 euros #turismo,,,,positive,,turismo
+931506640771272704,2017-11-17 12:57:44,positive,False,0,0,ayer inauguramos la sala vip velázquez de @iberia de la t4 satélite. gracias  @tetris_db   #unen por su colabora… ,,,Madrid,positive,iberia|tetris_db,unen
+931205527090188289,2017-11-16 17:01:13,positive,False,0,0,#noticias #tecnología ryanair inaugura un centro de innovación digital  tecnología en madrid ,,,Amsterdam,positive,,noticias|tecnología
+926072659003301888,2017-11-02 13:05:02,positive,False,0,0,#note8abordo samsung regala un note   todos los pasajeros del vuelo madrid- la coruña de iberia. son seguros! ,,,Madrid,positive,,note8abordo
+931334517415178240,2017-11-17 01:33:46,positive,True,0,0,@iberia ya quiero saber los ganadores!! #seréyo #holacolombia,,,Bogota,positive,iberia,seréyo|holacolombia
+942576415861608448,2017-12-18 02:05:04,neutral,False,0,0,#holaeuropa nos fuimos con @iberia ,,,,neutral,iberia,holaeuropa
+944020540490223616,2017-12-22 01:43:30,neutral,False,0,0,vuelo @iberia 6583 🇪🇸 #madrid @aena @aeromedellinrng #medellín 🇨🇴 aterrizó :38pm cc @bestravel1 @eldatoaereo,,,Bogota,neutral,iberia|aena|aeromedellinrng|bestravel1|eldatoaereo,madrid|medellín
+933638628491907072,2017-11-23 10:09:29,positive,False,0,0,ryanair se suma al #bigdata con el fin de ofrecer mejores experiencias  sus clientes  un servicio más personaliza… ,,,Madrid,positive,,bigdata
+934418722005102592,2017-11-25 13:49:18,positive,False,0,0,"encima que los fujimoristas les perdonan tremenda deuda al estado, #latam sigue timando con los precios. ¿cuándo … ",,,Eastern Time (US & Canada),positive,,latam
+935913081422610433,2017-11-29 16:47:21,neutral,False,0,0,picos #airplane #picosdeeuropa #iberia #fly #asturias #mountains #snow #blackandwhite… ,,,Amsterdam,neutral,,airplane|picosdeeuropa|iberia|fly|asturias|mountains|snow|blackandwhite
+927311067310673922,2017-11-05 23:06:01,positive,True,0,0,@iberia #holaargentina #holaiberia 😂😘❤️🍀🍀 @iberia ¡holaaaaa! ,,,Amsterdam,positive,iberia|iberia,holaargentina|holaiberia
+940770355668574209,2017-12-13 02:28:26,neutral,False,0,0,en #outlander jan más que la mayoría de personas en la actualidad  sin ryanair ni nada,,,Madrid,neutral,,outlander
+927548284071227394,2017-11-06 14:48:38,negative,False,0,0,"cuidado con comprar en cybermonday con @iberia , errores que pueden costar mas  el mismo pasaje según hagas la cotización #cibermonday",,,Santiago,negative,iberia,cibermonday
+934613947759542273,2017-11-26 02:45:04,negative,False,0,0,"#interesante así fue el accidente del vuelo 5022 de spanair, el más letal en españa en  décadas [video]… ",,,Caracas,negative,,interesante
+937989915547258881,2017-12-05 10:19:57,negative,True,0,0,@javier_mateo @iberia pues siii. esto ya es de vergüenza!!! #iberiaarruinandominavidad,,,,negative,javier_mateo|iberia,iberiaarruinandominavidad
+923965514216591360,2017-10-27 17:31:59,neutral,False,0,0,"hoy rezaré fuee para que @aireuropa regale #note8 de @samsungespana en el lcg-mad de mañana, como @iberia hace unos días",,,Europe/Madrid,neutral,aireuropa|samsungespana|iberia,note8
+927979214393036802,2017-11-07 19:21:00,neutral,False,0,0,#loganamosentretodos vamos iberia toda la fe del mundo vamos hermanitojuan maestrito gutierrez,,,,neutral,,loganamosentretodos
+943074057125277696,2017-12-19 11:02:31,neutral,False,0,0,barómetro #business: en  de cada  reservas se utiliza la tarjeta frequent flyers de la compañía aérea; iberia es…… ,,,,neutral,,business
+946102358349672448,2017-12-27 19:35:54,neutral,False,0,0,#flightdeal monterrey (mty) - rome (fco) cop 2508750   iberia ,,,,neutral,,flightdeal
+941703564317126661,2017-12-15 16:16:40,positive,False,0,0,acabo de descubrir que el piloto crack de #iberia que me llevó de madrid  venecia el  de mayo del año pasado se … ,,,Madrid,positive,,iberia
+940654844074962944,2017-12-12 18:49:26,negative,False,0,0,mala gestión de @ryanair #ryanair @ryanair_es con el trato de los pasajeros vuelo weeze (düsseldorf) - málaga del … ,,,,negative,ryanair|ryanair_es,ryanair
+937735639776317440,2017-12-04 17:29:33,neutral,False,0,0,guías de destinos para visitar con niños | me gusta volar #familiaabordo,,,Quito,neutral,,familiaabordo
+932760813672255488,2017-11-21 00:01:22,positive,False,0,0,de la mano de monacor iberia estaremos presentes  pair de mañana dia 21 hasta el proximo 23 en #bitam2017 en el… ,,"Madrid, España",Madrid,positive,,bitam2017
+936267618893422599,2017-11-30 16:16:10,neutral,True,0,0,@ryanair marruecos! #travelthursday,,"Dos Hermanas, España",Amsterdam,neutral,ryanair,travelthursday
+933870393089314816,2017-11-24 01:30:26,neutral,True,0,0,@ryanair madrid #travelthursday ,,,,neutral,ryanair,travelthursday
+923275754154217473,2017-10-25 19:51:08,neutral,False,0,0,"¿por qué no puedes ser tu, uno de los 100? ryanair reclutará en españa 100 tripulantes de cabina #laranagaspar… ",,,Pacific Time (US & Canada),neutral,,laranagaspar
+944154604614414336,2017-12-22 10:36:13,neutral,False,0,0,feliz en #elprat volando con #iberia de regreso  casa  tirmpo para la #navidad,,,,neutral,,elprat|iberia|navidad
+936887878805635073,2017-12-02 09:20:51,negative,False,0,0,"lo que no ha separado dios, que lo separe #ryanair",,,Lisbon,negative,,ryanair
+943100095855321089,2017-12-19 12:45:59,negative,False,0,0,"#aytalento #lasubcontrata #aitalento ryanair  vueling, las compañías con más vuelos retrasados en los aeropueos… ",,,Pacific Time (US & Canada),negative,,aytalento|lasubcontrata|aitalento
+937615501060132864,2017-12-04 09:32:10,neutral,False,0,0,"buenos días @iberia, quiero jar con un bebé  su respectivo carro, se podría subir al avión? gracias de antemano. #cyacauja",,,Madrid,neutral,iberia,cyacauja
+945622346722893824,2017-12-26 11:48:30,negative,False,0,0,saludos desde #perm  recuerden no volar por @iberia  #rusia2018 ya que les pierden las maletas! #iberia ,,,,negative,iberia,perm|rusia2018|iberia
+933799210750808064,2017-11-23 20:47:35,neutral,True,0,0,@ryanair #travelthursday # madrid #,,,Casablanca,neutral,ryanair,travelthursday
+933704594856792064,2017-11-23 14:31:37,neutral,True,0,0,@ryanair madrid!!!! 💪🏻🌍🛩🛬 #travelthursday,,,,neutral,ryanair,travelthursday
+927952832157843456,2017-11-07 17:36:10,neutral,True,0,0,@iberia #holacolombia jeje,,,Paris,neutral,iberia,holacolombia
+931241600197435392,2017-11-16 19:24:33,positive,False,0,0,¡conectados con el mundo gracias al #wifi en vuelo de @iberia! así sí disfruta mr. @soydavidorrego ,,"Madrid, España",Bogota,positive,iberia|soydavidorrego,wifi
+933405834016587782,2017-11-22 18:44:27,neutral,True,0,0,"@mad_c2 @iberia  yo estoy en santiago, reubicado en el #ib3881 pero aquí hace un tiempo muy feo",,,Madrid,neutral,mad_c2|iberia,ib3881
+948190115226181636,2018-01-02 13:51:54,neutral,False,0,0,#estapasando una azafata de @iberia  la otra: «mira  ver si hay hueco para tres seres humanos» mierda. no vi… ,,,,neutral,iberia,estapasando
+950409485415219206,2018-01-08 16:50:53,positive,False,0,0,#larioja las rebajas llegan  los jes: iberia  air europa ofrecen billetes por 29 euros ,,,Madrid,positive,,larioja
+945232436752998400,2017-12-25 09:59:09,positive,False,0,0,"#feliznavidad estamos en la puea 🚪de embarque del vuelo 🛫  #chicago, #estadosunidos como siempre en la mejor com… ",,,Madrid,positive,,feliznavidad|chicago|estadosunidos
+927843492407205889,2017-11-07 10:21:41,positive,False,0,0,cómo me cuida la tripulación de .@iberia 6252 🙏 #trendingnow #nycgo #visitspain ,,,Eastern Time (US & Canada),positive,iberia,trendingnow|nycgo|visitspain
+941605179987845120,2017-12-15 09:45:43,neutral,False,0,0,#aytalento #lasubcontrata #aitalento ryanair reconocerá  los sindicatos de pilotos para evitar huelgas en navidad… ,,,Pacific Time (US & Canada),neutral,,aytalento|lasubcontrata|aitalento
+942174021524783110,2017-12-16 23:26:06,neutral,False,0,0,en la cola de iberia nos están pidiendo los pasapoes  los que más pinta de guiris tenemos. #ojoporojo #oriaecuatoriana,,,Madrid,neutral,,ojoporojo|oriaecuatoriana
+937649096562757632,2017-12-04 11:45:39,positive,False,0,0,la exposición de #iberia sobre la #ación cierra con más de 10.000 visitantes @iberia @turismomadrid,,,,positive,iberia|turismomadrid,iberia|ación
+927968299157262336,2017-11-07 18:37:37,neutral,True,0,0,@iberia #holacolombia el mejor momento es cuando desde el avión ves sus paisajes!!,,,,neutral,iberia,holacolombia
+926358994045865985,2017-11-03 08:02:49,negative,False,0,0,#iberia #iberiaexpress nos tienen que devolver 60e por incompetentes.aprendan  gestionar sistemas  no abusen de los pasajeros.,,,,negative,,iberia|iberiaexpress
+948829983249715200,2018-01-04 08:14:31,negative,False,0,0,que deli dejar de jar en ryanair #teamoturkish,,"Budapest, Hungary",Central Time (US & Canada),negative,,teamoturkish
+942851397254565888,2017-12-18 20:17:45,negative,False,0,0,somos varios @iberia los que les pedimos ser mas humanos #verguenzadelaire #90aniversario #megustavolar ,,,Brasilia,negative,iberia,verguenzadelaire|megustavolar
+937646546367275010,2017-12-04 11:35:31,positive,True,0,0,@iberia más que nada lo decía porque  través de #periscope tienen más repercusión 🙂 gracias de nuevo por las respuestas @iberia 😘 #cmuoc,,,Madrid,positive,iberia|iberia,periscope|cmuoc
+933640129545146368,2017-11-23 10:15:27,neutral,False,0,0,el big data se sube al avión. #bigdata #hadoop #ryanair,,,,neutral,,bigdata|hadoop|ryanair
+938016330913116161,2017-12-05 12:04:55,negative,True,0,0,@ryanair_es 😡compré vuelo #ryanair  al día siguiente tuve que comprar otro para mi hermana menor de edad. al hacer… ,,,Pacific Time (US & Canada),negative,ryanair_es,ryanair
+947510325863174146,2017-12-31 16:50:40,positive,False,0,0,""" mí no me dejan pasar en ryanair con una bolsa de más de 10kg van  dejar pasar una mini hormiga  touga."" jajaja en serio #otdirecto31d",,,London,positive,,otdirecto31d
+944644204411617281,2017-12-23 19:01:43,negative,False,0,0,que ocurre con los #equipajesespeciales de @iberia ? aterrizamos  las 18h30  aun estamos esperando el carrito del… ,,,Madrid,negative,iberia,equipajesespeciales
+932642199874838528,2017-11-20 16:10:02,positive,False,0,0,'aerolínea sonora' el #podcast que resulta de la unión de @podiumpodcast + @iberia para celebrar las  décadas de … ,,,,positive,podiumpodcast|iberia,podcast
+930236268914597890,2017-11-14 00:49:44,negative,True,0,0,@iberia #holacolombia hola quiero saber si estoy paicipando  el concurso de @iberia,,,,negative,iberia|iberia,holacolombia
+924018123363225600,2017-10-27 21:01:02,negative,False,0,0,jar con #ryanair seria como otra aerolinea cualquiera si no fuera por lo plastas que son con las ventas  bordo  el altavoz  todo taco,,,Paris,negative,,ryanair
+948109312857198592,2018-01-02 08:30:49,neutral,False,0,0,primer #duelodemarcas: ryanair vs easyjet vía mkdirecto,,,Amsterdam,neutral,,duelodemarcas
+927926056128008193,2017-11-07 15:49:46,positive,True,0,0,"@iberia #holacolombia deseando volver! eso es lo que pasa.. quien te conoce,no puede olvidae!! gente,paisajes  … ",,,Amsterdam,positive,iberia,holacolombia
+934836531151458308,2017-11-26 17:29:32,negative,False,0,0,la blogger fiona ferrer leoni nos habla de su experiencia con la moda  de sus jes | iberia plus #latinoamérica,,,Quito,negative,,latinoamérica
+944553623127777282,2017-12-23 13:01:47,positive,True,0,0,"@iberia imagino que debe ser por los avios acumulados, pero haberme pasado  #iberiaplusplata premia mi fidelidad … ",,"Las Palmas de Gran Canaria, España",London,positive,iberia,iberiaplusplata
+927961556377366530,2017-11-07 18:10:50,neutral,False,0,0,ryanair realizará en opoo conexiones internacionales  pair de enero. #acionaldia ,,,Pacific Time (US & Canada),neutral,,acionaldia
+932893489859301376,2017-11-21 08:48:34,negative,False,0,0,cómo una representación de los datos te hace la idea de que lo que quieren es estafae #ryanair #blackfriday ,,,Amsterdam,negative,,ryanair|blackfriday
+944925039673118720,2017-12-24 13:37:39,negative,False,0,0,cuando jen  #rusia2018 no lo hagan por @iberia ya que despacha mal las maletas  no llegan  destino... emiten… ,,,,negative,iberia,rusia2018
+944939564048830465,2017-12-24 14:35:22,negative,False,0,0,"luis, indignado con @iberia #testimonios 👇🏻 ",,,Santiago,negative,iberia,testimonios
+948893751224791040,2018-01-04 12:27:54,negative,False,0,0,las quejas efectuadas  #iberia.com en su aplicativo de su web sistemáticamente son desestimadas. vaya servicio … ,,,Amsterdam,negative,,iberia
+944199371150766080,2017-12-22 13:34:07,negative,False,0,0,ustedes son tontos  ignorantes? @supermanlopezn es un atleta impoante en #colombia pagen la bicicleta  será mala publicidad para @iberia,,,Caracas,negative,supermanlopezn|iberia,colombia
+946680858437545984,2017-12-29 09:54:39,negative,True,0,0,@iberia ya 17 dias sin mi valija perdida...#unaverguenza,,,Buenos Aires,negative,iberia,unaverguenza
+930440724184731648,2017-11-14 14:22:10,positive,False,0,0,ryanair lanza una nueva ruta con la república checa #elaltet vía @informacion_es,,,,positive,informacion_es,elaltet
+933327731672133632,2017-11-22 13:34:06,neutral,True,0,0,@iberia un poquito estafa vuestro #blackfriday . ida 50€/vuelta 250€...no hay ni un destino  europa con precio ida… ,,,,neutral,iberia,blackfriday
+923443108855021568,2017-10-26 06:56:08,positive,False,0,0,#buenosdias #felizjueves aterrizaje del vuelo de #madrid en @aeropueo_lcg @lcgairpo sin novedad 😀 @vocescoruna… ,,"Culleredo, España",,positive,aeropueo_lcg|lcgairpo|vocescoruna,buenosdias|felizjueves|madrid
+942422864073932800,2017-12-17 15:54:54,neutral,False,0,0,baraja #vintage de iberia ,,,Madrid,neutral,,vintage
+931526401630654467,2017-11-17 14:16:15,neutral,False,0,0,ryanair busca conveirse en el “amazon de los jes” desde sus oficinas en madrid #tic #tecnología,,,,neutral,,tic|tecnología
+948284328416567296,2018-01-02 20:06:16,negative,False,0,0,gracias @iberia por fastidiarme la #navidad voy  #espana de vacaciones  me perdeis la maleta volando de #jerez … ,,,,negative,iberia,navidad|espana|jerez
+933265276807901184,2017-11-22 09:25:55,negative,True,0,0,"@iberia en fin...para que, si  los  días de reservar el vuelo iberia #laverguenzadelturismoenespaña me anula el … ",,,Madrid,negative,iberia,laverguenzadelturismoenespaña
+938019781533425664,2017-12-05 12:18:38,positive,False,0,0,"tiene un buen perfil de atención al cliente, las 24 horas @iberia #cyacauja",,,Pacific Time (US & Canada),positive,iberia,cyacauja
+934533308767227904,2017-11-25 21:24:38,negative,False,0,0,pues nada @vueling ... pair de ahora @fly_norwegian  @ryanair ...#cerdanyola #barcelona #lleida #tarragona… ,,,Paris,negative,vueling|fly_norwegian|ryanair,cerdanyola|barcelona|lleida|tarragona
+923272529749467137,2017-10-25 19:38:19,neutral,False,0,0,"línea directa, ryanair  la larga lista de empresas que estafan con los 902 #stop902 #cx ",,,Europe/Madrid,neutral,,stop902|cx
+930908307900026880,2017-11-15 21:20:10,neutral,False,0,0,#reclamo te ayudamos  difundir tu reclamo. seguimos  ayúdanos  crear una red en defensa de jeros ,,,Buenos Aires,neutral,,reclamo
+942820398315470849,2017-12-18 18:14:34,negative,False,0,0,entrevista  @lifefitness: de la máquina al #fitness experiencial ,,,Pacific Time (US & Canada),negative,lifefitness,fitness
+947894247927185408,2018-01-01 18:16:14,neutral,False,0,0,#marketingdigital #socialmedia #communitymanager llega el primer #duelodemarcas de marketingdirecto: ryanair vs. ea… ,,,Central Time (US & Canada),neutral,,marketingdigital|socialmedia|communitymanager|duelodemarcas
+940962723181015046,2017-12-13 15:12:50,negative,False,0,0,trabajadores de #iberia convocan  huelga en el aeropueo de barcelona entre 21  24 de diciembre.,,"Caracas, Venezuela",Caracas,negative,,iberia
+923189014936588288,2017-10-25 14:06:27,neutral,False,0,0,"se acuerdan que se comento...sin duda  se rompieron, buen je lleva .. #iag #iberia ",,,Madrid,neutral,,iag|iberia
+933014342810906625,2017-11-21 16:48:48,positive,True,0,0,@ultimallamada_ parece que mañana #iberia lanza promo por #blackfriday (aún no he recibido yo email) de vuelos naci… ,,,Madrid,positive,ultimallamada_,iberia|blackfriday
+947771969080086528,2018-01-01 10:10:20,negative,False,0,0,"buenos días  feliz año! aquí sigo , esperando  que @iberia se ponga en contacto conmigo... #esperandonoticias#reclamacioniberia",,,,negative,iberia,esperandonoticias|reclamacioniberia
+932601961865711617,2017-11-20 13:30:09,positive,False,0,0,#tv el 'black friday' llega  ryanair: descuentos del 15% en billetes  del 20% en la… ,,,Beijing,positive,,tv
+948256353654661120,2018-01-02 18:15:07,negative,True,0,0,@iberiaexpress @iberia hacía 10 años (erasmus) que no volaba con vosotros. hoy os he dado otra opounidad #fail. … ,,,Madrid,negative,iberiaexpress|iberia,fail
+942710104281010176,2017-12-18 10:56:18,neutral,True,0,0,@iberia  airnostrum firman con #cantabria aumentar la frecuencia  los horarios #santander - #madrid  retomar el… ,,,Madrid,neutral,iberia,cantabria|santander|madrid
+943904200521666562,2017-12-21 18:01:12,negative,False,0,0,#mvt21d cataluña siempre  la vanguardia ideológica de nuestra iberia vieja !! ejemplo de inteligencia  de lucha … ,,,,negative,,mvt21d
+935224100238307328,2017-11-27 19:09:35,positive,False,0,0,por mucho que jas en #avion hay cosas que siempre sorprenden #compaetuatardecer @iberia #airbus #airbus320… ,,,Paris,positive,iberia,avion|compaetuatardecer|airbus|airbus320
+926871350299512832,2017-11-04 17:58:45,positive,True,0,0,@iberia #holaargentina muchas gracias  hacer este soeo. les deseo mucha suee  todos  muchos éxitos  @iberia,,,,positive,iberia|iberia,holaargentina
+941206119682371584,2017-12-14 07:20:00,neutral,False,0,0,"oye @iberia, creo que hoy cumplís 90 años volando ¿verdad?... pues ¡muchas felicidades! #porquesiemprehayalgoquecelebrar",,,Madrid,neutral,iberia,porquesiemprehayalgoquecelebrar
+941044060743184391,2017-12-13 20:36:02,negative,True,0,0,@ugt_comunica #ugt hijos de la gran puta por la convoca de huelga de #iberia por navidad. como se puede ser tan ego… ,,,,negative,ugt_comunica,ugt|iberia
+937596204891992066,2017-12-04 08:15:29,negative,False,0,0,"hoy en #rinconete | iberia legendaria (29). nacimientos maravillosos, por jeneze riquer - #literatura",,,Madrid,negative,,rinconete|literatura
+948666188984471558,2018-01-03 21:23:39,negative,False,0,0,esto de las #aerolineaslowcost no estará llegando demasiado lejos? 🤪🤪🤪 ,,,Buenos Aires,negative,,aerolineaslowcost
+926844058894561281,2017-11-04 16:10:18,neutral,False,0,0," además el @iberia 8524 en camino, van  coincidir  #atr de @airnostrumlam en plataforma @aeropueo_pna ",,,,neutral,iberia|airnostrumlam|aeropueo_pna,atr
+930188000386011136,2017-11-13 21:37:56,positive,True,0,0,@iberia #holacolombia   disfrutarla,,,Bogota,positive,iberia,holacolombia
+947985627617878016,2018-01-02 00:19:21,negative,True,0,0,@elena_rms @iberia iberia es una puta mierda #boicot,,,,negative,elena_rms|iberia,boicot
+927915926284062720,2017-11-07 15:09:31,positive,False,0,0,"de los creadores de ""biletes de ave  25 pavos""  ""vuelos con iberia  un euro"" llega #honorcrazyday #horrorcrazyday",,,Madrid,positive,,honorcrazyday|horrorcrazyday
+935886252745818113,2017-11-29 15:00:45,neutral,False,0,0,#cosep los vuelos por #iberia podría ayudar  enr carga  otros países con mayor facilidad  más económicos. ,,,Mountain Time (US & Canada),neutral,,cosep|iberia
+934131170115244032,2017-11-24 18:46:40,positive,False,0,0,drinking  mahou maestra  @mahousanmiguel @ sala vip iberia velázquez — #photo,,,Brasilia,positive,mahousanmiguel,photo
+930434991649099779,2017-11-14 13:59:23,negative,False,0,0,"trabajadores en el aeropueo de barajas cumplen con sus obligaciones laborales bajo duras #condicionesclimáticas,… ",,,Pacific Time (US & Canada),negative,,condicionesclimáticas
+936341119738277888,2017-11-30 21:08:13,negative,True,0,0,@iberia ... en cuanto dejéis de subcontratar la mayoría de los vuelos de #melilla con marcas blancas ✈️⚪️❌ ,,"Melilla, España",Madrid,negative,iberia,melilla
+941295651538817026,2017-12-14 13:15:46,negative,False,0,0,"cuidado con los cobros de @flywithleveles de @iberia, cobra en dólares los vuelos comprados desdeespaña!!!! #denuncia #denuncialevel",,,,negative,flywithleveles|iberia,denuncia|denuncialevel
+942789133558276101,2017-12-18 16:10:20,negative,False,0,0,turquía ación - iberia  otras nueve compañías cancelan vuelos  turquía por el… #fb,,,America/Barbados,negative,,fb
+937044851543150592,2017-12-02 19:44:36,positive,False,0,0,así disfrutamos el vuelo #shanghai #madrid de @iberia 🤩🤩#travelblogger #jarconniños ,,,,positive,iberia,shanghai|madrid|travelblogger|jarconniños
+927963038271070208,2017-11-07 18:16:43,neutral,True,0,0,@iberia hermoso país #holacolombia #holaiberia,,,,neutral,iberia,holacolombia|holaiberia
+930306835122475009,2017-11-14 05:30:08,neutral,False,0,0,san marcos cerró el torneo con empate  mandando  iberia al descenso #arica,,,Santiago,neutral,,arica
+941307260864737280,2017-12-14 14:01:54,negative,False,0,0, frente para ryanair: el personal de tierra amenaza también con huelga  fin de año #business,,,Pacific Time (US & Canada),negative,,business
+927689100039213056,2017-11-07 00:08:11,positive,True,0,0,@iberia #holaargentina sere la ganadora @iberia gracias!,,,,positive,iberia|iberia,holaargentina
+941302774595235840,2017-12-14 13:44:04,positive,False,0,0,#ofeadetrabajo ingeniero de ventas junior (ise) para pro-lite technology iberia ,,,Madrid,positive,,ofeadetrabajo
+938178629523079168,2017-12-05 22:49:50,neutral,False,0,0,#iberia bautizará su nuevo #irbus #a330-200 con el nombre #santodomingo  realiza #vuelos de prueba ,,,La Paz,neutral,,iberia|irbus|santodomingo|vuelos
+942406531093471232,2017-12-17 14:50:00,neutral,False,0,0,#transpoe: ryanair busca acuerdo con pilotos para evitar huelga la próxima semana ,,,Bogota,neutral,,transpoe
+934172523888967680,2017-11-24 21:31:00,neutral,False,0,0,"las grandes ofeas en vuelos de iberia, vueling, ryanair  easyjet para el #blackfriday ",,,Greenland,neutral,,blackfriday
+935212999069044737,2017-11-27 18:25:29,negative,False,0,0,yo aquí creandome falsas expectativas en concursos en internet. @iberia #holacolombia. ,,,Bogota,negative,iberia,holacolombia
+927745882182864897,2017-11-07 03:53:49,neutral,False,0,0,#holaargentina necesito jarrrr (aunque hoy haya vuelto de je) quiero hacer el camino de santiago! ,,,Buenos Aires,neutral,,holaargentina
+946270047638519809,2017-12-28 06:42:14,negative,True,0,0,@iberia sos una vergüenza!  veces volando en #level   veces con retrasos por problemas técnicos. vergüenza!,,,,negative,iberia,level
+935097143370625024,2017-11-27 10:45:06,positive,False,0,0,la aerolínea @iberia tendrá nuevas conexiones en 2018 desde el #aeropueo de #madrid hacia #managua  #sanfrancisco ,,,,positive,iberia,aeropueo|madrid|managua|sanfrancisco
+942440697478737920,2017-12-17 17:05:46,neutral,False,0,0,"devir iberia - pandemic legacy, temporada , color amarillo (225471) #laboresparaninos",,,Madrid,neutral,,laboresparaninos
+940604532815515650,2017-12-12 15:29:30,negative,True,0,0,@iberia los pasajeros del vuelo #ib3723 amsterdam-madrid lo tienen claro. un destino donde no puedan darse inclemen… ,,,,negative,iberia,ib3723
+947187385955241985,2017-12-30 19:27:25,neutral,False,0,0,"feliz año 2018, desde #caturanz cámara de turismo estado anzoategui, (institución gremial, no gubernamental)… ",,,Caracas,neutral,,caturanz
+943187742653059080,2017-12-19 18:34:16,positive,False,0,0,hola europa#madrid# iberia# lo máximo 🌍🌏líder en vuelos  servicios con calidad. ,,,,positive,,madrid
+930178014717075456,2017-11-13 20:58:15,negative,False,0,0,"macrodemanda de los tripulantes de cabina de ryanair en españa por la ""multiplicidad de contratos"" (el #somositf",,,,negative,,somositf
+935676195059978240,2017-11-29 01:06:03,negative,False,0,0,#ryanair al fin contesta #reclamación por #cancelación 18h antes de volar  deniega compensar alegando huelga de controladores franceses.,,,Madrid,negative,,ryanair|reclamación|cancelación
+923247236271747073,2017-10-25 17:57:48,positive,False,0,0,gracias #iberia ,,,Central Time (US & Canada),positive,,iberia
+948830093060771841,2018-01-04 08:14:57,positive,True,0,0,@iberia buenos dias! feliz año #como os he echado de menos... #iberia #iberiafan #iberialover ,,,Athens,positive,iberia,como|iberia|iberiafan|iberialover
+938019268981149696,2017-12-05 12:16:35,neutral,True,0,0,@lmonterorguez @iberia en su perfil pone que está  nuestro servicio las 24 horas #cyacauja,,,,neutral,lmonterorguez|iberia,cyacauja
+934340241137205248,2017-11-25 08:37:27,neutral,False,0,0,el canal smithsonian recrea en un vídeo el accidente de spanair en barajas #jk5022 ,,,,neutral,,jk5022
+948640451963359232,2018-01-03 19:41:23,negative,False,0,0,así se bajó un pasajero de ryanair hao de esperar para desembarcar  #hipeextual ,,,Santiago,negative,,hipeextual
+941334757522182146,2017-12-14 15:51:10,neutral,False,0,0, desde entonces en #españa 🇪🇸 las distancias comenzaron  medirse en tiempo  no en kilómetros. felicidades… ,,,Madrid,neutral,,españa
+935419796664942592,2017-11-28 08:07:13,negative,False,0,0,lufthansa supera  ryanair en liderazgo de pasajeros en europa #noticias ,,,,negative,,noticias
+941070703402651648,2017-12-13 22:21:54,negative,False,0,0,#ryanairhuelga huelga del personal de tierra de ryanair en españa desde el 30 de diciembre vía @indpcom,,,,negative,indpcom,ryanairhuelga
+936152439065137152,2017-11-30 08:38:29,negative,False,0,0,ryanair siempre quiere ser la aerolínea más barata 🙈 #español #españa #vuelos #lc #spanish #jar ,,,London,negative,,español|españa|vuelos|lc|spanish|jar
+930173495845249024,2017-11-13 20:40:17,positive,False,0,0,please  #jes #jar #travel ryanair abre nuevas rutas en españa ,,,Madrid,positive,,jes|jar|travel
+935214286267334656,2017-11-27 18:30:35,neutral,False,0,0,"salida del diurno iberia  cargo de la 333-042, dejando atrás salamanca 2006 #tren #train… ",,,,neutral,,tren|train
+943087078010753026,2017-12-19 11:54:15,neutral,False,0,0,color en lisboa #europa #europe #iberia #iberico #pougal #pouguese #pougues #gorpman… ,"[38.7167, -9.13333]","Lisboa, Portugal",,neutral,,europa|europe|iberia|iberico|pougal|pouguese|pougues|gorpman
+944197096219054080,2017-12-22 13:25:04,negative,False,0,0,"para nuestros alumnos de #empresa: ryanair cae casi un 20% en la última semana, ¿queréis saber por qué?… ",,,Amsterdam,negative,,empresa
+950448917346430977,2018-01-08 19:27:35,negative,True,0,0,"@iberia desde el jueves sin mi #maleta recibiendo sms anunciando entregas que nunca se producen, llamando  un 901,… ",,,Madrid,negative,iberia,maleta
+945505049907621888,2017-12-26 04:02:25,negative,True,0,0,@denisedresserg #tipicodenavidad que @iberia pierda tu maleta  le valga madres dae una respuesta. @profeco… ,,,Pacific Time (US & Canada),negative,denisedresserg|iberia|profeco,tipicodenavidad
+942796863714902016,2017-12-18 16:41:03,neutral,False,0,0,#cuba iberia lanza en colombia su programa on business - (comunicado de prensa) (blog) ,,,Madrid,neutral,,cuba
+938358188625268737,2017-12-06 10:43:20,positive,False,0,0,#ryanair vuelo madrid-fuerreventura. ya 1h. de retraso .......,,,,positive,,ryanair
+926612652742397952,2017-11-04 00:50:46,positive,True,0,0,@iberia #holaargentina #holaa nos vamos!,,,,positive,iberia,holaargentina|holaa
+928020061754937344,2017-11-07 22:03:19,negative,False,0,0,non existe un piloto de ryanair que sepa aterrizar sin dar mil tumbos 🙈 #acabanconmigo . xa en barcelona,,,Athens,negative,,acabanconmigo
+934027117691592704,2017-11-24 11:53:12,neutral,False,0,0,#aerolíneas #airlines #ryanair si los tripulantes no venden más #scratchcards podrían ser penalizados ,,,Buenos Aires,neutral,,aerolíneas|airlines|ryanair|scratchcards
+930105448124084224,2017-11-13 16:09:54,positive,True,0,0,"@iberia #holacolombia , quiero conocer españa🇪🇸 , voy por los tiquetes!!! 💪🏻🎉🙋🏼",,,,positive,iberia,holacolombia
+941786021930438656,2017-12-15 21:44:19,negative,False,0,0,es la primera vez que me desembarcan para contar los pasajeros de @iberia en @gatwick_airpo #neverendingstory ,,"Crawley, South East",,negative,iberia|gatwick_airpo,neverendingstory
+929982379967549440,2017-11-13 08:00:52,negative,True,0,0,"#rayanair pone en riesgo la seguridad de sus pasajeros al igual que los #bilderberg con sus decisiones tomadas ""por… ",,,Greenland,negative,,rayanair|bilderberg
+942734712463904768,2017-12-18 12:34:05,positive,True,0,0,@ryanair_es @ryanair jar te abre la mente  hace descubrir rincones  momentos que nunca podrás olvidar! #ryanair,,,Amsterdam,positive,ryanair_es|ryanair,ryanair
+934874352105000961,2017-11-26 19:59:49,neutral,False,0,0,saltando #losalpes #ryanair #torino #barcelona ,,"Torino, Piemonte",,neutral,,losalpes|ryanair|torino|barcelona
+944321772752654337,2017-12-22 21:40:29,neutral,False,0,0,nos das un ? #decoracion #deco convención comercial lhd iberia 2016 ,,,,neutral,,decoracion|deco
+936337008590540803,2017-11-30 20:51:53,negative,True,0,0,@iberia 21.50  contando....¿alguien aposto  las 22? #iberia,,,Hawaii,negative,iberia,iberia
+942878107169624065,2017-12-18 22:03:53,negative,True,0,0,@iberia un cambio de fecha te cuesta mas de lo pagaste por tu vuelo!!!! #inaceptable,,,La Paz,negative,iberia,inaceptable
+945504467897610240,2017-12-26 04:00:06,negative,True,0,0,@elfinanciero_mx #tipicodenavidad que @iberia pierda tu maleta  le valga madres dae una respuesta. @profeco… ,,,Pacific Time (US & Canada),negative,elfinanciero_mx|iberia|profeco,tipicodenavidad
+948900594403676166,2018-01-04 12:55:06,negative,False,0,0,#lomásvisto un pasajero de ryanair en un ala del avión cansado de esperar para salir (video),,,Central America,negative,,lomásvisto
+927585194479161346,2017-11-06 17:15:18,neutral,False,0,0,#ofea de #empleo: @ryanair busca 100 #tcp en #barcelona #sevilla #palma #valencia #granada  #madrid… ,,,Pacific Time (US & Canada),neutral,ryanair,ofea|empleo|tcp|barcelona|sevilla|palma|valencia|granada|madrid
+935237963432255488,2017-11-27 20:04:41,positive,True,0,0,@iberia si! si! es verdad!!!! #megustavolar #megustavolariberia,,,,positive,iberia,megustavolar|megustavolariberia
+947780330412478465,2018-01-01 10:43:34,neutral,False,0,0,acabo de descubrir que en ryanair no hay fila 13 #factsoflife,,,Madrid,neutral,,factsoflife
+940597112135405568,2017-12-12 15:00:01,positive,False,0,0,#programademano desde la sala #chaikovsky en moscú 21//16 🎼mpromptu nº   nº  #schube 🎼sonata para piano nº … ,,,Madrid,positive,,programademano|chaikovsky|schube
+927978545636311040,2017-11-07 19:18:20,neutral,False,0,0,#quedevuelvanlapastadelvuelo   hu irán cogido  ryanair  es más barato. ,,,,neutral,,quedevuelvanlapastadelvuelo
+927296069985341440,2017-11-05 22:06:26,neutral,True,0,0,@laszloeragay @iberia ha salido la primera xd #firsttimeever,,,Berlin,neutral,laszloeragay|iberia,firsttimeever
+936290120419946497,2017-11-30 17:45:34,negative,True,0,0,@iberia : precios de @lufthansa con calidad de @ryanair #asco #putamierda #nuncamais,,,,negative,iberia|lufthansa|ryanair,asco|putamierda|nuncamais
+944301302258991109,2017-12-22 20:19:09,negative,True,0,0,@iberia una de las ventajas de ser #iberiaplus....,,,,negative,iberia,iberiaplus
+946298076322566144,2017-12-28 08:33:37,neutral,True,0,0,@iberia busca técnicos de mantenimiento para trabajar en madrid  barcelona vía @20m #empleo #madrid #barcelona,,,Madrid,neutral,iberia|20m,empleo|madrid|barcelona
+943228658453504002,2017-12-19 21:16:51,neutral,True,0,0,@iberia pone en el hilo musical “no puedo vivir sin ti”. también les mola #aiteda.,,,Madrid,neutral,iberia,aiteda
+927916268010852353,2017-11-07 15:10:52,positive,False,0,0,gracias @ryanair  permitirme jar de #barcelona  #santander (700km)  160 pesos!!! ,,,,positive,ryanair,barcelona|santander
+948999681484484613,2018-01-04 19:28:50,negative,True,0,0,@iberia  cómo mareae para que desistas en la idea de dae de baja de su tarjeta #iberiaplus ¿tan difícil es col… ,,,Madrid,negative,iberia,iberiaplus
+926113479836225536,2017-11-02 15:47:14,neutral,True,0,0,@iberia #holaargentina 🌎 jaré  conocee!! gracias iberia!!,,,Paris,neutral,iberia,holaargentina
+935164284874711040,2017-11-27 15:11:54,neutral,False,0,0,"con @iberia, mi destino  un solo click. ¡deséame suee! #holacolombia. hola 79 destinos europeos al mejor precio ",,,Bogota,neutral,iberia,holacolombia
+935433098585690113,2017-11-28 09:00:04,positive,False,0,0,.@ryanair se suma al análisis de datos – te lo cuenta @abc_es en #analytcs #iot… ,,,Arizona,positive,ryanair|abc_es,analytcs|iot
+941345053959581697,2017-12-14 16:32:04,neutral,False,0,0,ofea trabajo: tripulantes de cabina sin experiencia- ryanair [alicante] #trabajo #empleo,,,,neutral,,trabajo|empleo
+930825283678162944,2017-11-15 15:50:16,positive,False,0,0,"grupoazeta :  sergio_azeta: sophos iberia, gran equipo  felicidades por el evento #sophosday2017 : sophos iber…",,,Madrid,positive,,sophosday2017
+937983457531191296,2017-12-05 09:54:17,negative,False,0,0,sin cena de navidad  sin regalos para nadie. gracias @iberia por arruinar mi navidad. #nonavidad #iberiaarruinandominavidad,,,,negative,iberia,nonavidad|iberiaarruinandominavidad
+923879956073123840,2017-10-27 11:52:01,neutral,False,0,0,"aunque tengo un poco abandonado mi blog, escribire una entrada con numeros, correos  pasos  seguir en caso  te pierdan una maleta #iberia",,,Pacific Time (US & Canada),neutral,,iberia
+931243361813409792,2017-11-16 19:31:33,neutral,False,0,0,hola nueva iberia #fincasparaalquilar #fincasdeturismo #paquetesturisticos #casascampestres tel: 3228328-3213024788,,,,neutral,,fincasparaalquilar|fincasdeturismo|paquetesturisticos|casascampestres
+923189323176046592,2017-10-25 14:07:41,positive,False,0,0,"lo de @samsung regalando #note8abordo  cada pasajero,de un vuelo de @iberia,ha sido una acción brillante de marketing. #chapeau",,,Santiago,positive,samsung|iberia,note8abordo|chapeau
+941586643198324736,2017-12-15 08:32:04,positive,False,0,0,"¡felicidades! @iberia por otros 90 años, que pasarán volando,   ser posible,  vuestro lado. #mantenimiento ",,"Aeropuerto, Madrid",Amsterdam,positive,iberia,mantenimiento
+932640905802211328,2017-11-20 16:04:54,positive,False,0,0,consultar dudas  solucionar gestiones  través de #dm de @iberia se ha conveido en costumbre .. son rápidos  ef… ,,,Greenland,positive,iberia,dm
+944345762959364096,2017-12-22 23:15:49,positive,False,0,0,me gustaría felicitar  @iberia   toda la organización por la puntualidad en los vuelos  el servicio #navidad2017,,"El Puerto de Santa María, España",Madrid,positive,iberia,navidad2017
+947964897635258369,2018-01-01 22:56:58,negative,False,0,0,peligrosa nieve en el ala de mi avión #ryanair ,,,London,negative,,ryanair
+938101047775592449,2017-12-05 17:41:33,positive,False,0,0,#iberia aumentará la frecuencia de sus vuelos entre pueo rico  españa  pair de junio ,,,,positive,,iberia
+944988145719881728,2017-12-24 17:48:25,negative,True,0,0,@malaprensa @ryanair @ryanair_es alucinante. tomo nota de lo mal que funciona la atención al cliente en #ryanair.,,,Madrid,negative,malaprensa|ryanair|ryanair_es,ryanair
+950397104031023104,2018-01-08 16:01:41,negative,True,0,0,"@iberia por favor, pido, ruego  suplico que me atienda un #serhumano en su teléfono de incidencias de equipaje: … ",,,,negative,iberia,serhumano
+944900266603589633,2017-12-24 11:59:13,negative,False,0,0,#baspotter #lemd #madrid #barajas #airpo #airbus #a319 #iberia #spain @ adolfo suárez… ,"[40.47222222, -3.56083333]","Madrid, España",Caracas,negative,,baspotter|lemd|madrid|barajas|airpo|airbus|iberia|spain
+942837223438913536,2017-12-18 19:21:25,positive,False,0,0,"todo en exceso es malo, menos ¡jar! #holaeuropa ...bienvenidos @iberia quiero disfrutar con ustedes de una exper… ",,,Eastern Time (US & Canada),positive,iberia,holaeuropa
+941727871172689920,2017-12-15 17:53:15,neutral,False,0,0,"#funpodgrupo1 - el primer vuelo de iberia, hace 90 años, costaba la mitad que las tarifas de ayer entre asturias  madrid",,,,neutral,,funpodgrupo1
+936021755394654209,2017-11-29 23:59:11,positive,False,0,0,#lapatilla: ryanair le acabó el aniversario de iberia express ,,,Pacific Time (US & Canada),positive,,lapatilla
+942140042423754752,2017-12-16 21:11:04,neutral,False,0,0,saliendo de ory para mad #a319 @iberia #chauparis #muyricotodo #avgeek ,,,Buenos Aires,neutral,iberia,chauparis|muyricotodo|avgeek
+923893382266740736,2017-10-27 12:45:22,positive,False,0,0,la compañía @iberia conectará #madrid  #budapest  pair de #diciembre ,,,Pacific Time (US & Canada),positive,iberia,madrid|budapest|diciembre
+931540485944041473,2017-11-17 15:12:13,negative,True,0,0,@elfinanciero_mx tripulación del vuelo por @iberia 6409 de #mad  #mex atrapados en el aeropueo de querétaro por… ,,,,negative,elfinanciero_mx|iberia,mad|mex
+945372811853312000,2017-12-25 19:16:57,negative,True,0,0,@iberia llevo  días sin mi maleta  no me han podido decir dónde está. #iberiaesunasco que puedo hacer para recuperarla?,,,Pacific Time (US & Canada),negative,iberia,iberiaesunasco
+926073191348482048,2017-11-02 13:07:09,negative,False,0,0,los pasajeros de este vuelo recibieron un #samsunggalaxynote ..... ,,,Madrid,negative,,samsunggalaxynote
+940578656468045824,2017-12-12 13:46:41,neutral,False,0,0,gracias @iberia roma : se coló alguien pero #holaeuropa ,,"Bogotá, D.C., Colombia",Bogota,neutral,iberia,holaeuropa
+936024357779968006,2017-11-30 00:09:32,neutral,False,0,0,#ryanair le acabó el aniversario de iberia express: se han conveido en algo tan… #fb,,,America/Barbados,neutral,,ryanair|fb
+930353384292483072,2017-11-14 08:35:06,neutral,False,0,0,#ofeas para #jar…  pesar del #frío. @destinia @mapatours @skyscanner_es @rumbo @kiwicom247 @wimdu @goeuroes… ,,,Athens,neutral,destinia|mapatours|skyscanner_es|rumbo|kiwicom247|wimdu|goeuroes,ofeas|jar|frío
+946070563193278465,2017-12-27 17:29:34,neutral,False,0,0,"álava, joya medieval | me gusta volar #paísvasco",,,Quito,neutral,,paísvasco
+948828694298185728,2018-01-04 08:09:23,negative,False,0,0,"ryanair cierra 2017 con 129 millones de pasajeros, un 10% más #noticiasdeturismo #ryanair ",,,Central Time (US & Canada),negative,,noticiasdeturismo|ryanair
+935120966623158272,2017-11-27 12:19:46,negative,False,0,0,esta semana me monto en un avión que le daría miedo incluso al presidente de ryanair en #alacaers... ,,,,negative,,alacaers
+937717960235540482,2017-12-04 16:19:18,neutral,False,0,0,gracias  los patrocinadores por hacer posible #premioscepyme17  recoger este premio. cepyme_ | bancosantander | … ,,,Madrid,neutral,,premioscepyme17
+934384211418664961,2017-11-25 11:32:10,negative,False,0,0,¿los pilotos de #ryanair también vuelan con las piernas tan encogidas en su asiento?,,,Madrid,negative,,ryanair
+941417688835948544,2017-12-14 21:20:42,neutral,False,0,0,#holaeuropa  parís con @iberia ,,,Bogota,neutral,iberia,holaeuropa
+941345695826698240,2017-12-14 16:34:37,positive,False,0,0,¡felicidades desde panamá! hoy @iberia cumple 90 años desde su primer vuelo comercial. #panamáespaña ,,,Hawaii,positive,iberia,panamáespaña
+942758044496289793,2017-12-18 14:06:48,positive,True,0,0,@ryanair_es @ryanair me encanta jar   mi pareja también...  aún no tengo regalo de reyes... me sacarías del apuro #ryanair 😓,,,,positive,ryanair_es|ryanair,ryanair
+946055796546265089,2017-12-27 16:30:53,negative,False,0,0,#iberiaexpress #engaño #tarifasbajas #iberia encuentras #vuelobarato. no se acepta tarjeta. pones otra tarjeta  la… ,,"Madrid, Comunidad de Madrid",Madrid,negative,,iberiaexpress|engaño|tarifasbajas|iberia|vuelobarato
+927965641428135937,2017-11-07 18:27:04,neutral,True,0,0,@iberia #holacolombia me encantaría volver  ese país de hermosos paisajes  gente cálida  amable.,,,Caracas,neutral,iberia,holacolombia
+931263737754828800,2017-11-16 20:52:31,neutral,False,0,0,ryanair obligará  los andaluces  facturar el duende #díadelflamenco ,,,Madrid,neutral,,díadelflamenco
+948828781313130496,2018-01-04 08:09:44,negative,False,0,0,así se bajó un pasajero de ryanair hao de esperar para desembarcar #alt1040 #hipeextual… ,,,Monterrey,negative,,alt1040|hipeextual
+928020273743499264,2017-11-07 22:04:09,positive,True,0,0,@iberia #holacolombia 🇨🇴 soy de colombia  me encantaría jar  españa 🇪🇸!,,,Eastern Time (US & Canada),positive,iberia,holacolombia
+945621835529539584,2017-12-26 11:46:29,positive,False,0,0,lo mejor del je de buenos aires  madrid fue toparme entre las sugerencias discográficas de #iberia con el gran… ,,,Buenos Aires,positive,,iberia
+926991275831779328,2017-11-05 01:55:17,positive,True,0,0,@iberia #holaargentina seré el ganador @iberia me tengo una fe bárbara!!,,,Brasilia,positive,iberia|iberia,holaargentina
+926219423912022016,2017-11-02 22:48:13,positive,True,0,0,@iberia @iberia #holaargentina. me gusta volar por iberia.,,,,positive,iberia|iberia,holaargentina
+926529755389800448,2017-11-03 19:21:22,neutral,False,0,0,mi gorra de @chenoaoficial en las alturas 🛫 @gemelasbio #iberia ,,,London,neutral,chenoaoficial|gemelasbio,iberia
+925143236217393154,2017-10-30 23:31:50,negative,True,0,0,@iberia @samsungespana ¿por qué no me pasan estas cosas  mi? más ahora que se está muriendo mi #galaxynote3 😔😔😔,,,Pacific Time (US & Canada),negative,iberia|samsungespana,galaxynote3
+923329816912424960,2017-10-25 23:25:57,negative,False,0,0,$.600 el valor de la entrada para encuentro iberia / #ñublense el sábado en los ángeles!!! no será mucho?? weones caras de raja 😡😡😡,,"Chillán, Chile",Buenos Aires,negative,,ñublense
+931280944199290880,2017-11-16 22:00:54,negative,False,0,0,#miami 😍 desde el #cielo 🛫 con #iberia #usa #light #night #loveation #fly #plane #sky #cuandovesenvezdemirar… ,,,Madrid,negative,,miami|cielo|iberia|usa|light|night|loveation|fly|plane|sky|cuandovesenvezdemirar
+926991000051970048,2017-11-05 01:54:11,negative,False,0,0,el ultimo con luz de dia! iberia a346 #avgeek @magenia @n_larenas @ulisesgtzr @juan_ruizs @tiwoofy @jcfichi… ,,"Tacubaya, Miguel Hidalgo",Mexico City,negative,magenia|n_larenas|ulisesgtzr|juan_ruizs|tiwoofy|jcfichi,avgeek
+948980413489348611,2018-01-04 18:12:16,negative,False,0,0,#ahora #ryanair seis horas de retraso para el vuelo de #sevilla  #barcelona #lamentable @ryanair_es,,,Madrid,negative,ryanair_es,ahora|ryanair|sevilla|barcelona|lamentable
+950349165778923521,2018-01-08 12:51:12,neutral,True,0,0,"@iberia @iberia @iberiaexpress muchas gracias, llegamos al aeropueo sin haber dormido despues de la #ap6  nos … ",,,,neutral,iberia|iberia|iberiaexpress,ap6
+949035242412703744,2018-01-04 21:50:08,positive,False,0,0,samsung regala 200 galaxy note8  los pasajeros de un vuelo de iberia... #rememberrl2017 ,,,,positive,,rememberrl2017
+947875360905072640,2018-01-01 17:01:11,neutral,False,0,0,llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet ¿cuál ganará? … ,,,Madrid,neutral,,duelodemarcas
+933025857504919552,2017-11-21 17:34:33,neutral,False,0,0,💰 iberia aumentará sus vuelos semanales de la ruta buenos aires-madrid en 2018 #economía ,,,Brasilia,neutral,,economía
+941764372040470529,2017-12-15 20:18:18,positive,False,0,0,#ryanair intenta evitar un colapso en #navidad ,,,,positive,,ryanair|navidad
+933825210209497088,2017-11-23 22:30:54,negative,True,0,0,@ryanair madrid! 😁💃 #travelthursday,,,Edinburgh,negative,ryanair,travelthursday
+941003595897626624,2017-12-13 17:55:14,neutral,False,0,0,nova política de equipaxes que #ryanair aplicará  paires do 15 de xaneiro ,,,Madrid,neutral,,ryanair
+930479922304487424,2017-11-14 16:57:55,positive,False,0,0,dc- @iberia viendo pasar el tiempo en #agp una belleza #vintage ,,,Madrid,positive,iberia,agp|vintage
+927929676458352640,2017-11-07 16:04:09,positive,False,0,0,#fanuc iberia demuestra su potencial en #robótica en #empack2017. otra de las empresas que nos han acompañado desde… ,,,Madrid,positive,,fanuc|robótica|empack2017
+950418663202582533,2018-01-08 17:27:21,negative,False,0,0,no podéis seguir retrasando el vuelo #madrid #marsella @ryanair_es @ryanair @ryanairflights necesitamos confirmació… ,,,Madrid,negative,ryanair_es|ryanair|ryanairflights,madrid|marsella
+927444231903424513,2017-11-06 07:55:10,neutral,False,0,0,"vamos  por el salto coo del día, dejandob#bilbao destino #desconocido con iberia #volandovoy… ","[43.301111, -2.910556]","Loiu, España",Madrid,neutral,,bilbao|desconocido|volandovoy
+943052071347073024,2017-12-19 09:35:09,positive,False,0,0,✈️@iberia  ✈️@airnostrumlam aumentarán un 25% las plazas 🏖️🏞️ #santander - #madrid 🐻🌳 ,,,Madrid,positive,iberia|airnostrumlam,santander|madrid
+927947818513436673,2017-11-07 17:16:15,neutral,True,0,0,@iberia #holacolombia iberia llévame contigo,,,Caracas,neutral,iberia,holacolombia
+926463504089051136,2017-11-03 14:58:06,neutral,False,0,0,"que curioso, estas operaciones aeropouarias compaidas @vueling con @iberia en @bilbaoairpo #spotter… ",,"Santander, España",Europe/Amsterdam,neutral,vueling|iberia|bilbaoairpo,spotter
+934122196192186369,2017-11-24 18:11:01,neutral,True,0,0,@hosteltur los de #ryanair no estarán muy contentos,,,Athens,neutral,hosteltur,ryanair
+937335261729640448,2017-12-03 14:58:35,neutral,False,0,0,"#retazosdegalicia #galicia vista por @guillerminasogo en el #centrogallego de buenos aires la fotógrafa argentina,… ",,,Amsterdam,neutral,guillerminasogo,retazosdegalicia|galicia|centrogallego
+943926087481950209,2017-12-21 19:28:11,negative,False,0,0," días sin maleta, no habrá regalos estás navidades #iberia menudo desastre!",,,,negative,,iberia
+932941133252096005,2017-11-21 11:57:54,positive,False,0,0,el ceo de mapfre iberia @jmincha defendió en el encuentro del #sectorasegurador @deloitte_es @abc_es un sistema púb… ,,,Madrid,positive,jmincha|deloitte_es|abc_es,sectorasegurador
+935637646117715968,2017-11-28 22:32:52,neutral,False,0,0,"con @iberia, mi destino  un solo click. ¡deseadme suee! #holacolombia. hola 79 destinos europeos al mejor precio !",,,Eastern Time (US & Canada),neutral,iberia,holacolombia
+935205166864838656,2017-11-27 17:54:21,neutral,False,0,0,".@iberia inaugura un nuevo espacio premium en el aeropueo de #madrid. ubicada en el edificio satélite, es la que… ",,,Quito,neutral,iberia,madrid
+944241570320183297,2017-12-22 16:21:48,negative,False,0,0, los craneos de @iberia se les antojó poner solo  dos personas para facturar  todo un vuelo ... #horaymedia de … ,,,Yakutsk,negative,iberia,horaymedia
+946928828361740288,2017-12-30 02:20:00,negative,False,0,0,"#viernestricolor| la #gmbnbt suministra agua potable en el sector iberia #corredorcatialamar, edo. #vargas ",,,Caracas,negative,,viernestricolor|gmbnbt|corredorcatialamar|vargas
+943059191979216896,2017-12-19 10:03:27,neutral,False,0,0,barómetro #business: en  de cada  reservas se utiliza la tarjeta frequent flyers de la compañía aérea; iberia es… ,,,Midway Island,neutral,,business
+948612483404783617,2018-01-03 17:50:15,negative,False,0,0,"#viral un pasajero del avión ryanair, que hacía la ruta londres-málaga se cansa de esperar  sale por la puea de… ",,,,negative,,viral
+945408116694355970,2017-12-25 21:37:14,positive,False,0,0, iberia: jatirado esperamos que disfrutes de tu vuelo  tengas un gran je. ¡felices fiestas! #redessociales #cincopalabras,,,Madrid,positive,,redessociales|cincopalabras
+923583873367400455,2017-10-26 16:15:29,negative,True,0,0,"el comandante dice que siente que los pasajeros anteriores hayan sido tan guarros, pero que no llegan  limpiar el avión. #ryanair #guarros",,,Madrid,negative,,ryanair|guarros
+942510900782694401,2017-12-17 21:44:44,negative,True,0,0,@iberia  semana ya de descontrol  negligencia en gestión de equipaje facturado. #iberianocumple @traveloneworld… ,,,Amsterdam,negative,iberia|traveloneworld,iberianocumple
+928030038028619776,2017-11-07 22:42:57,positive,True,0,0,@iberia #holacolombia 🤚🏼 destino perfecto para olvidae de todo😍💞,,,Mountain Time (US & Canada),positive,iberia,holacolombia
+931149450793365504,2017-11-16 13:18:23,negative,False,0,0,así estamos en #neiva tiquetes por las nubes en las aerolíneas...  dizque promovamos el #turismo ni… ,,,Eastern Time (US & Canada),negative,,neiva|turismo
+946074011053813760,2017-12-27 17:43:16,positive,False,0,0,el proyecto de @iberia #icon realizado con zapiens destacado el @domestika pasen  vean! ,,,Madrid,positive,iberia|domestika,icon
+945231244433985537,2017-12-25 09:54:24,negative,True,0,0,@iberia #malapoliticadeprevision #iberianoteneisverguenza por qué no habéis mandado un avión más grande si pensabai… ,,,Madrid,negative,iberia,malapoliticadeprevision|iberianoteneisverguenza
+948825477048885248,2018-01-04 07:56:36,negative,False,0,0,jornada tensa en el #aeropueo de santiago de compostela con retrasos de más de seis horas para volar ayer con… ,,,Madrid,negative,,aeropueo
+923169242610053120,2017-10-25 12:47:53,negative,False,0,0,que tengas pagado un vuelo   la hora de hacer el #cheking te digan usted no tiene asiento #iberia 🤔 #absurdo… ,,,Casablanca,negative,,cheking|iberia|absurdo
+933788889822703616,2017-11-23 20:06:34,neutral,False,0,0,madrid #travelthursday ,,,Dublin,neutral,,travelthursday
+930872316128571393,2017-11-15 18:57:09,negative,True,0,0,@ibexpress_help @iberiaexpress @iberia @aena @fomentogob #aesa sigo esperando mi pasta!!! ,,,Athens,negative,ibexpress_help|iberiaexpress|iberia|aena|fomentogob,aesa
+931474499563859969,2017-11-17 10:50:01,negative,True,0,0,@iberia #queja #intolerable #inaceptable vergonzoso no poder subir maletas de mano en el avión. embarque lamentable  desorganizado,,"Madrid, España",,negative,iberia,queja|intolerable|inaceptable
+931175561535168512,2017-11-16 15:02:08,neutral,True,0,0,@melnicksergio no es la mejor fuente de información pero ahí se explica el caso de éxito de #ryanair,,,Santiago,neutral,melnicksergio,ryanair
+926096579974647809,2017-11-02 14:40:05,neutral,True,0,0,@iberia #holaargentina qué lindo ganar!!!,,"Mar del Plata, Argentina",Buenos Aires,neutral,iberia,holaargentina
+941273211286810624,2017-12-14 11:46:36,positive,False,0,0,canarias_es: ¡feliz 90 aniversario iberia ! ¡muchas gracias por mantenernos  las #islascanarias siempre conectadas… ,,,Caracas,positive,,islascanarias
+932584073427644416,2017-11-20 12:19:04,neutral,False,0,0,"#iberia increible  un vuelo de  horas  guinea ecuatorial, cueste mucho más que ir  santo domingo ( más horas)",,,,neutral,,iberia
+944565790778580997,2017-12-23 13:50:08,negative,False,0,0,una rebajita... solo para enchufados #psuv #fanb @vladimirpadrino ,,,Caracas,negative,vladimirpadrino,psuv|fanb
+946309411072561152,2017-12-28 09:18:39,positive,False,0,0,#iberia abre convocatoria para seleccionar tmas vía @hispacion #empleo #tma,,,Casablanca,positive,hispacion,iberia|empleo|tma
+940565264743022593,2017-12-12 12:53:28,negative,False,0,0,"los empleados de iberia en el prat, llamados  la huelga en navidad #felipemonterord ",,,Pacific Time (US & Canada),negative,,felipemonterord
+927618517356204032,2017-11-06 19:27:43,positive,False,0,0,#holaargentina qué buen soeo. quiero paicipar! ,,,,positive,,holaargentina
+931447337783824384,2017-11-17 09:02:05,neutral,False,0,0, ryanair no se conforma sólo con los vuelos #tech #news,,,Santiago,neutral,,tech|news
+932984684593762304,2017-11-21 14:50:57,positive,False,0,0,"no te pierdas el 2º día de la semana del #blackfriday2017 en #ryanair ¡¡encontrarás #vuelos desde sólo ,89€ el tr… ",,,Madrid,positive,,blackfriday2017|ryanair|vuelos
+935897253889413126,2017-11-29 15:44:28,positive,False,0,0,"""iberia express lanza una promoción de .000 billetes   euros"" #noticias #feedly",,,Pacific Time (US & Canada),positive,,noticias|feedly
+934563352201789442,2017-11-25 23:24:01,neutral,False,0,0,con pasapoe ecuatoriano en mano en la fila de iberia funcionario de migración me pregunta : ha estado antes en el #ecuador ? #plop,,,,neutral,,ecuador|plop
+948666187277357056,2018-01-03 21:23:39,negative,False,0,0,un hombre desespera  escapa de un avión de ryanair por la puea de emergencia #marketing #in,,,Eastern Time (US & Canada),negative,,marketing|in
+943074005027905536,2017-12-19 11:02:18,neutral,False,0,0,barómetro #business: en  de cada  reservas se utiliza la tarjeta frequent flyers de la compañía aérea; iberia es… ,,,,neutral,,business
+940580023123218432,2017-12-12 13:52:07,negative,True,0,0,@iberia estupendo! me parece bien que nos coordinemos. lo ocurrido después de la cancelación del #ib3723 es demenci… ,,,Greenland,negative,iberia,ib3723
+946166479820648448,2017-12-27 23:50:42,negative,False,0,0,ya en el hotel de craco con retraso incluido de ryanair. ahora  descansar  mañana comenzamos #polonialpp nas noches 💤,,,Madrid,negative,,polonialpp
+930063326838775809,2017-11-13 13:22:31,negative,False,0,0,heller (lo escribí ayer) en el fútbol da bote  rebote: más malas que buenas con @udechile  ahora el descenso con #iberia,,,Santiago,negative,udechile,iberia
+941009858048004096,2017-12-13 18:20:07,negative,True,0,0,al final tuvimos que buscar la solución por nuestra cuenta  volvimos desde #bratislava con #ryanair hasta madrid … ,,,,negative,,bratislava|ryanair
+942751269789274114,2017-12-18 13:39:52,negative,False,0,0,reclamar vuelo por la huelga de personal de tierra de #ryanair 30 de diciembre ,,,Madrid,negative,,ryanair
+944884515847229441,2017-12-24 10:56:38,negative,False,0,0,"amigos de @iberia menudos impresentables, despues de un dia volando,vuelvo  casa por #navidad  me perdeis la… ",,,Pacific Time (US & Canada),negative,iberia,navidad
+944675353435533314,2017-12-23 21:05:30,positive,False,0,0,ryanair despachará billetes conveibles en aviones de papel. #humor #risa #elguiño,,,London,positive,,humor|risa|elguiño
+948579899874467842,2018-01-03 15:40:46,neutral,False,0,0,🤓🤣pasajero de #ryanair salta del avion por la salida de emergencia en el aeropueo. incidente que ocurrió justo de… ,,,Bangkok,neutral,,ryanair
+940907443609112576,2017-12-13 11:33:10,negative,False,0,0,ryanair pide  sus #pilotos que abandonen sus planes de #huelga @ryanair_es,,,,negative,ryanair_es,pilotos|huelga
+936350450319790085,2017-11-30 21:45:18,neutral,True,0,0,@ryanair fueeventura #traveltuesday ✈️🍀 ,,,,neutral,ryanair,traveltuesday
+941431248488103938,2017-12-14 22:14:35,negative,True,0,0,@ryanair no milan 😔 #travelthursday,,,Dublin,negative,ryanair,travelthursday
+942164434025410562,2017-12-16 22:48:00,positive,False,0,0,#holaeuropa @iberia un destino de ensueño 😍 ,,,Eastern Time (US & Canada),positive,iberia,holaeuropa
+930566708879912960,2017-11-14 22:42:47,positive,False,0,0,a340 @iberia despegando de barajas por la 36l #miradordeparacuellos @fdeaguilaramat @margotab @marisamtlg @chacachu… ,,,Madrid,positive,iberia|fdeaguilaramat|margotab|marisamtlg|chacachu,miradordeparacuellos
+940633404080566272,2017-12-12 17:24:14,positive,False,0,0,"las mejores ofeas de empleo it de españa: endesa, mercadona  ryanair #socialmedia",,,Georgetown,positive,,socialmedia
+931498875290112000,2017-11-17 12:26:52,negative,False,0,0,"koruños (et al): igual os mola este #alavionismo del  de mayo  bordo de ec-jve de @iberia. proporción 16:, ideal… ",,,Madrid,negative,iberia,alavionismo
+948610362101952512,2018-01-03 17:41:49,negative,True,0,0,"@flasheante es una mierda pero cuando llega el momento de volar ""todos terminan comprando""  volando por #ryanair",,,Buenos Aires,negative,flasheante,ryanair
+948346189837144064,2018-01-03 00:12:05,positive,True,0,0,@ryanair solicita licencia en #uk en previsión de un #brexit duro ,,,Monrovia,positive,ryanair,uk|brexit
+933060309362921472,2017-11-21 19:51:27,negative,True,0,0,"@iberia que mal te poaste con nosotros, nada de información en todo lo ducedido en nuestro je #iberia6409 madr… ",,,Mountain Time (US & Canada),negative,iberia,iberia6409
+935280225470083072,2017-11-27 22:52:37,positive,False,0,0,¡despega @iberia en @aerodecarrasco! #aerofotofest2017 @volemosuy #montevideo #uruguay ,,,Brasilia,positive,iberia|aerodecarrasco|volemosuy,aerofotofest2017|montevideo|uruguay
+933651774141067264,2017-11-23 11:01:44,positive,False,0,0,¿quieres trabajar en ryanair? consulta las fechas donde van  realizar entrevistas en noviembre  diciembre #empleo ,,,,positive,,empleo
+933340930018545665,2017-11-22 14:26:33,positive,False,0,0,en 2018 #iberia incrementará 20% su ofea en la ruta #madrid #buenosaires hasta 625.000 asientos… ,,,,positive,,iberia|madrid|buenosaires
+946377743431815168,2017-12-28 13:50:11,positive,False,0,0, @intereconomia_c: #empleo iberia busca técnicos de mantenimiento para madrid  barcelona ,,,Madrid,positive,intereconomia_c,empleo
+944592102121406464,2017-12-23 15:34:41,negative,True,0,0,@iberiaexpress que te recuperen ya las valijas de mi hermana @bomba_dlf que quedaron varadas en madrid #barajas por… ,,,Buenos Aires,negative,iberiaexpress|bomba_dlf,barajas
+926428504731930625,2017-11-03 12:39:02,neutral,False,0,0,#note8abordo gracias  samsung  iberia! ,,,Santiago,neutral,,note8abordo
+937697790595084290,2017-12-04 14:59:09,neutral,False,0,0,"hoy #4d día nacional de andalucía. sea por andalucía libre, iberia  la humanidad. por la república federal ¡viva andalucía libre!",,,Madrid,neutral,,4d
+947358559272042496,2017-12-31 06:47:36,negative,False,0,0,las nuevas máquinas de facturación de @iberia en el #puenteaereo entran en un bucle lógico: te piden que escanees … ,,"el Prat de Llobregat, Espanya",Madrid,negative,iberia,puenteaereo
+924050651562364936,2017-10-27 23:10:18,positive,False,0,0,comentario en escribe tus relatos de octubre (iv): con una tripulación de iberia  mairenmairenmu por alicia…… #re…,,,Madrid,positive,,re
+927299401441337350,2017-11-05 22:19:40,negative,True,0,0,@iberia @iberiaexpress infelizmente el error persiste 😭😭😭. paso al #planb ? 🤔 ,,,,negative,iberia|iberiaexpress,planb
+932630500493185024,2017-11-20 15:23:33,neutral,False,0,0,"➕ #igualdad ⃣ #violencia contra la mujer 🗓️ maes, 21/11/17 🕡 18.30 horas 📍 hotel ac iberia +info |… ",,"Telde, España",London,neutral,,igualdad|violencia
+943914388095930368,2017-12-21 18:41:41,negative,False,0,0,gracias  @iberia empiezo las navidades con lo puesto! #sinmaleta #equipajeperdido #losreyesosvanatraercarbon #conlopuesto,,,Greenland,negative,iberia,sinmaleta|equipajeperdido|losreyesosvanatraercarbon|conlopuesto
+933946220166434816,2017-11-24 06:31:45,negative,False,0,0,#blindworlds la compañia aerea iberia discrimina  las personas con #discapacidad visual,,,Madrid,negative,,blindworlds|discapacidad
+945510498497216512,2017-12-26 04:24:04,negative,True,0,0,@radiohen #tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos que no es… ,,,Pacific Time (US & Canada),negative,radiohen|iberia,tipicodenavidad
+926531047415836672,2017-11-03 19:26:30,negative,True,0,0,"@lavecinarubia @british_airways @iberia @jonkoajarena esa maleta tiene que aparecer ,entre #rubijarena nada pued… ",,,,negative,lavecinarubia|british_airways|iberia|jonkoajarena,rubijarena
+937094652502724608,2017-12-02 23:02:30,neutral,False,0,0,"maa ríos, de la dirección de marketing  la dirección general de adidas iberia #mkting",,,Madrid,neutral,,mkting
+935159137306017792,2017-11-27 14:51:27,negative,False,0,0,#colocolo tiene grandes problemas con equipos del sur...#temuco #udeconce #iberia  para rematar nos tocan las últi… ,,"Cerrillos, Chile",Santiago,negative,,colocolo|temuco|udeconce|iberia
+926568899348516864,2017-11-03 21:56:55,negative,False,0,0,castiga bilete de avion! #ryanair ,,,Bucharest,negative,,ryanair
+948679632898969601,2018-01-03 22:17:04,negative,False,0,0,primer #duelodemarcas: ryanair vs easyjet vía @youtube,,,Santiago,negative,youtube,duelodemarcas
+936379305625640960,2017-11-30 23:39:58,neutral,True,0,0,@dvdcano maico que vaya cogiendo el iberia  que vuelva caminando que ya hizo el camino  pie #gala12gh,,,,neutral,dvdcano,gala12gh
+941432947315478529,2017-12-14 22:21:20,neutral,False,0,0,"estamos de #salonazo navideño así que te esperamos desde hoy hasta el 16 de diciembre en tienda iberia la romana, … ",,,La Paz,neutral,,salonazo
+942658602967490561,2017-12-18 07:31:39,negative,True,0,0,@iberia una vez más vamos como sardinas en lata. #iberia #iberiaplus ib3140 ,,,,negative,iberia,iberia|iberiaplus
+941850933109186560,2017-12-16 02:02:15,neutral,False,0,0,tener una foto en la torre eiffel  esperar que se conviea en realidad con @iberia #holaeuropa ,,,Eastern Time (US & Canada),neutral,iberia,holaeuropa
+940568269131526144,2017-12-12 13:05:24,negative,False,0,0,convocada una huelga en iberia en barcelona entre el 21  24 de diciembre. #huelga #iberia ,,,Santiago,negative,,huelga|iberia
+947879053599690753,2018-01-01 17:15:51,neutral,False,0,0,"#marketing llega el primer #duelodemarcas de marketingdirecto: ryanair vs. easyjet - nuevo año, nuevos proyectos. … ",,,,neutral,,marketing|duelodemarcas
+937176966851170304,2017-12-03 04:29:35,neutral,False,0,0,me voy... #ggiaconfaber (@ iberia check-in) ,"[41.795636, 12.252037]","Fiumicino, Lazio",Rome,neutral,,ggiaconfaber
+926846849180413952,2017-11-04 16:21:23,negative,True,0,0,@iberia me cobra 20€ por que el call center me haga una gestión que no te deja hacerla por la web. gran experiencia.#iberia,,,Amsterdam,negative,iberia,iberia
+940646536459014144,2017-12-12 18:16:25,neutral,False,0,0,echa un vistazo  esta #miniatura de metal de herpa del #bombardier crj-900 de iberia regional/air nostrum  escala… ,,,Pacific Time (US & Canada),neutral,,miniatura|bombardier
+948937211524927488,2018-01-04 15:20:36,negative,False,0,0,"#notasdeimpacto pasajero de la aerolínea ryanair ""se haa de esperar""  se baja por el ala de un avión en malga, … ",,,Central Time (US & Canada),negative,,notasdeimpacto
+923425510520172544,2017-10-26 05:46:12,positive,True,0,0,"@ibexpress_help gracias por vuestra ayuda, por entender mi problema  resolverlo. estoy muy contenta #jaconiberiaexpress #cx #iberia",,,,positive,ibexpress_help,jaconiberiaexpress|cx|iberia
+942832533611384833,2017-12-18 19:02:47,neutral,False,0,0,barómetro #business: iberia (57%)  vueling (61%) son las compañías aéreas más utilizadas en los #jes de… ,,,,neutral,,business|jes
+945349124114837504,2017-12-25 17:42:49,positive,False,0,0,otra low cost con personal muy muy piola es @flywithleveles de @iberia ✈️😊#vacaciones,,,Buenos Aires,positive,flywithleveles|iberia,vacaciones
+941973690023071745,2017-12-16 10:10:03,positive,False,0,0,#ryanair reconocerá  los sindicatos de pilotos para evitar un colapso... ,,,Pacific Time (US & Canada),positive,,ryanair
+946643576527650816,2017-12-29 07:26:31,positive,False,0,0,ultimo je de 2017 con @ryanair . #jar #volar #travel ,,,Madrid,positive,ryanair,jar|volar|travel
+950428450216644608,2018-01-08 18:06:15,negative,False,0,0,italia abre expediente  ryanair por no informar de los derechos tras una cancelación #conocetusderechos,,,,negative,,conocetusderechos
+943006116698566656,2017-12-19 06:32:33,negative,False,0,0,ryanair se desploma ante el incremento de los costes #mercados,,,West Central Africa,negative,,mercados
+935215719775653890,2017-11-27 18:36:17,positive,False,0,0,iberia apuesta al mercado argentino #acionaldia #vuelos #españa #argentina ,,,Caracas,positive,,acionaldia|vuelos|españa|argentina
+940972499755520000,2017-12-13 15:51:41,neutral,False,0,0, nos vamos para parís 🗼 con @iberia #holaeuropa ,,,,neutral,iberia,holaeuropa
+936246946708279298,2017-11-30 14:54:01,negative,True,0,0,@iberia  @flywithleveles se tiran la responsabilidad  ninguna empresa me resuelve el problema. #ayuda @iata… ,,,Buenos Aires,negative,iberia|flywithleveles|iata,ayuda
+935932081309437952,2017-11-29 18:02:51,negative,False,0,0,he de suponer que los que diseñan el espacio interior de los aviones nuevos de #iberia no vuelan en ellos. como su… ,,,Europe/Amsterdam,negative,,iberia
+946773625604116481,2017-12-29 16:03:17,negative,True,0,0,@iberia @iberiapromos les recuerdo que perdí enlace  llegué  mi destino(más de .500km de distancia) con  horas de retraso #graciasiberia,,,Casablanca,negative,iberia|iberiapromos,graciasiberia
+942836237676810240,2017-12-18 19:17:30,negative,True,0,0,@iberia  el peor sistema de login de la historia... #sinonimos,,,Madrid,negative,iberia,sinonimos
+937549412544458752,2017-12-04 05:09:33,neutral,False,0,0,off to palma de mallorca con @iberia #seguimos,,"Madrid, España",Central America,neutral,iberia,seguimos
+938019648334950400,2017-12-05 12:18:06,positive,True,0,0,@lmonterorguez @iberia presta su servicio 24h. #cyacauja,,,,positive,lmonterorguez|iberia,cyacauja
+927644354709205002,2017-11-06 21:10:23,neutral,False,0,0,"#majoalparque (@ parque iberia in bogotá, distrito capital / @caritovillaml) ","[4.71920636, -74.06686107]","Bogotá, D.C., Colombia",Bogota,neutral,caritovillaml,majoalparque
+927978797235830784,2017-11-07 19:19:20,positive,True,0,0,@iberia #holacolombia holiii,,,,positive,iberia,holacolombia
+937612030093209600,2017-12-04 09:18:22,negative,False,0,0,"cómo fallar en diseño de campaña @iberia quiere cobrar '50€ por #sms en su tarjeta #icon. bueno, va  ser que no compro.",,,,negative,iberia,sms|icon
+944553286484578304,2017-12-23 13:00:27,negative,False,0,0,un mega-apluso para #ryanair #ryanmaño tripulación nos animan con villancicos en español en hilo musical  acento maño. caerá jota...lo veo,,,Athens,negative,,ryanair|ryanmaño
+945714785836027907,2017-12-26 17:55:50,positive,False,0,0,ya de vuelta en #vigo después de unos días con la familia en la maravillosa barcelona. gracias!! al comandante del… ,,"Vigo, España",Amsterdam,positive,,vigo
+926545389578317824,2017-11-03 20:23:29,negative,True,0,0,"@jonkoajarena @koajarenajon nooo, el regalo de @lavecinarubia nos peenece un poquito  todos los fans de#rubi… ",,,,negative,jonkoajarena|koajarenajon|lavecinarubia,rubi
+929994612210626560,2017-11-13 08:49:28,negative,False,0,0,"#fraude denuncian  ryanair por ""fraude de ley como una casa” ",,,,negative,,fraude
+932672458427166722,2017-11-20 18:10:16,positive,True,0,0,"@ryanair_es ""saltando llegas lejos, pero con ryanair más"" #ryanairespaña #blackfriday",,,Madrid,positive,ryanair_es,ryanairespaña|blackfriday
+948539728143552512,2018-01-03 13:01:08,negative,False,0,0,cuando te cansas de esperar dentro del avión  sales  que te de el aire 😂😂😂 qué crack ! #vuelo #ryanair #londres… ,,,Madrid,negative,,vuelo|ryanair|londres
+936303389994078208,2017-11-30 18:38:18,negative,True,0,0,@ryanair alicante🙋🏼💓#traveltuesday,,,,negative,ryanair,traveltuesday
+940563722124365824,2017-12-12 12:47:20,negative,True,0,0,@iberia  encima vais coando vosotros la llamada. ¡menudo servicio...! no hay manera... 🤦 #passengerrights #airline #lostluggage,,,Lisbon,negative,iberia,passengerrights|airline|lostluggage
+937601902543589376,2017-12-04 08:38:08,negative,True,0,0,@mariluzferreiro @iberia sin comentarios#ánimo@mariluzferreiro,,,,negative,mariluzferreiro|iberia|mariluzferreiro,ánimo
+942726141625978880,2017-12-18 12:00:01,positive,False,0,0,los pilotos de ryanair en #irlanda desconvocan la huelga del 20 de diciembre ,,,Pacific Time (US & Canada),positive,,irlanda
+936144852777099265,2017-11-30 08:08:20,negative,False,0,0,lo de @iberia / @aena es #acojonante...  cambios de puea entre #terminal4  #terminal4s justo en el momento de … ,,,Madrid,negative,iberia|aena,acojonante|terminal4|terminal4s
+941222855831883776,2017-12-14 08:26:30,positive,False,0,0,"allá vamos, volando  bolonia 😊😊 #saltaconitalia @airnostrumlam @iberia ",,"Madrid, España",Madrid,positive,airnostrumlam|iberia,saltaconitalia
+942826143161430017,2017-12-18 18:37:24,positive,False,0,0,#holaeuropa @iberia vamonos para europa ,,,,positive,iberia,holaeuropa
+924046662078746625,2017-10-27 22:54:26,negative,False,0,0,que mierda de pos venda pae 123. @iberia regala #note8 en vuelo pero no paga la deuda de extravío de equipaje.  mira que son 220€.😤,,,Athens,negative,iberia,note8
+930319268184543232,2017-11-14 06:19:32,neutral,False,0,0,#holacolombia con @iberia ¡ ver si me voy de je! ,,,Bogota,neutral,iberia,holacolombia
+933470587405701121,2017-11-22 23:01:45,neutral,False,0,0,"francisco sáez, nuevo ceo de getronics iberia: #cloud #cloudcomputing #tic",,,,neutral,,cloud|cloudcomputing|tic
+945666521954578432,2017-12-26 14:44:03,negative,True,0,0,@milenio el propósito de #añonuevo de @iberia debería ser encontrar mi maleta que perdieron con mis medicamentos ad… ,,,Pacific Time (US & Canada),negative,milenio|iberia,añonuevo
+941040175823630336,2017-12-13 20:20:36,positive,False,0,0,me voy de je con @iberia gracias  #holaeuropa!!! ,,"Bogotá, D.C., Colombia",Bogota,positive,iberia,holaeuropa
+927921752885420034,2017-11-07 15:32:40,negative,True,0,0,"@iberia #holacolombia es el pais mas feliz del mundo, una maravilla para visitar ",,,,negative,iberia,holacolombia
+947532904476954625,2017-12-31 18:20:23,neutral,False,0,0,#elpaísen2017 ¿trenes  lo ryanair para mantener unida europa? ,,,Hawaii,neutral,,elpaísen2017
+941224085559922688,2017-12-14 08:31:23,negative,False,0,0,la plantilla de @iberia en #elprat irá  la #huelga en vísperas de #navidad vía @elperiodico,,,Madrid,negative,iberia|elperiodico,elprat|huelga|navidad
+932577350876893184,2017-11-20 11:52:21,negative,False,0,0,"""desde nuestros inicios apostamos por la #innovación para ofrecer cada día un mejor servicio"", javier urbiola, pres… ",,,,negative,,innovación
+948509329833037824,2018-01-03 11:00:21,negative,False,0,0,las 18.000 cancelaciones de #ryanair afectarán  400.000 pasajeros hasta marzo. ,,,Greenland,negative,,ryanair
+948665116257636353,2018-01-03 21:19:23,negative,False,0,0,un hombre desespera  escapa de un avión de ryanair por la puea de emergencia #communitymanager,,,Caracas,negative,,communitymanager
+923414796686581760,2017-10-26 05:03:38,positive,False,0,0,#ryanair 6363 hala. en tierra. la ridícula fanfarria ha conseguido su objetivo: que unos pocos pasajeros aplaudan.,,,,positive,,ryanair
+945469792751845376,2017-12-26 01:42:19,negative,False,0,0,"embarcan la mitad del vuelo #ib6252, encuentran un problema técnico  vuelven  sacar  los pasajeros. gracias por… ",,,Madrid,negative,,ib6252
+942814051477983233,2017-12-18 17:49:21,positive,True,0,0,@iberia mi padre volo con vosotros durante años  #canada de cada je de vuelta siempre tenia algun regalo de… ,,"Pontevedra, España",Madrid,positive,iberia,canada
+934429469107990528,2017-11-25 14:32:00,positive,False,0,0,.@iberia tendrá en #argentina el mercado de #américalatina con más ofea al llegar  las tres frecuencias adiciona… ,,,Buenos Aires,positive,iberia,argentina|américalatina
+943205560232620034,2017-12-19 19:45:04,positive,False,0,0,"#holaparis #holaeuropa puntual con @iberia gracias por tan excelente foto, la tecnología  el sueño de llegar  eur… ",,,Eastern Time (US & Canada),positive,iberia,holaparis|holaeuropa
+944256797514268674,2017-12-22 17:22:18,neutral,False,0,0,#avión de #iberia #ibe6830 despegando desde #scl #chile @comunidadavion @volarespasion @jetphotos @de_acion ,,,Santiago,neutral,comunidadavion|volarespasion|jetphotos|de_acion,avión|iberia|ibe6830|scl|chile
+936249640122449920,2017-11-30 15:04:43,neutral,True,0,0,@ryanair fueaventura #travelthursday,,,Rome,neutral,ryanair,travelthursday
+944117664842207232,2017-12-22 08:09:26,negative,False,0,0,la peor aerolínea en el mundo @iberia despacha mal las valijas al destino final  luego no se hace cargo de los problemas! #iberiaargentina,,,,negative,iberia,iberiaargentina
+937598282972483584,2017-12-04 08:23:45,neutral,True,0,0,@luciapediatra @iberia no me lo puedo creer! #vayatela,,,Amsterdam,neutral,luciapediatra|iberia,vayatela
+941603380044226561,2017-12-15 09:38:34,neutral,False,0,0,#ryanair reconocerá  los sindicatos en un cambio histórico para parar la huelga - ,,,Pacific Time (US & Canada),neutral,,ryanair
+948536930605699073,2018-01-03 12:50:01,negative,False,0,0,"el tráfico de #ryanair aumenta un % en diciembre hasta los ,... ",,,Pacific Time (US & Canada),negative,,ryanair
+936617070548135939,2017-12-01 15:24:45,negative,False,0,0,desde menos cuao esperando despegar con la puea abiea  un frio de.pelotas....#elultimoquecierre @iberia ,,,,negative,iberia,elultimoquecierre
+943150935920009217,2017-12-19 16:08:00,neutral,False,0,0,"el comité de empresa de #iberia ha convocado #huelga del 21 al 24 de diciembre. no os perdáis el aículo ""decálogo… ",,,Madrid,neutral,,iberia|huelga
+948166127762460673,2018-01-02 12:16:35,neutral,False,0,0,"#marketing #mkt un insistente cervantes, protagonista del nuevo spot para el soeo de el niño - aquellos que no tu… ",,,Santiago,neutral,,marketing|mkt
+934098758828163073,2017-11-24 16:37:53,neutral,False,0,0,los pilotos de ryanair en españa plantan cara  crean su sección sindical vía @hosteltur #acion,,,Paris,neutral,hosteltur,acion
+926093252733931520,2017-11-02 14:26:52,positive,False,0,0,el billete de avión que lo cambió todo.✈️🇪🇸 #roma #madrid @iberia #desóloida 16/07/2005 #hacedoceaños… ,,,Madrid,positive,iberia,roma|madrid|desóloida|hacedoceaños
+933758468166647808,2017-11-23 18:05:41,negative,True,0,0,@iberia ayer en #lis la cola priority para abordar era la mas larga. hoy en #dus peor... casi todos era priority...… ,,,,negative,iberia,lis|dus
+940594040168501254,2017-12-12 14:47:49,positive,False,0,0,¡business magazine está disponible! #iberia,,,Atlantic Time (Canada),positive,,iberia
+923488408428793857,2017-10-26 09:56:08,neutral,False,0,0,muchacho  #canarias @celestinogr @iberia @samsungespana 🤔 ¿cuando es el próximo… ,,,,neutral,celestinogr|iberia|samsungespana,canarias
+945990934222770176,2017-12-27 12:13:09,neutral,False,0,0,iberia busca técnicos de mantenimiento para trabajar en madrid  barcelona #empleo,,,Madrid,neutral,,empleo
+931125227597254656,2017-11-16 11:42:08,positive,False,0,0,"ryanair abre nuevas rutas desde valencia, alicante, #girona  sevilla ",,,Hawaii,positive,,girona
+947785022991413249,2018-01-01 11:02:13,positive,True,0,0,"@el_universo_hoy nos mueve la pasión por volar , gracias iberia🌜✈️. foto/ @lebribri (francia) #espana #spain ",,,,positive,el_universo_hoy|lebribri,espana|spain
+926520666089762816,2017-11-03 18:45:15,negative,False,0,0,"nada, #iberia  #britishairways me han “perdido” la maleta por 2da vez esta semana. facturé dos,  una no aparece. coincidencia?? #equipaje",,,Madrid,negative,,iberia|britishairways|equipaje
+940830454298628100,2017-12-13 06:27:14,neutral,False,0,0,#ryanair finalizada el año como la compañía aérea que mayor número de pasajeros mueve en españa en un ranking en el… ,,,Hawaii,neutral,,ryanair
+933776653670633479,2017-11-23 19:17:57,neutral,False,0,0,"desde junio 2018, @iberia aumenta de    vuelos semanales ruta #madrid - #riodejaneiro  de   10 frecuencias se… ",,,Quito,neutral,iberia,madrid|riodejaneiro
+944704227485601792,2017-12-23 23:00:14,positive,False,0,0,#depoes | aerolínea iberia le devolvió la bicicleta  ‘supermán’ lópez ,,,,positive,,depoes
+946860195799552000,2017-12-29 21:47:17,neutral,False,0,0,estado #ansiedad cuando cuando ya compraste tu #billete con #iberia @iberia 😁😆😆🛫,,,Buenos Aires,neutral,iberia,ansiedad|billete|iberia
+923177947942522880,2017-10-25 13:22:29,negative,False,0,0,#semana155m4 puto ryanair !!! otro vuelo que cancelan.. ,,,,negative,,semana155m4
+948533718850965504,2018-01-03 12:37:16,negative,False,0,0,después de más de  horas...seguimos esperando en la cola de iberia #terminal4 #iberia #colasinterminables #niebla,,,,negative,,terminal4|iberia|colasinterminables|niebla
+925096914550427648,2017-10-30 20:27:46,negative,False,0,0,han sacado nuestras maletas. empiezan  meter maletas en el avión  seguimos esperando. es frustrante trabajar con tanta presión. 😔 #ryanair,,,London,negative,,ryanair
+948810179876999168,2018-01-04 06:55:49,neutral,False,0,0, por el primero del año! #london @iberia ,,,Madrid,neutral,iberia,london
+945790996071272448,2017-12-26 22:58:40,neutral,False,0,0,última hora: @spanair traslada su sede social  #tabarnia,,,,neutral,spanair,tabarnia
+923553149985714176,2017-10-26 14:13:24,positive,False,0,0,aceada decisión confiar  nuevo en @iberia como siempre fantástico #vigo  @vigoaeropueo ,,,,positive,iberia|vigoaeropueo,vigo
+927960139423940609,2017-11-07 18:05:12,neutral,False,0,0,#holacolombia  disfrutar parseros con @iberia ,,,Central Time (US & Canada),neutral,iberia,holacolombia
+948901616392003584,2018-01-04 12:59:09,negative,False,0,0,"#ryanair vuelve  superarse  sí mismo... cd creíamos  lo había inventado todo, se inventa exigir vinculación de … ",,,Greenland,negative,,ryanair
+940594589341241344,2017-12-12 14:50:00,negative,False,0,0,#ancaapesta esta es la clase de servicio que está desagradable aerolínea presta en vuelos de más de 600 euros … ,,,Bogota,negative,,ancaapesta
+937748172880990208,2017-12-04 18:19:21,negative,True,0,0,"@iberia sería muy buena idea dar 30 kilos de equipaje en vuelos internacionales, en #madrid hay mucho que comprar 👢👠👗👖💄",,,Mexico City,negative,iberia,madrid
+932709633856241666,2017-11-20 20:38:00,positive,True,0,0,@ryanair_es @cristobal2346 #ryanairespaña con ryanair...puedes,,,,positive,ryanair_es|cristobal2346,ryanairespaña
+946757974927794177,2017-12-29 15:01:05,neutral,False,0,0,la matriz de iberia  british airways quiere subirse  bordo de la aerolínea niki #marketing #siguemeytesigo ,,,Bogota,neutral,,marketing|siguemeytesigo
+944789880617558016,2017-12-24 04:40:35,negative,False,0,0,de esto que la cola de check-in de ryanair es más rápida que la de air france #estapasando #vuelveacasavuelvepornavidad,,"Manchester, England",London,negative,,estapasando|vuelveacasavuelvepornavidad
+927324655429419008,2017-11-06 00:00:01,negative,False,0,0,la nueva #tasa de #iag solo afecta inicialmente  sus dos compañías de bandera @british_airways  @iberia… ,,,Amsterdam,negative,british_airways|iberia,tasa|iag
+950439685402308608,2018-01-08 18:50:53,positive,False,0,0,así son las impresionantes vistas cuando despegamos desde #hondarribia @hondarribiaudal @iberia @hondarribiaturi… ,,,Madrid,positive,hondarribiaudal|iberia|hondarribiaturi,hondarribia
+945509297471016961,2017-12-26 04:19:17,negative,False,0,0,#tipicodenavidad @iberia perdió mi maleta hace  días  no saben dónde está. tengo medicamentos que no estoy tomand… ,,,Pacific Time (US & Canada),negative,iberia,tipicodenavidad
+930176611646885889,2017-11-13 20:52:40,negative,False,0,0,per so de #bcnelprat  #sonsantjoan me queda @aireuropa @ryanair  @fly_norwegian. @vueling / @vuelingclients po… ,,,Brussels,negative,aireuropa|ryanair|fly_norwegian|vueling|vuelingclients,bcnelprat|sonsantjoan
+930492279550341120,2017-11-14 17:47:01,positive,False,0,0,¿vienes  visitar #autoretrobcn desde fuera de barcelona? no te pierdas los descuentos en transpoe  alojamiento… ,,,Amsterdam,positive,,autoretrobcn
+944822316273463296,2017-12-24 06:49:28,negative,False,0,0,"#cosasdeaeropueos jar vuelo nacional-internacional,no dejae facturar destino final,por ser residente?? resul… ",,,London,negative,,cosasdeaeropueos
+934085293996691456,2017-11-24 15:44:23,neutral,False,0,0,ejemplo de trabajo #esclavo del siglo xxi!! los #tripulantes son contratados  administrados por agencia de empleo.… ,,,,neutral,,esclavo|tripulantes
+934229112528490497,2017-11-25 01:15:52,negative,False,0,0,#flightdeal albuquerque (abq) - rome (fco) usd 498   iberia ,,,,negative,,flightdeal
+927902712062267392,2017-11-07 14:17:00,positive,True,0,0,@iberia #holaargentina  ver si hay suee  éste año al final tengo vacaciones,,,,positive,iberia,holaargentina
+927913392005935104,2017-11-07 14:59:27,neutral,False,0,0,en @iberia ofrecen un 10% de descuento  los asistentes  #gijónsecome con el código de descuento iigijonsecome ,,,Pacific Time (US & Canada),neutral,iberia,gijónsecome
+932839916396040193,2017-11-21 05:15:42,positive,False,0,0,#lavidamoderna es pillar embarque prioritario en ryanair,,,Pacific Time (US & Canada),positive,,lavidamoderna
+948884796129861633,2018-01-04 11:52:19,negative,False,0,0,"un pasajero, hao de esperar, sale por la puea de emergencia de un avión #vídeo ",,,Madrid,negative,,vídeo
+934063613857366016,2017-11-24 14:18:14,positive,False,0,0,malta #travelthursday ,,,Pacific Time (US & Canada),positive,,travelthursday
+936147906817642496,2017-11-30 08:20:28,neutral,False,0,0,#alvedro | los pasajeros que iban  tomar en #acoruña el vuelo de madrid cancelado por @iberia tendrán que esperar… ,,,Madrid,neutral,iberia,alvedro|acoruña
+943089036826001408,2017-12-19 12:02:02,neutral,False,0,0,cristo de fátima #europa #europe #iberia #iberico #pougal #pouguese #pougues #gorpman… ,"[39.62861111, -8.66527778]","Ourém, Portugal",,neutral,,europa|europe|iberia|iberico|pougal|pouguese|pougues|gorpman
+927270668558888961,2017-11-05 20:25:29,neutral,True,0,0,@iberia #holaargentina quiero jar con @solitafreije,,,Brasilia,neutral,iberia|solitafreije,holaargentina
+934451272434028544,2017-11-25 15:58:39,negative,True,0,0,@sninobecerra es escandaloso...  donde vamos  llegar... #empleo #ryanair #penoso #economia,,,Athens,negative,sninobecerra,empleo|ryanair|penoso|economia
+936969349008711680,2017-12-02 14:44:35,positive,False,0,0,#iberia aumentará  17 sus vuelos semanales desde buenos aires en 2018 ,,,Buenos Aires,positive,,iberia
+927998613317406726,2017-11-07 20:38:05,positive,True,0,0,@iberia #holacolombia espero vee pronto 🍀🍀,,,,positive,iberia,holacolombia
+930666951105564672,2017-11-15 05:21:06,negative,False,0,0,'ryanair' bromea con el aeropueo  nombre de cr7 ¿homenaje  burla? #20m #solceleste #halamadrid,,,Buenos Aires,negative,,solceleste|halamadrid
+940976621040873473,2017-12-13 16:08:03,negative,True,0,0,@luisangelmate @iberia no fallan! es #iberia en estado puro 😂👎🏿,,,Madrid,negative,luisangelmate|iberia,iberia
+923439478559137793,2017-10-26 06:41:43,negative,True,0,0,@iberia  ahora slot de 10 minutos.... #verguenza #indemnizacion #mepasoalave #vivaelave @renfe habéis ganado un nuevo pasajero,,,,negative,iberia|renfe,verguenza|indemnizacion|mepasoalave|vivaelave
+934360020451581953,2017-11-25 09:56:03,positive,False,0,0,retweeted iberia (@iberia): #holacolombia. hola europa. hola  una nueva iberia. ,,,Pacific Time (US & Canada),positive,iberia,holacolombia
+923254909306368000,2017-10-25 18:28:18,negative,False,0,0,la #transformaciondigital es mayor compromiso con el cliente #ia maría jesús moya de @googlecloud iberia paner ,,,Madrid,negative,googlecloud,transformaciondigital|ia
+930463429613285377,2017-11-14 15:52:23,neutral,False,0,0,#ryanair retrasa la implantación de su nueva normativa sobre el #equipaje de mano hasta el 15 de enero vía @bebee_es,,,Madrid,neutral,bebee_es,ryanair|equipaje
+948554888820281345,2018-01-03 14:01:23,negative,False,0,0,"#amazon ¡chollo! maleta aerolite barata por sólo 37,99 euros ➡️ 37,99€ 🖥 #chollo #ofea #ganga",,,Pacific Time (US & Canada),negative,,amazon|chollo|ofea|ganga
+942468251388346368,2017-12-17 18:55:16,positive,True,0,0,@iberia todavía no he tenido el placer pero en cualquier momento me tienen ✈️con @iberia hacia #buenosaires #megustavolar,,,,positive,iberia|iberia,buenosaires|megustavolar
+924088318417137664,2017-10-28 01:39:58,neutral,False,0,0,#miquiosco_com iberia ofrecerá desde noviembre la clase turista premium en sus rutas  lima ,,,Quito,neutral,,miquiosco_com
+941272612369465346,2017-12-14 11:44:13,positive,False,0,0,iberia subasta vuelos para pasar los reyes en disneyland parís #jes #larazon,,,,positive,,jes|larazon
+945750203822469121,2017-12-26 20:16:34,neutral,False,0,0,"cuando ryanair dice: 'vuelo con llegada  valencia, la millor terreta' 😂😂😂 #laterretarules",,,Ljubljana,neutral,,laterretarules
+937015586621706241,2017-12-02 17:48:19,neutral,False,0,0,#staup jaime rodríguez de santiago asume el mercado alemán para blablacar iberia la red… ,,,Europe/Madrid,neutral,,staup
+937633234808164353,2017-12-04 10:42:38,positive,False,0,0,volviendo  casa después de un fin de semana perfecto 💙✈️ gracias @iberia #iberia #airbus #a319 #ation #travel… ,,,,positive,iberia,iberia|airbus|ation|travel
+937409609576435713,2017-12-03 19:54:01,negative,False,0,0,saliendo de madrid... #iberia #sierranoe #lacabrera #takeoff ,,,Belgrade,negative,,iberia|sierranoe|lacabrera|takeoff
+935470924706603008,2017-11-28 11:30:23,positive,False,0,0,#iberia inaugura nuevo espacio #premium en aeropueo de #madrid ,,,,positive,,iberia|premium|madrid
+937603819088830464,2017-12-04 08:45:44,neutral,False,0,0,yo el sábado embarcando en ryanair. #escocia ,,,Madrid,neutral,,escocia
+927278632615194624,2017-11-05 20:57:08,neutral,False,0,0,#primerab final primer tiempo cobresal - iberia,,"Santiago, Chile",Santiago,neutral,,primerab
+933243525692579840,2017-11-22 07:59:30,positive,False,0,0,retweeted cinco días (@cincodiascom): #ryanair se apunta al #blackfriday  ofrece vuelos  menos de cinco euros:... ,,,Greenland,positive,cincodiascom,ryanair|blackfriday
+931117586061938688,2017-11-16 11:11:46,negative,False,0,0,nos das un ? #madres #padres #bebes iberia es multada por solicitar un test de embarazo  candidatas ,,,,negative,,madres|padres|bebes
+941401156277895169,2017-12-14 20:15:00,positive,False,0,0,#holaeuropa @iberia me voy  parís weeee ,,"Bogotá, D.C., Colombia",Central Time (US & Canada),positive,iberia,holaeuropa
+936231172274900992,2017-11-30 13:51:20,positive,True,0,0,@ryanair alicante #travelthursday 🙌🙌🙌🙌,,,Amsterdam,positive,ryanair,travelthursday
+933344323780964354,2017-11-22 14:40:02,negative,False,0,0,iberia lanza vuelos  25 euros con motivo del black #friday ,,,Pacific Time (US & Canada),negative,,friday
+940919424965578752,2017-12-13 12:20:47,negative,False,0,0,pilotos alemanes convocan  la primera huelga de ryanair #noticiasmd vía @dw_espanol ,,,,negative,dw_espanol,noticiasmd
+938092073529544704,2017-12-05 17:05:53,negative,False,0,0,nota mental: no volver  volar con #ryanair nunca nunca nunca nunca nunca nunca nunca nunca nunca nunca nunca nunca… ,,,Madrid,negative,,ryanair
+931459439810502656,2017-11-17 09:50:10,negative,False,0,0,el #ts confirma la #indemnización  los padres de una azafata fallecida en el accidente de @spanair de 2008 ,,,Madrid,negative,spanair,ts|indemnización
+936620114199437314,2017-12-01 15:36:51,neutral,False,0,0,según la revista #ronda @iberia de diciembre en bilbao hay no uno sino ¡dos! rascacielos de ¡más de 80 pisos!  mi… ,,,Madrid,neutral,iberia,ronda
+944549463170998272,2017-12-23 12:45:15,neutral,False,0,0,es muy triste.jamás #iberia dejó de jar  #guineaecuatorial .durante años sin pasajeros pero se mantuvo la línea ,,,Amsterdam,neutral,,iberia|guineaecuatorial
+930184060273610752,2017-11-13 21:22:16,negative,False,0,0,#alboráneh cosas inútiles de la vida atrasar una hora en invierno. el bingo de ryanair. la sección de ana morgade.,,,,negative,,alboráneh
+930414140497321984,2017-11-14 12:36:32,neutral,False,0,0,"#ryanair #bergamo #italia #milan #air en bergamo, italy ","[45.7, 9.6667]","Bérgamo, Lombardía",,neutral,,ryanair|bergamo|italia|milan|air
+923484937398910977,2017-10-26 09:42:21,neutral,False,0,0,comentario en escribe tus relatos de octubre (iv): con una tripulación de iberia  mairenmairenmu por javier…… #re…,,,Madrid,neutral,,re
+944237343803817984,2017-12-22 16:05:00,neutral,False,0,0,🔙 hay que ver más allá de las rutas de #ryanair. te proponemos  mega rutas que has de experimentar ➡️… ,,,London,neutral,,ryanair
+950330659142332416,2018-01-08 11:37:40,negative,False,0,0,vamos  aterrizar en españa  escandina...? / are we about to land in spain or scandina #snow #instagram… ,,,Eastern Time (US & Canada),negative,,snow|instagram
+923255927389802501,2017-10-25 18:32:21,positive,False,0,0,"línea directa, ryanair  la larga lista de empresas que estafan con los 902 √ #menéame",,,Madrid,positive,,menéame
