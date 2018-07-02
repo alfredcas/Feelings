@@ -1,5 +1,8 @@
 var dbCSV = '../data/tweets_public_clean.csv';
+var dbCSVMap = '../data/tweets_public_map.csv';
 var dataCSV = new Array();
+var dataCSVMap = new Array();
+
 window.colors = {
     negative: '#E4523B',
     positive: '#3DB296',
@@ -15,10 +18,19 @@ Papa.parse(dbCSV, {
     complete: function(results) {
         dataCSV = results.data;
         
-        makeMap(dataCSV);
         addPieChart(dataCSV);
         addDateChart(dataCSV);
         addTimeChart(dataCSV);
         addAirlinesChart(dataCSV);
+    }
+});
+
+Papa.parse(dbCSVMap, {
+    header: true,
+    download: true,
+    complete: function(results) {
+        dataCSVMap = results.data;
+        
+        makeMap(dataCSVMap);
     }
 });

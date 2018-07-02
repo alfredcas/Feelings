@@ -1,6 +1,6 @@
 /*Map*/
 function makeMap(df){   
-    var map = L.map('mapid').setView([0,0], 2);
+    var map = L.map('mapid',{zoomControl:false, scrollWheelZoom: false, dragging: false, doubleClickZoom: false}).setView([0,0], 2);
 
     var tiles = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
@@ -11,37 +11,30 @@ function makeMap(df){
     }).addTo(map);
     
     df.forEach(element => {
-        if(element['lat'] != null || element['lon'] != null){
-            var circle = L.circle([element['lat'], element['lon']], {
-                color: colors[element['airline_sentiment']],
-                fillColor: '#f03',
-                fillOpacity: 0.5,
-                radius: 500
-            }).addTo(map);
-            
-            circle['sentiment'] = element['airline_sentiment'];
-            
-            markers.push(circle);
-            
-        }else if(element['tt_lat'] != null || element['tt_lng'] != null){
-            var circle = L.circle([element['tt_lat'], element['tt_lng']], {
-                color: colors[element['airline_sentiment']],
-                fillColor: '#f03',
-                fillOpacity: 0.5,
-                radius: 500
-            }).addTo(map);
-            
-            circle['sentiment'] = element['airline_sentiment'];
-            
-            markers.push(circle);
-        }
+        var circle = L.circle([element['lat'], element['lon']], {
+            color: colors[element['airline_sentiment']],
+            fillColor: '#f03',
+            fillOpacity: 0.5,
+            radius: 500
+        }).addTo(map);
+
+        circle['country'] = element['country'];
+        circle['general'] = element['general'];
+        circle['negative'] = element['negative'];
+        circle['positive'] = element['positive'];
+        circle['neutral'] = element['neutral'];
+        circle['company'] = element['company'];
+        circle['hour'] = element['hour'];
+        circle['date'] = element['date'];
+        circle['dow'] = element['dow'];
+
+        markers.push(circle);
     })
 };
 
 
 /*Pie chart*/
 function addPieChart(df){ 
-    var w = 500;
     window.pieChart = $("#pieChart")[0];
     
     var dataPie = {
@@ -62,8 +55,7 @@ function addPieChart(df){
     };
 
     window.pielayout = {
-        width: w,
-        height: w*0.75,
+        height: 300,
         title: 'Porcentaje de sentimiento de las aerolíneas',
         titlefont: {size: 12},
         xaxis: {showgrid: false, 
@@ -85,7 +77,6 @@ function addPieChart(df){
 
 /*Line charts by date*/
 function addDateChart(df){
-    var w = 500;
     window.dateChart = $("#lineChartDate")[0];
     
     var x = new Array();
@@ -115,8 +106,7 @@ function addDateChart(df){
     };
     
     window.dateLayout = {
-        width: w,
-        height: w/2,
+        height: 300,
         title: 'Tweets según fechas',
         titlefont: {size: 12},
         xaxis: {showgrid: true, 
@@ -168,7 +158,6 @@ function updateDateChart(sentiment){
 
 
 function addTimeChart(df){
-    var w = 500;
     window.timeChart = $("#lineChartTime")[0];
     
     var x = new Array();
@@ -197,8 +186,7 @@ function addTimeChart(df){
     };
     
     window.timeLayout = {
-        width: w,
-        height: w/2,
+        height: 300,
         title: 'Tweets según las horas del día',
         titlefont: {size: 12},
         xaxis: {showgrid: true, 
@@ -249,7 +237,6 @@ function updateTimeChart(sentiment){
 
 
 function addAirlinesChart(df){
-    var w = 500;
     window.airlineChart = $("#barChart")[0];
     
     $('#object').width($('#object').parent().width());
@@ -280,8 +267,7 @@ function addAirlinesChart(df){
     };
     
     window.airlineLayout = {
-        width: w,
-        height: w/2,
+        height: 300,
         title: 'Tweets de las aerolíneas',
         titlefont: {size: 12},
         xaxis: {showgrid: true, 
