@@ -28,10 +28,23 @@ function makeMap(df){
 };
 
 
-function updateMap(sent){
+function updateMap(){
     markers.forEach(element => {
-        element.setStyle({fillColor: colors[sent]});
-        element.setRadius(element[sent]*10000);
+        if(date == 'general'){
+            element.setStyle({fillColor: colors[sentiment]});
+            element.setRadius(element[sentiment]*10000);           
+            
+        }else{
+            if(element.date == date){
+                element.setStyle({fillColor: colors[sentiment], fillOpacity: 0.7});
+                element.setRadius(element[sentiment]*50000); 
+                
+            }else{
+                element.setStyle({fill: false});
+                element.setRadius(0); 
+                
+            }
+        }
     })
 };
 
@@ -57,7 +70,7 @@ function addPieChart(df){
       }
     };
 
-    window.pielayout = {
+    window.pieLayout = {
         height: 300,
         title: 'Porcentaje de sentimiento de las aerolíneas',
         titlefont: {size: 12},
@@ -74,7 +87,7 @@ function addPieChart(df){
         hovermode: 'closest'
     };    
 
-    Plotly.newPlot(pieChart, [pieData], pielayout, {displayModeBar: false});
+    Plotly.newPlot(pieChart, [pieData], pieLayout, {displayModeBar: false});
     
     pieChart.on('plotly_click', function(data){
         sentiment = data['points']['0']['label'];
@@ -144,10 +157,17 @@ function addDateChart(df){
     }; 
     
     Plotly.newPlot(dateChart, [dateData], dateLayout, {displayModeBar: false});
+    
+    dateChart.on('plotly_click', function(data){
+        date = (data['points']['0']['x']).split(' ')[0];
+        
+        updateTimeChart();
+        updateMap();
+    });
 };
 
 
-function updateDateChart(sentiment){
+function updateDateChart(){
     x = [];
     y = [];
     c = colors[sentiment];
@@ -226,14 +246,29 @@ function addTimeChart(df){
 };
 
 
-function updateTimeChart(sentiment){
+function updateTimeChart(){
     x = [];
     y = [];
     c = colors[sentiment];
     
-    var dataFilter = dataCSV.filter(function(el){
-        return el['airline_sentiment'] == sentiment
-    });    
+    if(sentiment != 'general' && date != 'general'){
+        var dataFilter = dataCSV.filter(function(el){
+            return el['airline_sentiment'] == sentiment && el['date'] == date
+        });
+        
+    }else if(sentiment == 'general' && date != 'general'){
+        var dataFilter = dataCSV.filter(function(el){
+            return el['date'] == date
+        });        
+        
+    }else if(sentiment != 'general' && date == 'general'){
+        var dataFilter = dataCSV.filter(function(el){
+            return el['airline_sentiment'] == sentiment
+        });        
+        
+    }else{
+        var dataFilter = dataCSV;
+    };   
     
     dataFilter.forEach(element => {
         x.push(element['hour']);
@@ -308,7 +343,7 @@ function addAirlinesChart(df){
 };
 
 
-function updateAirlinesChart(sentiment){
+function updateAirlinesChart(){
     x = [];
     y = [];
     c = colors[sentiment];
