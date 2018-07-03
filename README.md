@@ -5,9 +5,3 @@ Capstone Project for DataScience UB
 * Tweets for both training and submission can be found in [data](./data).
 * The [model](./model) we used from keras in order to classify the tweets.
 
-To read the Spanish tweets use
-```python
-df = pd.read_csv('tweets_public.csv', encoding='utf-16', index_col='tweet_id', sep=',')
-```
-
-
