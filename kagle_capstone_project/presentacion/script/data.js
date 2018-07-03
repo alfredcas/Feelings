@@ -3,6 +3,9 @@ var dbCSVMap = '../data/tweets_public_map.csv';
 var dataCSV = new Array();
 var dataCSVMap = new Array();
 
+window.sentiment = 'general';
+window.date = 'general';
+
 window.colors = {
     negative: '#E4523B',
     positive: '#3DB296',

@@ -10,11 +10,10 @@ function makeMap(df){
     
     df.forEach(element => {
         var circle = L.circle([element['lat'], element['lon']], {
-            color: '#000000',
             stroke: false,
-            fillColor: '#000000',
+            fillColor: colors[sentiment],
             fillOpacity: 0.3,
-            radius: element['general']*50000,
+            radius: element[sentiment]*10000,
         }).addTo(map);
 
         circle['country'] = element['country'];
@@ -22,11 +21,17 @@ function makeMap(df){
         circle['negative'] = element['negative'];
         circle['positive'] = element['positive'];
         circle['neutral'] = element['neutral'];
-        circle['hour'] = element['hour'];
         circle['date'] = element['date'];
-        circle['dow'] = element['dow'];
 
         markers.push(circle);
+    })
+};
+
+
+function updateMap(sent){
+    markers.forEach(element => {
+        element.setStyle({fillColor: colors[sent]});
+        element.setRadius(element[sent]*10000);
     })
 };
 
@@ -70,6 +75,15 @@ function addPieChart(df){
     };    
 
     Plotly.newPlot(pieChart, [pieData], pielayout, {displayModeBar: false});
+    
+    pieChart.on('plotly_click', function(data){
+        sentiment = data['points']['0']['label'];
+
+        updateDateChart(sentiment);
+        updateTimeChart(sentiment);
+        updateAirlinesChart(sentiment);
+        updateMap(sentiment);
+    });
 };
 
 

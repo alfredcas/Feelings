@@ -10,20 +10,14 @@ $(document).ready(function(){
     $(window).trigger('resize');
     
     $('.btn').click(function(){
-        var txt = $(this).attr('id');
+        sentiment = $(this).attr('id');
         
-        markers.forEach(element => {
-            if(element['sentiment']==txt){
-                element.setStyle({stroke: true, fill: true});
-            }else{
-                element.setStyle({stroke: false, fill: false});
-            }            
-        });    
+        updateMap(sentiment);
         
-        if(txt != 'general'){
-            updateDateChart(txt);
-            updateTimeChart(txt);
-            updateAirlinesChart(txt);   
+        if(sentiment != 'general'){
+            updateDateChart(sentiment);
+            updateTimeChart(sentiment);
+            updateAirlinesChart(sentiment);   
         }else{
             addDateChart(dataCSV);
             addTimeChart(dataCSV);
