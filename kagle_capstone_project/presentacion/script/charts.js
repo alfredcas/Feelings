@@ -5,17 +5,16 @@ function makeMap(df){
     var tiles = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/toner-lite/{z}/{x}/{y}{r}.{ext}', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 	subdomains: 'abcd',
-	minZoom: 0,
-	maxZoom: 20,
 	ext: 'png'
     }).addTo(map);
     
     df.forEach(element => {
         var circle = L.circle([element['lat'], element['lon']], {
-            color: colors[element['airline_sentiment']],
-            fillColor: '#f03',
-            fillOpacity: 0.5,
-            radius: 500
+            color: '#000000',
+            stroke: false,
+            fillColor: '#000000',
+            fillOpacity: 0.3,
+            radius: element['general']*50000,
         }).addTo(map);
 
         circle['country'] = element['country'];
@@ -23,7 +22,6 @@ function makeMap(df){
         circle['negative'] = element['negative'];
         circle['positive'] = element['positive'];
         circle['neutral'] = element['neutral'];
-        circle['company'] = element['company'];
         circle['hour'] = element['hour'];
         circle['date'] = element['date'];
         circle['dow'] = element['dow'];
