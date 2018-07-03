@@ -163,6 +163,7 @@ function addDateChart(df){
         
         updateTimeChart();
         updateMap();
+        updateAirlinesChart();
     });
 };
 
@@ -348,9 +349,28 @@ function updateAirlinesChart(){
     y = [];
     c = colors[sentiment];
     
-    var dataFilter = dataCSV.filter(function(el){
-        return el['airline_sentiment'] == sentiment
-    });    
+    if(sentiment != 'general' && date != 'general'){
+        var dataFilter = dataCSVAirline.filter(function(el){
+            return el['sentiment'] == sentiment && el['date'] == date
+        });
+        
+    }else if(sentiment == 'general' && date != 'general'){
+        var dataFilter = dataCSVAirline.filter(function(el){
+            return el['date'] == date
+        });        
+        
+    }else if(sentiment != 'general' && date == 'general'){
+        var dataFilter = dataCSVAirline.filter(function(el){
+            return el['sentiment'] == sentiment
+        });        
+        
+    }else{
+        var dataFilter = dataCSVAirline;
+    };
+    
+//    var dataFilter = dataCSVAirline.filter(function(el){
+//        return el['sentiment'] == sentiment
+//    });    
     
     dataFilter.forEach(element => {
         x.push(element['airline']);

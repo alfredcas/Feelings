@@ -1,4 +1,21 @@
 /*Boostrap*/
+a {
+    color: black;
+}
+
+dl {
+    padding-left: 10%;
+}
+
+.navbar.center .navbar-inner {
+    text-align: center;
+}
+
+.navbar.center .navbar-inner .nav {
+    display:inline-block;
+    float: none;
+}
+
 .btn-secondary {
     color: rgba(0, 0, 0, 0.25);
     background-color: transparent;

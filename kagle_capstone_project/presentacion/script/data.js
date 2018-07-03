@@ -1,7 +1,9 @@
 var dbCSV = '../data/tweets_public_clean.csv';
 var dbCSVMap = '../data/tweets_public_map.csv';
+var dbCSVAirline = '../data/tweets_public_airline.csv';
 var dataCSV = new Array();
 var dataCSVMap = new Array();
+var dataCSVAirline = new Array();
 
 window.sentiment = 'general';
 window.date = 'general';
@@ -24,7 +26,6 @@ Papa.parse(dbCSV, {
         addPieChart(dataCSV);
         addDateChart(dataCSV);
         addTimeChart(dataCSV);
-        addAirlinesChart(dataCSV);
     }
 });
 
@@ -35,5 +36,15 @@ Papa.parse(dbCSVMap, {
         dataCSVMap = results.data;
         
         makeMap(dataCSVMap);
+    }
+});
+
+Papa.parse(dbCSVAirline, {
+    header: true,
+    download: true,
+    complete: function(results) {
+        dataCSVAirline = results.data;
+        
+        addAirlinesChart(dataCSVAirline);
     }
 });
